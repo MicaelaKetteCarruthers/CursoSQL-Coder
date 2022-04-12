@@ -1,0 +1,7 @@
+id,discount_name,discount_percent,active
+NULL,SpringDeal,0.1,1
+NULL,HolidaySpirit,0.25,0
+NULL,GiftGuide,0.15,1
+NULL,BFContest,0.3,0
+NULL,TakeItAll,0.5,1
+NULL,OverStoked15,0.4,1

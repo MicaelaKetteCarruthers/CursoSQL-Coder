@@ -1,0 +1,2081 @@
+id,ship_date,ship_mode,postal_code,state,shipping_cost,delivery_status
+NULL,2014/09/13,Standard Class,10024,New York,9.45,1
+NULL,2017/11/11,Standard Class,90045,California,9.45,0
+NULL,2016/11/25,Standard Class,47201,Indiana,9.45,1
+NULL,2017/05/24,Standard Class,10550,New York,9.45,1
+NULL,2016/12/17,Standard Class,73071,Oklahoma,9.45,1
+NULL,2017/09/11,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2017/01/05,Standard Class,92804,California,9.45,1
+NULL,2017/07/15,Standard Class,97206,Oregon,9.45,1
+NULL,2015/04/14,First Class,85204,Arizona,19.5,1
+NULL,2017/07/10,Standard Class,75220,Texas,9.45,1
+NULL,2016/09/24,Standard Class,94122,California,9.45,1
+NULL,2014/03/14,Standard Class,48073,Michigan,9.45,1
+NULL,2017/10/05,Standard Class,77506,Texas,9.45,1
+NULL,2014/02/03,Standard Class,10024,New York,9.45,1
+NULL,2017/09/13,Standard Class,60610,Illinois,9.45,1
+NULL,2014/04/15,Standard Class,85301,Arizona,9.45,1
+NULL,2015/09/01,Standard Class,60623,Illinois,9.45,1
+NULL,2017/07/01,Standard Class,91767,California,9.45,1
+NULL,2016/08/28,Second Class,90045,California,12.4,1
+NULL,2016/12/20,Second Class,60610,Illinois,12.4,1
+NULL,2017/06/08,Standard Class,35630,Alabama,9.45,1
+NULL,2015/11/25,Standard Class,10035,New York,9.45,1
+NULL,2016/12/01,Standard Class,90045,California,9.45,1
+NULL,2017/04/15,Standard Class,43130,Ohio,9.45,1
+NULL,2017/04/02,Second Class,10011,New York,12.4,1
+NULL,2015/09/29,First Class,60610,Illinois,19.5,1
+NULL,2015/10/01,Standard Class,90004,California,9.45,1
+NULL,2017/11/20,Standard Class,93727,California,9.45,0
+NULL,2017/07/03,Second Class,92804,California,12.4,1
+NULL,2015/12/21,Second Class,68104,Nebraska,12.4,1
+NULL,2016/07/21,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2017/05/20,Standard Class,94110,California,9.45,1
+NULL,2015/05/16,Same Day,32216,Florida,24.5,1
+NULL,2016/07/02,Standard Class,10024,New York,9.45,1
+NULL,2017/11/24,First Class,19143,Pennsylvania,19.5,0
+NULL,2016/10/17,Standard Class,80013,Colorado,9.45,1
+NULL,2014/09/19,Standard Class,60623,Illinois,9.45,1
+NULL,2015/04/10,Standard Class,28540,North Carolina,9.45,1
+NULL,2014/06/06,Standard Class,30076,Georgia,9.45,1
+NULL,2017/04/12,Standard Class,33614,Florida,9.45,1
+NULL,2015/02/13,Second Class,75220,Texas,12.4,1
+NULL,2017/11/23,Standard Class,42420,Kentucky,9.45,0
+NULL,2017/06/25,Second Class,44105,Ohio,12.4,1
+NULL,2017/03/30,Second Class,75081,Texas,12.4,1
+NULL,2015/12/09,Second Class,19140,Pennsylvania,12.4,1
+NULL,2017/09/05,First Class,92307,California,19.5,1
+NULL,2017/08/28,Second Class,38301,Tennessee,12.4,1
+NULL,2017/12/03,Standard Class,94109,California,9.45,0
+NULL,2017/10/07,Standard Class,98105,Washington,9.45,1
+NULL,2016/11/18,Standard Class,10011,New York,9.45,1
+NULL,2016/07/22,Standard Class,90049,California,9.45,1
+NULL,2016/07/14,Same Day,35810,Alabama,24.5,1
+NULL,2016/10/01,Standard Class,94109,California,9.45,1
+NULL,2015/01/24,Standard Class,60068,Illinois,9.45,1
+NULL,2017/06/27,Standard Class,7109,New Jersey,9.45,1
+NULL,2016/03/01,Second Class,54601,Wisconsin,12.4,1
+NULL,2014/09/13,First Class,10801,New York,19.5,1
+NULL,2017/08/01,Second Class,28540,North Carolina,12.4,1
+NULL,2016/10/01,Second Class,90008,California,12.4,1
+NULL,2015/11/23,Second Class,43055,Ohio,12.4,1
+NULL,2017/03/18,Second Class,98105,Washington,12.4,1
+NULL,2016/12/24,Standard Class,7960,New Jersey,9.45,1
+NULL,2017/10/27,Standard Class,97756,Oregon,9.45,1
+NULL,2014/12/18,First Class,79907,Texas,19.5,1
+NULL,2016/02/23,Second Class,11561,New York,12.4,1
+NULL,2015/09/01,Standard Class,92105,California,9.45,1
+NULL,2017/08/23,Standard Class,60653,Illinois,9.45,1
+NULL,2017/10/08,Standard Class,91104,California,9.45,1
+NULL,2017/12/15,Standard Class,10009,New York,9.45,0
+NULL,2015/12/03,Standard Class,92530,California,9.45,1
+NULL,2015/09/09,Standard Class,97504,Oregon,9.45,1
+NULL,2014/10/31,First Class,90049,California,19.5,1
+NULL,2016/01/12,Standard Class,94601,California,9.45,1
+NULL,2016/07/16,Second Class,77036,Texas,12.4,1
+NULL,2016/06/30,Standard Class,47374,Indiana,9.45,1
+NULL,2014/10/04,Standard Class,10011,New York,9.45,1
+NULL,2015/09/27,Standard Class,98105,Washington,9.45,1
+NULL,2014/05/15,Standard Class,94110,California,9.45,1
+NULL,2014/10/09,Standard Class,98115,Washington,9.45,1
+NULL,2017/12/19,First Class,90008,California,19.5,0
+NULL,2016/09/16,Standard Class,23602,Virginia,9.45,1
+NULL,2017/12/04,Standard Class,78539,Texas,9.45,0
+NULL,2014/11/26,Standard Class,40475,Kentucky,9.45,1
+NULL,2015/10/14,First Class,10035,New York,19.5,1
+NULL,2017/06/23,Standard Class,77095,Texas,9.45,1
+NULL,2017/06/16,First Class,60653,Illinois,19.5,1
+NULL,2017/12/13,Second Class,90004,California,12.4,0
+NULL,2017/05/18,Second Class,85023,Arizona,12.4,1
+NULL,2016/03/01,First Class,10011,New York,19.5,1
+NULL,2015/08/28,Standard Class,41042,Kentucky,9.45,1
+NULL,2017/11/29,First Class,53209,Wisconsin,19.5,0
+NULL,2017/06/15,Standard Class,36830,Alabama,9.45,1
+NULL,2015/09/19,Standard Class,36608,Alabama,9.45,1
+NULL,2017/12/31,First Class,10035,New York,19.5,0
+NULL,2014/11/05,Standard Class,28205,North Carolina,9.45,1
+NULL,2014/04/13,Second Class,33180,Florida,12.4,1
+NULL,2015/04/19,First Class,71203,Louisiana,19.5,1
+NULL,2017/09/08,Second Class,90036,California,12.4,1
+NULL,2017/04/05,Standard Class,10035,New York,9.45,1
+NULL,2016/12/19,Standard Class,92503,California,9.45,1
+NULL,2017/03/13,Standard Class,94110,California,9.45,1
+NULL,2014/09/14,Second Class,19140,Pennsylvania,12.4,1
+NULL,2017/06/30,Same Day,10011,New York,24.5,1
+NULL,2016/09/23,Second Class,7050,New Jersey,12.4,1
+NULL,2017/07/05,Standard Class,89115,Nevada,9.45,1
+NULL,2016/09/09,Second Class,10035,New York,12.4,1
+NULL,2014/04/09,Second Class,22304,Virginia,12.4,1
+NULL,2014/12/23,First Class,46203,Indiana,19.5,1
+NULL,2017/11/24,First Class,19120,Pennsylvania,19.5,0
+NULL,2016/06/11,Standard Class,93309,California,9.45,1
+NULL,2015/12/10,Second Class,77036,Texas,12.4,1
+NULL,2017/09/28,Standard Class,87105,New Mexico,9.45,1
+NULL,2017/10/08,Second Class,10011,New York,12.4,1
+NULL,2014/01/17,First Class,30076,Georgia,19.5,1
+NULL,2017/11/25,Standard Class,91104,California,9.45,0
+NULL,2014/11/26,Standard Class,94110,California,9.45,1
+NULL,2015/12/28,Standard Class,80906,Colorado,9.45,1
+NULL,2017/11/24,Standard Class,38301,Tennessee,9.45,0
+NULL,2014/12/04,Standard Class,10550,New York,9.45,1
+NULL,2016/04/26,Standard Class,60623,Illinois,9.45,1
+NULL,2014/09/17,Standard Class,45014,Ohio,9.45,1
+NULL,2015/12/06,Standard Class,98105,Washington,9.45,1
+NULL,2016/06/15,First Class,19805,Delaware,19.5,1
+NULL,2015/03/31,Standard Class,33142,Florida,9.45,1
+NULL,2017/08/13,Same Day,94122,California,24.5,1
+NULL,2014/05/16,Standard Class,76106,Texas,9.45,1
+NULL,2017/09/14,Standard Class,64055,Missouri,9.45,1
+NULL,2016/07/19,Standard Class,90008,California,9.45,1
+NULL,2014/07/20,Standard Class,60505,Illinois,9.45,1
+NULL,2014/09/21,Standard Class,98103,Washington,9.45,1
+NULL,2016/04/08,Standard Class,85635,Arizona,9.45,1
+NULL,2015/11/09,Standard Class,62301,Illinois,9.45,1
+NULL,2015/03/31,Second Class,92105,California,12.4,1
+NULL,2017/10/13,Standard Class,94110,California,9.45,1
+NULL,2017/12/10,Standard Class,5408,Vermont,9.45,0
+NULL,2017/03/15,Standard Class,92804,California,9.45,1
+NULL,2015/03/02,Standard Class,2908,Rhode Island,9.45,1
+NULL,2016/07/29,Standard Class,39212,Mississippi,9.45,1
+NULL,2017/02/05,Standard Class,50315,Iowa,9.45,1
+NULL,2014/03/06,Second Class,98115,Washington,12.4,1
+NULL,2014/07/01,Standard Class,38671,Mississippi,9.45,1
+NULL,2015/12/16,Standard Class,80906,Colorado,9.45,1
+NULL,2017/12/23,Standard Class,14609,New York,9.45,0
+NULL,2015/10/26,Standard Class,61701,Illinois,9.45,1
+NULL,2014/06/07,Standard Class,84057,Utah,9.45,1
+NULL,2015/01/04,Second Class,19711,Delaware,12.4,1
+NULL,2015/09/08,Standard Class,2038,Massachusetts,9.45,1
+NULL,2017/11/16,Standard Class,10024,New York,9.45,0
+NULL,2017/03/01,Standard Class,90008,California,9.45,1
+NULL,2015/01/01,Second Class,78041,Texas,12.4,1
+NULL,2017/06/04,Standard Class,78550,Texas,9.45,1
+NULL,2014/12/13,Standard Class,77041,Texas,9.45,1
+NULL,2014/05/25,Standard Class,92037,California,9.45,1
+NULL,2016/12/19,First Class,10009,New York,19.5,1
+NULL,2017/02/19,Standard Class,98105,Washington,9.45,1
+NULL,2015/06/19,Standard Class,35601,Alabama,9.45,1
+NULL,2017/03/24,Standard Class,10024,New York,9.45,1
+NULL,2016/04/14,Standard Class,45373,Ohio,9.45,1
+NULL,2016/12/02,Standard Class,6824,Connecticut,9.45,1
+NULL,2017/07/23,Standard Class,13440,New York,9.45,1
+NULL,2017/07/09,Second Class,11561,New York,12.4,1
+NULL,2017/06/29,Standard Class,44312,Ohio,9.45,1
+NULL,2015/09/19,Second Class,10035,New York,12.4,1
+NULL,2017/11/11,Standard Class,75051,Texas,9.45,0
+NULL,2014/04/09,Standard Class,94109,California,9.45,1
+NULL,2017/06/19,First Class,94122,California,19.5,1
+NULL,2015/11/03,First Class,19140,Pennsylvania,19.5,1
+NULL,2017/12/11,Standard Class,10011,New York,9.45,0
+NULL,2016/12/01,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2014/11/25,First Class,77506,Texas,19.5,1
+NULL,2015/11/28,Standard Class,90004,California,9.45,1
+NULL,2017/10/28,Second Class,78207,Texas,12.4,1
+NULL,2017/03/22,First Class,94110,California,19.5,1
+NULL,2017/02/25,Second Class,80027,Colorado,12.4,1
+NULL,2017/12/26,Standard Class,14609,New York,9.45,0
+NULL,2016/11/12,First Class,94122,California,19.5,1
+NULL,2016/06/04,Standard Class,80134,Colorado,9.45,1
+NULL,2016/08/27,First Class,95123,California,19.5,1
+NULL,2015/09/07,Same Day,10011,New York,24.5,1
+NULL,2015/03/12,Standard Class,53142,Wisconsin,9.45,1
+NULL,2015/11/14,Standard Class,2038,Massachusetts,9.45,1
+NULL,2015/11/26,Second Class,77642,Texas,12.4,1
+NULL,2015/02/24,Standard Class,90805,California,9.45,1
+NULL,2016/06/20,First Class,94110,California,19.5,1
+NULL,2014/05/27,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2017/02/23,First Class,92105,California,19.5,1
+NULL,2016/12/17,Standard Class,10024,New York,9.45,1
+NULL,2017/03/20,Standard Class,80219,Colorado,9.45,1
+NULL,2017/12/23,Standard Class,11572,New York,9.45,0
+NULL,2014/11/18,Standard Class,53711,Wisconsin,9.45,1
+NULL,2016/09/23,Standard Class,47201,Indiana,9.45,1
+NULL,2017/10/08,Standard Class,90036,California,9.45,1
+NULL,2015/03/07,Standard Class,47374,Indiana,9.45,1
+NULL,2014/11/24,Same Day,43229,Ohio,24.5,1
+NULL,2017/10/18,Second Class,94110,California,12.4,1
+NULL,2017/10/28,Standard Class,78745,Texas,9.45,1
+NULL,2017/01/16,First Class,80013,Colorado,19.5,1
+NULL,2017/09/23,Standard Class,94122,California,9.45,1
+NULL,2014/06/11,Second Class,60505,Illinois,12.4,1
+NULL,2014/12/30,Standard Class,92024,California,9.45,1
+NULL,2016/03/08,Same Day,85301,Arizona,24.5,1
+NULL,2015/09/30,Standard Class,84057,Utah,9.45,1
+NULL,2015/01/02,Standard Class,94122,California,9.45,1
+NULL,2016/10/23,First Class,43055,Ohio,19.5,1
+NULL,2014/12/10,Standard Class,85234,Arizona,9.45,1
+NULL,2016/03/21,Second Class,80122,Colorado,12.4,1
+NULL,2014/11/04,Standard Class,90049,California,9.45,1
+NULL,2016/05/08,Same Day,44105,Ohio,24.5,1
+NULL,2017/08/17,Standard Class,32839,Florida,9.45,1
+NULL,2016/01/21,Standard Class,31907,Georgia,9.45,1
+NULL,2015/03/23,First Class,53209,Wisconsin,19.5,1
+NULL,2017/06/13,Standard Class,60653,Illinois,9.45,1
+NULL,2016/11/10,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2014/08/24,Same Day,59102,Montana,24.5,1
+NULL,2015/01/02,Standard Class,55016,Minnesota,9.45,1
+NULL,2014/05/20,Standard Class,33710,Florida,9.45,1
+NULL,2017/06/03,First Class,43017,Ohio,19.5,1
+NULL,2017/06/27,Standard Class,44134,Ohio,9.45,1
+NULL,2017/03/18,Second Class,87105,New Mexico,12.4,1
+NULL,2016/02/07,Same Day,22153,Virginia,24.5,1
+NULL,2017/11/19,Standard Class,10035,New York,9.45,0
+NULL,2017/12/20,First Class,90045,California,19.5,0
+NULL,2015/10/04,Standard Class,80013,Colorado,9.45,1
+NULL,2014/09/21,Second Class,77036,Texas,12.4,1
+NULL,2017/12/02,Standard Class,90045,California,9.45,0
+NULL,2014/07/11,Standard Class,90004,California,9.45,1
+NULL,2014/10/03,Standard Class,1841,Massachusetts,9.45,1
+NULL,2017/06/14,Standard Class,32216,Florida,9.45,1
+NULL,2014/02/08,Standard Class,92024,California,9.45,1
+NULL,2016/05/28,Standard Class,89431,Nevada,9.45,1
+NULL,2016/06/17,First Class,94122,California,19.5,1
+NULL,2017/11/12,Standard Class,85023,Arizona,9.45,0
+NULL,2017/09/06,First Class,98115,Washington,19.5,1
+NULL,2016/08/15,Standard Class,90036,California,9.45,1
+NULL,2015/07/15,First Class,77095,Texas,19.5,1
+NULL,2016/04/20,Standard Class,8701,New Jersey,9.45,1
+NULL,2014/11/06,Standard Class,10024,New York,9.45,1
+NULL,2017/12/26,Second Class,29203,South Carolina,12.4,0
+NULL,2014/07/06,Standard Class,7060,New Jersey,9.45,1
+NULL,2016/03/25,First Class,89031,Nevada,19.5,1
+NULL,2017/05/02,First Class,6040,Connecticut,19.5,1
+NULL,2014/05/23,Standard Class,48640,Michigan,9.45,1
+NULL,2017/11/13,Standard Class,7090,New Jersey,9.45,0
+NULL,2017/10/23,Second Class,77095,Texas,12.4,1
+NULL,2017/12/12,Second Class,95207,California,12.4,0
+NULL,2014/02/12,Standard Class,7036,New Jersey,9.45,1
+NULL,2014/09/14,Standard Class,99301,Washington,9.45,1
+NULL,2017/11/26,Second Class,19120,Pennsylvania,12.4,0
+NULL,2017/09/06,Standard Class,98052,Washington,9.45,1
+NULL,2014/08/26,First Class,11572,New York,19.5,1
+NULL,2015/05/08,Standard Class,91911,California,9.45,1
+NULL,2017/12/05,First Class,22901,Virginia,19.5,0
+NULL,2017/04/20,Standard Class,95123,California,9.45,1
+NULL,2017/11/21,Standard Class,92025,California,9.45,0
+NULL,2016/10/18,Standard Class,98115,Washington,9.45,1
+NULL,2017/11/20,Standard Class,33023,Florida,9.45,0
+NULL,2014/10/05,First Class,85281,Arizona,19.5,1
+NULL,2017/09/27,Standard Class,77581,Texas,9.45,1
+NULL,2014/12/21,Standard Class,77340,Texas,9.45,1
+NULL,2016/12/07,Second Class,10024,New York,12.4,1
+NULL,2017/06/18,Standard Class,10035,New York,9.45,1
+NULL,2016/12/08,Standard Class,94122,California,9.45,1
+NULL,2016/02/05,Same Day,30080,Georgia,24.5,1
+NULL,2017/04/29,Standard Class,10024,New York,9.45,1
+NULL,2017/07/15,Standard Class,98031,Washington,9.45,1
+NULL,2016/05/24,Standard Class,34952,Florida,9.45,1
+NULL,2017/10/11,Standard Class,90045,California,9.45,1
+NULL,2016/06/26,Standard Class,75007,Texas,9.45,1
+NULL,2016/10/03,Standard Class,36608,Alabama,9.45,1
+NULL,2016/10/03,First Class,62301,Illinois,19.5,1
+NULL,2015/07/10,Standard Class,10011,New York,9.45,1
+NULL,2014/10/29,Standard Class,33311,Florida,9.45,1
+NULL,2016/12/12,Same Day,44052,Ohio,24.5,1
+NULL,2016/09/12,Standard Class,75081,Texas,9.45,1
+NULL,2016/01/15,Standard Class,93727,California,9.45,1
+NULL,2015/10/18,Standard Class,33311,Florida,9.45,1
+NULL,2016/09/10,Second Class,77036,Texas,12.4,1
+NULL,2014/12/25,Standard Class,98103,Washington,9.45,1
+NULL,2016/04/27,Standard Class,60505,Illinois,9.45,1
+NULL,2014/06/12,Standard Class,37620,Tennessee,9.45,1
+NULL,2016/05/15,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2014/07/03,Second Class,90004,California,12.4,1
+NULL,2014/01/16,Second Class,29464,South Carolina,12.4,1
+NULL,2017/08/22,First Class,94601,California,19.5,1
+NULL,2016/02/11,Second Class,27604,North Carolina,12.4,1
+NULL,2016/11/08,Standard Class,90049,California,9.45,1
+NULL,2016/01/26,Second Class,39503,Mississippi,12.4,1
+NULL,2016/01/03,Second Class,42420,Kentucky,12.4,1
+NULL,2017/11/12,Standard Class,97206,Oregon,9.45,0
+NULL,2014/02/26,Standard Class,47374,Indiana,9.45,1
+NULL,2015/03/05,Same Day,10011,New York,24.5,1
+NULL,2015/09/23,Standard Class,20735,Maryland,9.45,1
+NULL,2017/12/24,First Class,42104,Kentucky,19.5,0
+NULL,2015/12/22,Standard Class,98115,Washington,9.45,1
+NULL,2017/12/03,Same Day,90032,California,24.5,0
+NULL,2015/05/28,Second Class,38401,Tennessee,12.4,1
+NULL,2015/10/11,First Class,94109,California,19.5,1
+NULL,2017/09/09,Second Class,44312,Ohio,12.4,1
+NULL,2017/07/21,Standard Class,60098,Illinois,9.45,1
+NULL,2016/09/22,Standard Class,90036,California,9.45,1
+NULL,2016/11/22,First Class,45231,Ohio,19.5,1
+NULL,2016/04/29,Standard Class,85023,Arizona,9.45,1
+NULL,2016/05/16,Standard Class,23464,Virginia,9.45,1
+NULL,2015/05/12,Standard Class,97301,Oregon,9.45,1
+NULL,2017/04/21,Standard Class,60610,Illinois,9.45,1
+NULL,2017/12/11,Second Class,48234,Michigan,12.4,0
+NULL,2015/12/04,Standard Class,48227,Michigan,9.45,1
+NULL,2016/09/11,First Class,10024,New York,19.5,1
+NULL,2014/12/08,Second Class,77095,Texas,12.4,1
+NULL,2016/07/02,Second Class,60610,Illinois,12.4,1
+NULL,2015/12/08,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2016/11/24,Standard Class,77041,Texas,9.45,1
+NULL,2015/11/04,First Class,97301,Oregon,19.5,1
+NULL,2016/10/03,Standard Class,77340,Texas,9.45,1
+NULL,2014/07/16,Standard Class,90036,California,9.45,1
+NULL,2016/08/08,Standard Class,23434,Virginia,9.45,1
+NULL,2014/11/29,Standard Class,77036,Texas,9.45,1
+NULL,2017/10/30,Second Class,60610,Illinois,12.4,1
+NULL,2017/09/07,Standard Class,94122,California,9.45,1
+NULL,2014/10/20,Second Class,36116,Alabama,12.4,1
+NULL,2015/03/06,Standard Class,98103,Washington,9.45,1
+NULL,2017/03/09,Standard Class,90045,California,9.45,1
+NULL,2016/04/09,First Class,94110,California,19.5,1
+NULL,2014/08/16,Standard Class,92037,California,9.45,1
+NULL,2015/05/30,Standard Class,85023,Arizona,9.45,1
+NULL,2017/12/02,Standard Class,19120,Pennsylvania,9.45,0
+NULL,2017/05/20,Standard Class,98103,Washington,9.45,1
+NULL,2015/03/22,Second Class,10009,New York,12.4,1
+NULL,2014/08/23,Same Day,10009,New York,24.5,1
+NULL,2015/04/08,Standard Class,10009,New York,9.45,1
+NULL,2014/02/18,Standard Class,94521,California,9.45,1
+NULL,2016/11/24,Second Class,43229,Ohio,12.4,1
+NULL,2015/01/02,Standard Class,94110,California,9.45,1
+NULL,2017/11/16,Standard Class,90036,California,9.45,0
+NULL,2014/04/23,Standard Class,90049,California,9.45,1
+NULL,2017/03/12,Standard Class,10035,New York,9.45,1
+NULL,2017/09/15,Second Class,65807,Missouri,12.4,1
+NULL,2017/11/23,Standard Class,22304,Virginia,9.45,0
+NULL,2015/06/15,Standard Class,23666,Virginia,9.45,1
+NULL,2017/11/25,Standard Class,91761,California,9.45,0
+NULL,2014/06/06,Standard Class,8701,New Jersey,9.45,1
+NULL,2016/01/28,Standard Class,7960,New Jersey,9.45,1
+NULL,2017/07/06,Second Class,43130,Ohio,12.4,1
+NULL,2014/02/06,Second Class,98105,Washington,12.4,1
+NULL,2015/07/13,Standard Class,2038,Massachusetts,9.45,1
+NULL,2016/07/27,Second Class,90032,California,12.4,1
+NULL,2015/01/04,Standard Class,65203,Missouri,9.45,1
+NULL,2015/04/15,Standard Class,10009,New York,9.45,1
+NULL,2015/11/17,Standard Class,28540,North Carolina,9.45,1
+NULL,2015/02/22,Standard Class,90004,California,9.45,1
+NULL,2016/07/26,Standard Class,48185,Michigan,9.45,1
+NULL,2015/02/28,First Class,16602,Pennsylvania,19.5,1
+NULL,2017/05/22,Second Class,58103,North Dakota,12.4,1
+NULL,2017/02/28,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2015/11/27,Standard Class,78207,Texas,9.45,1
+NULL,2016/09/22,Standard Class,10035,New York,9.45,1
+NULL,2017/08/19,First Class,13601,New York,19.5,1
+NULL,2014/12/28,First Class,80906,Colorado,19.5,1
+NULL,2016/10/22,First Class,21215,Maryland,19.5,1
+NULL,2014/08/21,Standard Class,72209,Arkansas,9.45,1
+NULL,2015/02/13,Standard Class,98006,Washington,9.45,1
+NULL,2015/09/02,First Class,94122,California,19.5,1
+NULL,2017/11/22,First Class,10035,New York,19.5,0
+NULL,2017/07/07,Standard Class,75023,Texas,9.45,1
+NULL,2016/06/18,First Class,12180,New York,19.5,1
+NULL,2017/12/02,Second Class,10024,New York,12.4,0
+NULL,2016/05/10,First Class,90004,California,19.5,1
+NULL,2015/07/09,Standard Class,33021,Florida,9.45,1
+NULL,2017/11/06,First Class,87401,New Mexico,19.5,0
+NULL,2017/12/20,Standard Class,74133,Oklahoma,9.45,0
+NULL,2017/03/10,Standard Class,48127,Michigan,9.45,1
+NULL,2015/03/20,First Class,98115,Washington,19.5,1
+NULL,2016/08/06,Second Class,95823,California,12.4,1
+NULL,2017/10/26,Standard Class,74133,Oklahoma,9.45,1
+NULL,2015/11/19,Standard Class,19901,Delaware,9.45,1
+NULL,2015/11/13,Standard Class,77095,Texas,9.45,1
+NULL,2015/08/20,Standard Class,92399,California,9.45,1
+NULL,2016/08/04,Standard Class,77070,Texas,9.45,1
+NULL,2017/03/29,Standard Class,78207,Texas,9.45,1
+NULL,2016/04/16,Standard Class,22153,Virginia,9.45,1
+NULL,2016/07/12,Standard Class,80020,Colorado,9.45,1
+NULL,2015/03/18,Second Class,98103,Washington,12.4,1
+NULL,2016/03/08,Standard Class,19711,Delaware,9.45,1
+NULL,2015/05/07,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2014/12/04,First Class,10035,New York,19.5,1
+NULL,2014/11/28,Standard Class,60440,Illinois,9.45,1
+NULL,2014/01/08,Standard Class,60540,Illinois,9.45,1
+NULL,2017/04/14,Standard Class,7060,New Jersey,9.45,1
+NULL,2015/12/27,Standard Class,32114,Florida,9.45,1
+NULL,2016/11/02,Standard Class,8302,New Jersey,9.45,1
+NULL,2014/03/31,Same Day,19120,Pennsylvania,24.5,1
+NULL,2015/04/04,Same Day,48911,Michigan,24.5,1
+NULL,2017/12/30,Standard Class,43229,Ohio,9.45,0
+NULL,2015/03/30,Standard Class,33065,Florida,9.45,1
+NULL,2017/09/21,Second Class,84604,Utah,12.4,1
+NULL,2017/11/21,First Class,78207,Texas,19.5,0
+NULL,2017/05/23,Standard Class,78501,Texas,9.45,1
+NULL,2014/04/24,First Class,19134,Pennsylvania,19.5,1
+NULL,2017/06/01,Standard Class,77070,Texas,9.45,1
+NULL,2016/12/20,Second Class,33319,Florida,12.4,1
+NULL,2014/12/21,Standard Class,32216,Florida,9.45,1
+NULL,2017/02/06,Standard Class,94110,California,9.45,1
+NULL,2017/06/23,Standard Class,90032,California,9.45,1
+NULL,2017/08/22,Standard Class,75220,Texas,9.45,1
+NULL,2017/05/22,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2014/12/11,Second Class,97477,Oregon,12.4,1
+NULL,2014/09/30,Standard Class,77041,Texas,9.45,1
+NULL,2017/06/05,Second Class,43615,Ohio,12.4,1
+NULL,2016/02/18,Standard Class,90045,California,9.45,1
+NULL,2017/08/27,Standard Class,21044,Maryland,9.45,1
+NULL,2016/03/16,Standard Class,11561,New York,9.45,1
+NULL,2014/10/24,Same Day,29730,South Carolina,24.5,1
+NULL,2016/04/26,Standard Class,65109,Missouri,9.45,1
+NULL,2015/03/23,Standard Class,92404,California,9.45,1
+NULL,2016/11/25,Standard Class,14304,New York,9.45,1
+NULL,2015/11/05,Standard Class,10011,New York,9.45,1
+NULL,2015/11/17,Second Class,60653,Illinois,12.4,1
+NULL,2016/06/15,Standard Class,90045,California,9.45,1
+NULL,2014/12/15,Second Class,94601,California,12.4,1
+NULL,2015/05/29,Second Class,28540,North Carolina,12.4,1
+NULL,2017/12/05,Standard Class,75051,Texas,9.45,0
+NULL,2015/07/16,Same Day,94122,California,24.5,1
+NULL,2017/10/03,First Class,10035,New York,19.5,1
+NULL,2017/03/31,First Class,73120,Oklahoma,19.5,1
+NULL,2017/01/04,First Class,28540,North Carolina,19.5,1
+NULL,2016/03/19,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2016/09/10,Second Class,93534,California,12.4,1
+NULL,2017/05/21,Second Class,94109,California,12.4,1
+NULL,2017/10/26,Standard Class,33801,Florida,9.45,1
+NULL,2014/12/15,Second Class,90049,California,12.4,1
+NULL,2016/12/05,Standard Class,20852,Maryland,9.45,1
+NULL,2015/11/19,Standard Class,33317,Florida,9.45,1
+NULL,2016/08/12,First Class,28314,North Carolina,19.5,1
+NULL,2017/10/17,First Class,90045,California,19.5,1
+NULL,2016/06/04,Standard Class,39212,Mississippi,9.45,1
+NULL,2016/03/26,First Class,47374,Indiana,19.5,1
+NULL,2017/08/02,Standard Class,98115,Washington,9.45,1
+NULL,2015/10/24,Standard Class,48227,Michigan,9.45,1
+NULL,2014/06/21,Standard Class,11550,New York,9.45,1
+NULL,2015/05/14,Standard Class,44221,Ohio,9.45,1
+NULL,2017/12/29,Second Class,35810,Alabama,12.4,0
+NULL,2015/07/15,Second Class,10035,New York,12.4,1
+NULL,2016/11/24,Standard Class,73034,Oklahoma,9.45,1
+NULL,2016/09/14,Standard Class,2148,Massachusetts,9.45,1
+NULL,2014/05/22,Second Class,3820,New Hampshire,12.4,1
+NULL,2017/11/10,Second Class,75081,Texas,12.4,0
+NULL,2016/11/26,Standard Class,97030,Oregon,9.45,1
+NULL,2015/10/17,Standard Class,40214,Kentucky,9.45,1
+NULL,2014/05/17,Standard Class,94601,California,9.45,1
+NULL,2015/08/23,Same Day,60440,Illinois,24.5,1
+NULL,2016/12/09,Standard Class,53132,Wisconsin,9.45,1
+NULL,2014/03/19,Standard Class,84321,Utah,9.45,1
+NULL,2014/12/27,Standard Class,10024,New York,9.45,1
+NULL,2017/04/05,Second Class,60623,Illinois,12.4,1
+NULL,2016/04/12,First Class,45503,Ohio,19.5,1
+NULL,2017/08/29,Standard Class,28205,North Carolina,9.45,1
+NULL,2014/06/17,Standard Class,90032,California,9.45,1
+NULL,2016/07/12,Standard Class,33012,Florida,9.45,1
+NULL,2016/07/24,Standard Class,80219,Colorado,9.45,1
+NULL,2016/12/07,First Class,94509,California,19.5,1
+NULL,2016/09/24,Second Class,94109,California,12.4,1
+NULL,2015/02/13,Standard Class,43229,Ohio,9.45,1
+NULL,2016/07/03,Standard Class,94109,California,9.45,1
+NULL,2016/11/06,First Class,90032,California,19.5,1
+NULL,2015/10/09,Standard Class,22153,Virginia,9.45,1
+NULL,2014/02/02,First Class,92691,California,19.5,1
+NULL,2017/08/12,Standard Class,95123,California,9.45,1
+NULL,2014/08/27,Second Class,43229,Ohio,12.4,1
+NULL,2014/11/25,Standard Class,60623,Illinois,9.45,1
+NULL,2014/08/11,Second Class,29203,South Carolina,12.4,1
+NULL,2017/07/02,Standard Class,92105,California,9.45,1
+NULL,2016/09/14,Standard Class,60090,Illinois,9.45,1
+NULL,2016/03/17,Same Day,19711,Delaware,24.5,1
+NULL,2016/03/17,Standard Class,71203,Louisiana,9.45,1
+NULL,2015/11/25,Standard Class,89115,Nevada,9.45,1
+NULL,2016/07/29,Standard Class,43615,Ohio,9.45,1
+NULL,2017/05/18,Standard Class,10035,New York,9.45,1
+NULL,2016/11/12,Second Class,43615,Ohio,12.4,1
+NULL,2017/12/24,Standard Class,10009,New York,9.45,0
+NULL,2017/07/12,First Class,60610,Illinois,19.5,1
+NULL,2015/04/22,Standard Class,47150,Indiana,9.45,1
+NULL,2016/09/07,Second Class,48227,Michigan,12.4,1
+NULL,2014/01/18,Second Class,19134,Pennsylvania,12.4,1
+NULL,2015/11/19,Standard Class,19711,Delaware,9.45,1
+NULL,2014/06/14,Standard Class,90032,California,9.45,1
+NULL,2016/04/24,Second Class,90049,California,12.4,1
+NULL,2016/05/25,Standard Class,94591,California,9.45,1
+NULL,2017/12/26,Standard Class,88220,New Mexico,9.45,0
+NULL,2015/06/30,Standard Class,23223,Virginia,9.45,1
+NULL,2015/07/01,Standard Class,90045,California,9.45,1
+NULL,2014/11/26,First Class,45231,Ohio,19.5,1
+NULL,2014/07/19,Standard Class,57103,South Dakota,9.45,1
+NULL,2014/09/13,Second Class,75701,Texas,12.4,1
+NULL,2017/01/31,Second Class,92627,California,12.4,1
+NULL,2015/02/18,Second Class,90004,California,12.4,1
+NULL,2017/02/14,Second Class,94110,California,12.4,1
+NULL,2017/11/09,Standard Class,10009,New York,9.45,0
+NULL,2016/09/26,Standard Class,33024,Florida,9.45,1
+NULL,2014/03/04,Same Day,29203,South Carolina,24.5,1
+NULL,2016/08/02,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2017/11/06,Standard Class,66212,Kansas,9.45,0
+NULL,2016/10/24,First Class,23223,Virginia,19.5,1
+NULL,2014/11/21,Standard Class,37604,Tennessee,9.45,1
+NULL,2017/10/15,First Class,10009,New York,19.5,1
+NULL,2016/09/02,Same Day,53711,Wisconsin,24.5,1
+NULL,2016/01/17,Standard Class,98115,Washington,9.45,1
+NULL,2017/12/04,Standard Class,19711,Delaware,9.45,0
+NULL,2015/05/07,Standard Class,77095,Texas,9.45,1
+NULL,2017/12/05,First Class,94122,California,19.5,0
+NULL,2016/12/28,First Class,90049,California,19.5,1
+NULL,2016/01/21,Standard Class,3301,New Hampshire,9.45,1
+NULL,2015/07/10,Second Class,28314,North Carolina,12.4,1
+NULL,2014/07/04,Standard Class,77095,Texas,9.45,1
+NULL,2014/10/16,Standard Class,98115,Washington,9.45,1
+NULL,2017/12/21,Standard Class,23320,Virginia,9.45,0
+NULL,2014/09/28,Standard Class,55407,Minnesota,9.45,1
+NULL,2014/07/25,Standard Class,94122,California,9.45,1
+NULL,2016/10/15,Standard Class,45373,Ohio,9.45,1
+NULL,2014/03/09,Standard Class,33063,Florida,9.45,1
+NULL,2017/08/12,Standard Class,11561,New York,9.45,1
+NULL,2017/09/13,Second Class,60623,Illinois,12.4,1
+NULL,2014/05/30,First Class,60653,Illinois,19.5,1
+NULL,2014/06/23,Second Class,22980,Virginia,12.4,1
+NULL,2014/02/02,Standard Class,92037,California,9.45,1
+NULL,2014/09/24,Standard Class,27604,North Carolina,9.45,1
+NULL,2015/05/21,Standard Class,77095,Texas,9.45,1
+NULL,2017/02/28,Second Class,90036,California,12.4,1
+NULL,2017/07/28,Standard Class,10009,New York,9.45,1
+NULL,2017/10/14,Standard Class,60505,Illinois,9.45,1
+NULL,2017/09/10,Standard Class,90032,California,9.45,1
+NULL,2016/07/18,Standard Class,10009,New York,9.45,1
+NULL,2017/10/28,Standard Class,85301,Arizona,9.45,1
+NULL,2014/08/05,Standard Class,28205,North Carolina,9.45,1
+NULL,2017/09/10,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2015/12/31,Standard Class,77041,Texas,9.45,1
+NULL,2014/10/13,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2017/12/12,Standard Class,94110,California,9.45,0
+NULL,2017/09/29,Standard Class,74133,Oklahoma,9.45,1
+NULL,2017/03/26,First Class,93727,California,19.5,1
+NULL,2016/12/10,First Class,75080,Texas,19.5,1
+NULL,2014/05/25,Standard Class,23464,Virginia,9.45,1
+NULL,2017/10/23,Standard Class,60623,Illinois,9.45,1
+NULL,2017/01/04,Standard Class,43229,Ohio,9.45,1
+NULL,2017/08/08,First Class,40475,Kentucky,19.5,1
+NULL,2017/12/04,Standard Class,21215,Maryland,9.45,0
+NULL,2014/05/08,Standard Class,49201,Michigan,9.45,1
+NULL,2014/12/06,Standard Class,78415,Texas,9.45,1
+NULL,2015/09/26,Standard Class,2149,Massachusetts,9.45,1
+NULL,2017/10/07,Standard Class,68025,Nebraska,9.45,1
+NULL,2015/12/26,First Class,23223,Virginia,19.5,1
+NULL,2016/04/17,Second Class,92105,California,12.4,1
+NULL,2017/05/23,Standard Class,10024,New York,9.45,1
+NULL,2017/01/30,Second Class,44240,Ohio,12.4,1
+NULL,2017/12/12,Second Class,94109,California,12.4,0
+NULL,2017/12/29,Standard Class,10024,New York,9.45,0
+NULL,2017/08/23,Second Class,10011,New York,12.4,1
+NULL,2015/11/30,Standard Class,1453,Massachusetts,9.45,1
+NULL,2017/12/11,First Class,77041,Texas,19.5,0
+NULL,2016/05/10,Standard Class,44052,Ohio,9.45,1
+NULL,2017/09/13,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2015/04/28,Standard Class,10009,New York,9.45,1
+NULL,2016/03/13,First Class,55122,Minnesota,19.5,1
+NULL,2014/03/24,Standard Class,55044,Minnesota,9.45,1
+NULL,2017/04/07,Standard Class,10011,New York,9.45,1
+NULL,2017/11/02,Second Class,10035,New York,12.4,0
+NULL,2017/10/04,Standard Class,38109,Tennessee,9.45,1
+NULL,2015/03/27,First Class,61604,Illinois,19.5,1
+NULL,2017/06/21,Second Class,98502,Washington,12.4,1
+NULL,2014/04/08,First Class,19143,Pennsylvania,19.5,1
+NULL,2017/02/20,Standard Class,10035,New York,9.45,1
+NULL,2017/12/05,Standard Class,90008,California,9.45,0
+NULL,2016/11/17,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2016/08/20,Standard Class,32303,Florida,9.45,1
+NULL,2017/07/26,Standard Class,60610,Illinois,9.45,1
+NULL,2017/11/22,Second Class,94110,California,12.4,0
+NULL,2017/02/14,Standard Class,77070,Texas,9.45,1
+NULL,2016/09/14,Second Class,10011,New York,12.4,1
+NULL,2017/04/18,First Class,89015,Nevada,19.5,1
+NULL,2015/12/09,Second Class,90049,California,12.4,1
+NULL,2018/01/02,Standard Class,90049,California,9.45,0
+NULL,2016/06/29,Standard Class,90049,California,9.45,1
+NULL,2015/06/03,Standard Class,98105,Washington,9.45,1
+NULL,2015/06/20,Standard Class,75051,Texas,9.45,1
+NULL,2014/08/09,Standard Class,90004,California,9.45,1
+NULL,2016/10/03,First Class,85023,Arizona,19.5,1
+NULL,2014/05/03,Standard Class,21215,Maryland,9.45,1
+NULL,2015/11/26,Standard Class,76106,Texas,9.45,1
+NULL,2016/02/28,Standard Class,53209,Wisconsin,9.45,1
+NULL,2014/12/03,Standard Class,10035,New York,9.45,1
+NULL,2017/03/10,Standard Class,94109,California,9.45,1
+NULL,2014/07/27,Standard Class,85705,Arizona,9.45,1
+NULL,2014/11/29,Second Class,10009,New York,12.4,1
+NULL,2016/11/06,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2016/05/26,Same Day,76106,Texas,24.5,1
+NULL,2017/12/24,First Class,43615,Ohio,19.5,0
+NULL,2015/01/27,Standard Class,59715,Montana,9.45,1
+NULL,2015/05/17,First Class,19013,Pennsylvania,19.5,1
+NULL,2017/12/04,Standard Class,39212,Mississippi,9.45,0
+NULL,2015/10/07,Second Class,90045,California,12.4,1
+NULL,2014/11/22,Standard Class,19711,Delaware,9.45,1
+NULL,2017/03/23,Standard Class,75701,Texas,9.45,1
+NULL,2017/03/27,Standard Class,74133,Oklahoma,9.45,1
+NULL,2017/12/20,Standard Class,98115,Washington,9.45,0
+NULL,2017/12/27,Second Class,2908,Rhode Island,12.4,0
+NULL,2015/12/16,Second Class,31907,Georgia,12.4,1
+NULL,2017/01/30,Standard Class,30080,Georgia,9.45,1
+NULL,2016/03/16,Second Class,10024,New York,12.4,1
+NULL,2017/11/27,Standard Class,60610,Illinois,9.45,0
+NULL,2016/06/06,First Class,22153,Virginia,19.5,1
+NULL,2015/12/08,Standard Class,98103,Washington,9.45,1
+NULL,2016/11/14,Standard Class,65807,Missouri,9.45,1
+NULL,2016/11/22,Standard Class,77506,Texas,9.45,1
+NULL,2016/03/03,Same Day,94110,California,24.5,1
+NULL,2017/11/30,Same Day,43615,Ohio,24.5,0
+NULL,2015/12/29,Standard Class,85023,Arizona,9.45,1
+NULL,2014/12/30,Second Class,90004,California,12.4,1
+NULL,2016/09/22,First Class,19140,Pennsylvania,19.5,1
+NULL,2016/09/28,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2014/11/12,Standard Class,54401,Wisconsin,9.45,1
+NULL,2017/11/16,Standard Class,50322,Iowa,9.45,0
+NULL,2015/09/29,Second Class,19143,Pennsylvania,12.4,1
+NULL,2016/09/25,Standard Class,10801,New York,9.45,1
+NULL,2015/09/19,Standard Class,84604,Utah,9.45,1
+NULL,2017/12/25,First Class,48227,Michigan,19.5,0
+NULL,2017/10/26,Standard Class,27217,North Carolina,9.45,1
+NULL,2017/06/12,First Class,85345,Arizona,19.5,1
+NULL,2015/06/18,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2016/05/05,Standard Class,75081,Texas,9.45,1
+NULL,2014/12/03,First Class,53711,Wisconsin,19.5,1
+NULL,2015/08/17,Standard Class,30062,Georgia,9.45,1
+NULL,2016/04/12,Standard Class,10035,New York,9.45,1
+NULL,2014/11/27,Standard Class,75150,Texas,9.45,1
+NULL,2015/12/15,Standard Class,32216,Florida,9.45,1
+NULL,2017/09/11,Standard Class,33311,Florida,9.45,1
+NULL,2017/09/08,Standard Class,11561,New York,9.45,1
+NULL,2014/12/21,Second Class,35630,Alabama,12.4,1
+NULL,2015/07/27,Standard Class,10009,New York,9.45,1
+NULL,2014/03/26,Second Class,90036,California,12.4,1
+NULL,2016/09/04,First Class,94110,California,19.5,1
+NULL,2016/11/01,Second Class,23666,Virginia,12.4,1
+NULL,2015/06/03,Standard Class,98105,Washington,9.45,1
+NULL,2014/10/03,Standard Class,7601,New Jersey,9.45,1
+NULL,2016/03/21,Second Class,38109,Tennessee,12.4,1
+NULL,2016/08/10,Second Class,75081,Texas,12.4,1
+NULL,2015/11/10,Standard Class,76117,Texas,9.45,1
+NULL,2015/01/08,Standard Class,77520,Texas,9.45,1
+NULL,2014/11/30,Second Class,11520,New York,12.4,1
+NULL,2016/09/13,Second Class,19143,Pennsylvania,12.4,1
+NULL,2017/03/27,First Class,10009,New York,19.5,1
+NULL,2017/09/29,Same Day,44060,Ohio,24.5,1
+NULL,2017/09/26,First Class,33178,Florida,19.5,1
+NULL,2016/11/19,Second Class,19134,Pennsylvania,12.4,1
+NULL,2017/09/27,Standard Class,80027,Colorado,9.45,1
+NULL,2017/04/04,First Class,31907,Georgia,19.5,1
+NULL,2017/11/20,First Class,92683,California,19.5,0
+NULL,2017/07/06,Second Class,77041,Texas,12.4,1
+NULL,2014/11/07,Standard Class,10009,New York,9.45,1
+NULL,2016/10/04,Same Day,75056,Texas,24.5,1
+NULL,2015/09/05,First Class,6010,Connecticut,19.5,1
+NULL,2017/11/09,Standard Class,55122,Minnesota,9.45,0
+NULL,2015/12/16,Standard Class,49201,Michigan,9.45,1
+NULL,2014/05/10,Standard Class,90049,California,9.45,1
+NULL,2016/07/22,Standard Class,65807,Missouri,9.45,1
+NULL,2015/06/12,First Class,33801,Florida,19.5,1
+NULL,2014/08/24,Standard Class,43229,Ohio,9.45,1
+NULL,2016/01/20,Second Class,90049,California,12.4,1
+NULL,2015/02/06,Standard Class,90049,California,9.45,1
+NULL,2017/11/21,First Class,27217,North Carolina,19.5,0
+NULL,2017/09/17,Second Class,2149,Massachusetts,12.4,1
+NULL,2017/08/05,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2016/11/17,Standard Class,27360,North Carolina,9.45,1
+NULL,2015/06/23,Standard Class,90032,California,9.45,1
+NULL,2016/06/12,First Class,19140,Pennsylvania,19.5,1
+NULL,2014/10/17,First Class,44134,Ohio,19.5,1
+NULL,2017/07/25,Standard Class,57103,South Dakota,9.45,1
+NULL,2017/06/28,Standard Class,92646,California,9.45,1
+NULL,2016/05/23,Standard Class,6457,Connecticut,9.45,1
+NULL,2015/04/07,Standard Class,75220,Texas,9.45,1
+NULL,2017/04/11,First Class,32216,Florida,19.5,1
+NULL,2016/03/14,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2015/12/04,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2016/09/30,Standard Class,85023,Arizona,9.45,1
+NULL,2015/11/04,Standard Class,49201,Michigan,9.45,1
+NULL,2017/09/10,Same Day,10024,New York,24.5,1
+NULL,2015/06/23,Standard Class,85345,Arizona,9.45,1
+NULL,2016/07/21,Standard Class,84604,Utah,9.45,1
+NULL,2014/04/17,Second Class,19140,Pennsylvania,12.4,1
+NULL,2015/10/01,Standard Class,92037,California,9.45,1
+NULL,2016/07/27,Standard Class,18103,Pennsylvania,9.45,1
+NULL,2015/08/05,Second Class,2908,Rhode Island,12.4,1
+NULL,2017/11/18,Standard Class,98103,Washington,9.45,0
+NULL,2017/11/12,Second Class,94513,California,12.4,0
+NULL,2016/03/08,Second Class,33180,Florida,12.4,1
+NULL,2014/02/21,Standard Class,75220,Texas,9.45,1
+NULL,2017/12/20,Standard Class,60653,Illinois,9.45,0
+NULL,2015/09/11,Standard Class,79907,Texas,9.45,1
+NULL,2017/09/08,Second Class,60653,Illinois,12.4,1
+NULL,2017/11/17,Standard Class,43229,Ohio,9.45,0
+NULL,2017/02/21,Second Class,30076,Georgia,12.4,1
+NULL,2017/11/30,Standard Class,43229,Ohio,9.45,0
+NULL,2017/04/18,First Class,35244,Alabama,19.5,1
+NULL,2017/12/13,Standard Class,60653,Illinois,9.45,0
+NULL,2016/05/24,Standard Class,94110,California,9.45,1
+NULL,2017/04/15,Second Class,2908,Rhode Island,12.4,1
+NULL,2015/12/07,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2015/07/27,Standard Class,60035,Illinois,9.45,1
+NULL,2015/06/25,Second Class,98502,Washington,12.4,1
+NULL,2014/09/13,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2015/05/16,Standard Class,80027,Colorado,9.45,1
+NULL,2014/10/03,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2014/12/12,Same Day,78207,Texas,24.5,1
+NULL,2017/02/09,First Class,22204,Virginia,19.5,1
+NULL,2017/09/08,Standard Class,93309,California,9.45,1
+NULL,2014/07/02,First Class,60653,Illinois,19.5,1
+NULL,2014/09/12,Standard Class,11561,New York,9.45,1
+NULL,2017/05/07,Standard Class,7090,New Jersey,9.45,1
+NULL,2015/03/12,First Class,78207,Texas,19.5,1
+NULL,2015/12/25,Standard Class,60623,Illinois,9.45,1
+NULL,2015/12/16,Second Class,97206,Oregon,12.4,1
+NULL,2017/10/19,Second Class,92037,California,12.4,1
+NULL,2014/08/25,Second Class,44107,Ohio,12.4,1
+NULL,2014/08/30,Standard Class,90032,California,9.45,1
+NULL,2016/02/24,Standard Class,10035,New York,9.45,1
+NULL,2014/07/18,Same Day,85705,Arizona,24.5,1
+NULL,2014/11/12,Standard Class,94110,California,9.45,1
+NULL,2014/09/29,Standard Class,94109,California,9.45,1
+NULL,2017/09/25,Standard Class,31907,Georgia,9.45,1
+NULL,2017/12/02,Standard Class,10035,New York,9.45,0
+NULL,2015/07/13,Standard Class,75220,Texas,9.45,1
+NULL,2017/12/23,Same Day,94109,California,24.5,0
+NULL,2016/08/21,Standard Class,80013,Colorado,9.45,1
+NULL,2017/11/05,Standard Class,94122,California,9.45,0
+NULL,2014/11/09,First Class,77041,Texas,19.5,1
+NULL,2015/11/26,Standard Class,2169,Massachusetts,9.45,1
+NULL,2015/11/14,Standard Class,84084,Utah,9.45,1
+NULL,2016/12/03,Standard Class,32137,Florida,9.45,1
+NULL,2017/07/04,Standard Class,13601,New York,9.45,1
+NULL,2017/02/13,First Class,20735,Maryland,19.5,1
+NULL,2016/03/30,Standard Class,10011,New York,9.45,1
+NULL,2017/11/27,First Class,94110,California,19.5,0
+NULL,2016/04/21,Standard Class,28052,North Carolina,9.45,1
+NULL,2017/09/30,Standard Class,94122,California,9.45,1
+NULL,2016/11/27,Second Class,21215,Maryland,12.4,1
+NULL,2014/12/19,Second Class,31907,Georgia,12.4,1
+NULL,2015/06/16,Standard Class,71203,Louisiana,9.45,1
+NULL,2017/11/03,Second Class,98226,Washington,12.4,0
+NULL,2017/10/08,Standard Class,10035,New York,9.45,1
+NULL,2014/04/10,First Class,36608,Alabama,19.5,1
+NULL,2015/07/26,Second Class,14609,New York,12.4,1
+NULL,2016/12/30,First Class,60505,Illinois,19.5,1
+NULL,2015/11/24,Standard Class,94601,California,9.45,1
+NULL,2017/02/14,Standard Class,92677,California,9.45,1
+NULL,2016/04/26,First Class,43130,Ohio,19.5,1
+NULL,2017/07/13,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2016/10/21,Standard Class,73120,Oklahoma,9.45,1
+NULL,2017/09/12,Standard Class,97206,Oregon,9.45,1
+NULL,2014/05/27,Same Day,92105,California,24.5,1
+NULL,2015/05/03,Standard Class,20016,District of Columbia,9.45,1
+NULL,2016/11/26,First Class,10035,New York,19.5,1
+NULL,2016/11/17,Standard Class,60623,Illinois,9.45,1
+NULL,2015/04/10,Standard Class,77041,Texas,9.45,1
+NULL,2017/08/04,Second Class,93905,California,12.4,1
+NULL,2015/12/26,First Class,14609,New York,19.5,1
+NULL,2016/11/16,Standard Class,10011,New York,9.45,1
+NULL,2017/11/23,Standard Class,78521,Texas,9.45,0
+NULL,2016/07/23,Second Class,75217,Texas,12.4,1
+NULL,2014/08/29,First Class,22153,Virginia,19.5,1
+NULL,2014/07/29,Second Class,94122,California,12.4,1
+NULL,2016/12/06,First Class,42071,Kentucky,19.5,1
+NULL,2016/03/16,First Class,98103,Washington,19.5,1
+NULL,2015/09/30,Standard Class,85204,Arizona,9.45,1
+NULL,2016/04/16,Standard Class,93309,California,9.45,1
+NULL,2017/06/29,Second Class,98115,Washington,12.4,1
+NULL,2017/07/04,First Class,27217,North Carolina,19.5,1
+NULL,2015/07/31,Same Day,10024,New York,24.5,1
+NULL,2015/06/02,First Class,95123,California,19.5,1
+NULL,2017/11/18,Second Class,77095,Texas,12.4,0
+NULL,2015/06/25,First Class,60505,Illinois,19.5,1
+NULL,2017/04/10,Same Day,78745,Texas,24.5,1
+NULL,2014/10/03,Standard Class,28314,North Carolina,9.45,1
+NULL,2016/11/14,Standard Class,10011,New York,9.45,1
+NULL,2014/09/03,Same Day,10009,New York,24.5,1
+NULL,2015/10/09,Standard Class,19601,Pennsylvania,9.45,1
+NULL,2017/10/25,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2016/01/05,First Class,90045,California,19.5,1
+NULL,2015/12/01,Standard Class,90049,California,9.45,1
+NULL,2017/11/10,Second Class,55407,Minnesota,12.4,0
+NULL,2016/06/13,Standard Class,60610,Illinois,9.45,1
+NULL,2015/03/29,Standard Class,77095,Texas,9.45,1
+NULL,2017/10/23,Standard Class,1841,Massachusetts,9.45,1
+NULL,2015/12/15,Second Class,90036,California,12.4,1
+NULL,2014/09/22,First Class,68104,Nebraska,19.5,1
+NULL,2014/03/19,Standard Class,23320,Virginia,9.45,1
+NULL,2014/11/16,Second Class,6824,Connecticut,12.4,1
+NULL,2014/08/08,Standard Class,10035,New York,9.45,1
+NULL,2017/10/01,First Class,80013,Colorado,19.5,1
+NULL,2016/10/21,Standard Class,84106,Utah,9.45,1
+NULL,2016/11/01,Second Class,10009,New York,12.4,1
+NULL,2014/11/11,Standard Class,90045,California,9.45,1
+NULL,2017/03/02,Standard Class,60623,Illinois,9.45,1
+NULL,2016/11/10,Second Class,90004,California,12.4,1
+NULL,2016/12/05,First Class,10024,New York,19.5,1
+NULL,2014/06/28,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2017/11/07,Standard Class,30318,Georgia,9.45,0
+NULL,2017/09/03,Standard Class,98105,Washington,9.45,1
+NULL,2017/10/06,Standard Class,48183,Michigan,9.45,1
+NULL,2016/07/31,Standard Class,92627,California,9.45,1
+NULL,2017/07/07,Standard Class,31907,Georgia,9.45,1
+NULL,2015/12/24,Second Class,98103,Washington,12.4,1
+NULL,2018/01/05,Standard Class,47201,Indiana,9.45,0
+NULL,2015/10/15,Same Day,48858,Michigan,24.5,1
+NULL,2017/11/24,Standard Class,90049,California,9.45,0
+NULL,2017/02/08,Standard Class,33024,Florida,9.45,1
+NULL,2014/08/09,Second Class,84062,Utah,12.4,1
+NULL,2014/09/12,Second Class,1852,Massachusetts,12.4,1
+NULL,2017/09/13,First Class,1841,Massachusetts,19.5,1
+NULL,2015/08/31,Standard Class,92563,California,9.45,1
+NULL,2016/01/13,Second Class,45503,Ohio,12.4,1
+NULL,2017/10/14,First Class,94110,California,19.5,1
+NULL,2015/07/17,Second Class,60610,Illinois,12.4,1
+NULL,2014/10/15,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2016/07/16,Standard Class,85204,Arizona,9.45,1
+NULL,2017/07/21,Standard Class,90036,California,9.45,1
+NULL,2015/09/24,First Class,77041,Texas,19.5,1
+NULL,2014/08/02,Standard Class,89031,Nevada,9.45,1
+NULL,2017/04/17,First Class,22204,Virginia,19.5,1
+NULL,2016/04/13,Standard Class,98103,Washington,9.45,1
+NULL,2016/10/14,Standard Class,77070,Texas,9.45,1
+NULL,2014/11/08,Standard Class,60610,Illinois,9.45,1
+NULL,2017/08/28,Standard Class,55044,Minnesota,9.45,1
+NULL,2014/08/15,Standard Class,98105,Washington,9.45,1
+NULL,2017/01/27,Standard Class,49201,Michigan,9.45,1
+NULL,2015/12/10,Standard Class,10009,New York,9.45,1
+NULL,2015/07/01,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2014/11/30,Standard Class,98103,Washington,9.45,1
+NULL,2014/05/15,First Class,53209,Wisconsin,19.5,1
+NULL,2017/10/24,First Class,10024,New York,19.5,1
+NULL,2014/12/08,Standard Class,10024,New York,9.45,1
+NULL,2016/06/15,First Class,35601,Alabama,19.5,1
+NULL,2017/04/05,First Class,60653,Illinois,19.5,1
+NULL,2017/11/06,Standard Class,98115,Washington,9.45,0
+NULL,2014/09/24,Standard Class,28205,North Carolina,9.45,1
+NULL,2017/01/18,Standard Class,37604,Tennessee,9.45,1
+NULL,2017/02/02,Standard Class,60653,Illinois,9.45,1
+NULL,2016/06/07,First Class,1852,Massachusetts,19.5,1
+NULL,2015/01/05,Standard Class,79907,Texas,9.45,1
+NULL,2015/06/14,First Class,90004,California,19.5,1
+NULL,2017/01/27,Standard Class,59405,Montana,9.45,1
+NULL,2014/11/30,Standard Class,76017,Texas,9.45,1
+NULL,2015/12/20,First Class,19143,Pennsylvania,19.5,1
+NULL,2017/07/14,Standard Class,60505,Illinois,9.45,1
+NULL,2014/09/24,Second Class,33433,Florida,12.4,1
+NULL,2015/11/13,Standard Class,65807,Missouri,9.45,1
+NULL,2014/05/18,Standard Class,13601,New York,9.45,1
+NULL,2014/09/30,Standard Class,98115,Washington,9.45,1
+NULL,2015/09/21,Same Day,2169,Massachusetts,24.5,1
+NULL,2015/03/26,Standard Class,75007,Texas,9.45,1
+NULL,2016/05/23,First Class,2886,Rhode Island,19.5,1
+NULL,2014/07/27,Standard Class,10024,New York,9.45,1
+NULL,2017/06/06,Standard Class,44052,Ohio,9.45,1
+NULL,2016/06/13,Second Class,10035,New York,12.4,1
+NULL,2014/03/08,Standard Class,10035,New York,9.45,1
+NULL,2016/11/27,Standard Class,77095,Texas,9.45,1
+NULL,2014/04/05,Standard Class,94122,California,9.45,1
+NULL,2015/03/17,Standard Class,33317,Florida,9.45,1
+NULL,2015/08/22,Standard Class,85023,Arizona,9.45,1
+NULL,2016/03/23,Standard Class,2148,Massachusetts,9.45,1
+NULL,2015/07/09,Standard Class,40475,Kentucky,9.45,1
+NULL,2014/06/25,Standard Class,8701,New Jersey,9.45,1
+NULL,2017/12/24,Second Class,94110,California,12.4,0
+NULL,2016/08/05,First Class,61604,Illinois,19.5,1
+NULL,2016/04/01,First Class,6360,Connecticut,19.5,1
+NULL,2017/11/26,Second Class,29483,South Carolina,12.4,0
+NULL,2017/09/10,Same Day,90004,California,24.5,1
+NULL,2016/12/17,Standard Class,98105,Washington,9.45,1
+NULL,2017/10/11,Standard Class,77036,Texas,9.45,1
+NULL,2017/09/01,Standard Class,31907,Georgia,9.45,1
+NULL,2016/04/14,Second Class,48227,Michigan,12.4,1
+NULL,2016/11/26,Second Class,75217,Texas,12.4,1
+NULL,2017/07/14,Second Class,31907,Georgia,12.4,1
+NULL,2014/04/05,First Class,90008,California,19.5,1
+NULL,2017/05/08,Standard Class,23602,Virginia,9.45,1
+NULL,2016/05/11,Standard Class,10009,New York,9.45,1
+NULL,2014/09/13,Standard Class,23320,Virginia,9.45,1
+NULL,2014/04/12,Standard Class,29203,South Carolina,9.45,1
+NULL,2016/12/13,Standard Class,76106,Texas,9.45,1
+NULL,2014/08/05,Second Class,85301,Arizona,12.4,1
+NULL,2017/08/26,Second Class,32303,Florida,12.4,1
+NULL,2015/12/17,Standard Class,21215,Maryland,9.45,1
+NULL,2014/11/27,Standard Class,31907,Georgia,9.45,1
+NULL,2015/10/13,Standard Class,22153,Virginia,9.45,1
+NULL,2015/11/30,First Class,75002,Texas,19.5,1
+NULL,2014/08/23,Standard Class,77095,Texas,9.45,1
+NULL,2016/11/07,Standard Class,60610,Illinois,9.45,1
+NULL,2017/05/19,Standard Class,98103,Washington,9.45,1
+NULL,2014/12/13,Standard Class,97301,Oregon,9.45,1
+NULL,2017/10/02,First Class,95123,California,19.5,1
+NULL,2017/09/11,Standard Class,90032,California,9.45,1
+NULL,2017/06/21,Second Class,41042,Kentucky,12.4,1
+NULL,2016/09/27,Standard Class,45014,Ohio,9.45,1
+NULL,2017/09/30,Standard Class,33023,Florida,9.45,1
+NULL,2017/03/21,Second Class,93534,California,12.4,1
+NULL,2014/05/29,First Class,84107,Utah,19.5,1
+NULL,2014/03/22,Same Day,46368,Indiana,24.5,1
+NULL,2016/11/29,Second Class,60623,Illinois,12.4,1
+NULL,2016/12/02,Standard Class,98105,Washington,9.45,1
+NULL,2016/09/03,First Class,10009,New York,19.5,1
+NULL,2015/02/23,Second Class,88001,New Mexico,12.4,1
+NULL,2017/12/15,Standard Class,46203,Indiana,9.45,0
+NULL,2015/08/26,Standard Class,10009,New York,9.45,1
+NULL,2016/12/31,Standard Class,90004,California,9.45,1
+NULL,2015/06/20,Standard Class,85234,Arizona,9.45,1
+NULL,2014/07/17,Standard Class,94122,California,9.45,1
+NULL,2016/04/28,Standard Class,28205,North Carolina,9.45,1
+NULL,2015/08/16,Standard Class,55122,Minnesota,9.45,1
+NULL,2016/07/06,First Class,90049,California,19.5,1
+NULL,2014/01/14,First Class,19901,Delaware,19.5,1
+NULL,2017/10/24,Second Class,80525,Colorado,12.4,1
+NULL,2016/11/01,Standard Class,90032,California,9.45,1
+NULL,2015/09/09,Standard Class,94122,California,9.45,1
+NULL,2017/10/22,Same Day,73505,Oklahoma,24.5,1
+NULL,2015/03/26,First Class,29501,South Carolina,19.5,1
+NULL,2017/12/21,Standard Class,22204,Virginia,9.45,0
+NULL,2017/12/08,First Class,47201,Indiana,19.5,0
+NULL,2014/06/26,First Class,28027,North Carolina,19.5,1
+NULL,2014/05/29,Standard Class,60623,Illinois,9.45,1
+NULL,2017/11/18,Standard Class,78745,Texas,9.45,0
+NULL,2016/09/06,Standard Class,10024,New York,9.45,1
+NULL,2016/04/12,Standard Class,90032,California,9.45,1
+NULL,2016/08/27,Standard Class,97030,Oregon,9.45,1
+NULL,2015/09/15,Same Day,33065,Florida,24.5,1
+NULL,2017/11/29,First Class,61107,Illinois,19.5,0
+NULL,2014/06/24,First Class,10024,New York,19.5,1
+NULL,2016/06/29,Standard Class,92024,California,9.45,1
+NULL,2014/10/29,Standard Class,91730,California,9.45,1
+NULL,2015/12/09,First Class,98105,Washington,19.5,1
+NULL,2017/10/28,First Class,94110,California,19.5,1
+NULL,2017/08/03,Standard Class,78745,Texas,9.45,1
+NULL,2015/09/09,Standard Class,92105,California,9.45,1
+NULL,2015/05/05,Standard Class,77095,Texas,9.45,1
+NULL,2016/11/16,Second Class,94110,California,12.4,1
+NULL,2017/08/01,Standard Class,94110,California,9.45,1
+NULL,2015/10/02,Standard Class,97206,Oregon,9.45,1
+NULL,2015/11/06,Standard Class,90004,California,9.45,1
+NULL,2016/04/12,Standard Class,77041,Texas,9.45,1
+NULL,2017/03/16,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2015/11/06,Standard Class,10009,New York,9.45,1
+NULL,2014/09/12,Second Class,74133,Oklahoma,12.4,1
+NULL,2017/09/20,First Class,76017,Texas,19.5,1
+NULL,2014/12/05,Standard Class,94122,California,9.45,1
+NULL,2016/11/16,Second Class,30318,Georgia,12.4,1
+NULL,2016/12/13,Second Class,60610,Illinois,12.4,1
+NULL,2015/10/20,First Class,3301,New Hampshire,19.5,1
+NULL,2016/07/14,Standard Class,75081,Texas,9.45,1
+NULL,2017/12/09,Standard Class,98006,Washington,9.45,0
+NULL,2017/04/19,Standard Class,10024,New York,9.45,1
+NULL,2016/12/14,Standard Class,94110,California,9.45,1
+NULL,2014/07/18,Standard Class,98115,Washington,9.45,1
+NULL,2015/08/12,First Class,10024,New York,19.5,1
+NULL,2015/11/02,Second Class,80219,Colorado,12.4,1
+NULL,2017/11/29,Standard Class,17602,Pennsylvania,9.45,0
+NULL,2015/11/09,Standard Class,28110,North Carolina,9.45,1
+NULL,2014/08/15,Standard Class,92024,California,9.45,1
+NULL,2017/10/24,Second Class,94110,California,12.4,1
+NULL,2016/09/10,First Class,10011,New York,19.5,1
+NULL,2015/04/02,Standard Class,90036,California,9.45,1
+NULL,2016/11/26,Standard Class,48205,Michigan,9.45,1
+NULL,2017/06/10,Same Day,19143,Pennsylvania,24.5,1
+NULL,2015/09/18,Standard Class,90045,California,9.45,1
+NULL,2016/11/09,Standard Class,77036,Texas,9.45,1
+NULL,2017/06/20,First Class,60076,Illinois,19.5,1
+NULL,2017/09/05,Second Class,10009,New York,12.4,1
+NULL,2017/07/06,Standard Class,10024,New York,9.45,1
+NULL,2016/03/17,Same Day,21044,Maryland,24.5,1
+NULL,2015/06/01,Standard Class,11520,New York,9.45,1
+NULL,2015/06/17,Standard Class,19711,Delaware,9.45,1
+NULL,2017/02/13,Second Class,98105,Washington,12.4,1
+NULL,2016/07/21,Standard Class,8861,New Jersey,9.45,1
+NULL,2017/06/10,Standard Class,94122,California,9.45,1
+NULL,2015/12/06,Same Day,43302,Ohio,24.5,1
+NULL,2016/07/31,First Class,32503,Florida,19.5,1
+NULL,2014/02/09,First Class,23320,Virginia,19.5,1
+NULL,2014/06/06,Second Class,55044,Minnesota,12.4,1
+NULL,2017/01/25,Standard Class,98115,Washington,9.45,1
+NULL,2016/11/15,Standard Class,32712,Florida,9.45,1
+NULL,2017/09/29,Standard Class,80525,Colorado,9.45,1
+NULL,2016/09/02,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2015/03/25,Standard Class,98105,Washington,9.45,1
+NULL,2017/07/14,Standard Class,60610,Illinois,9.45,1
+NULL,2016/09/05,First Class,6457,Connecticut,19.5,1
+NULL,2017/05/08,Second Class,90004,California,12.4,1
+NULL,2017/12/02,Standard Class,28806,North Carolina,9.45,0
+NULL,2017/06/21,Standard Class,60653,Illinois,9.45,1
+NULL,2014/11/10,Standard Class,10011,New York,9.45,1
+NULL,2017/10/18,First Class,10011,New York,19.5,1
+NULL,2017/06/02,Standard Class,40214,Kentucky,9.45,1
+NULL,2017/08/23,Standard Class,1841,Massachusetts,9.45,1
+NULL,2017/11/11,Standard Class,19711,Delaware,9.45,0
+NULL,2017/09/17,First Class,60653,Illinois,19.5,1
+NULL,2016/06/01,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2016/04/19,Standard Class,76051,Texas,9.45,1
+NULL,2017/10/11,First Class,44107,Ohio,19.5,1
+NULL,2017/11/21,First Class,98105,Washington,19.5,0
+NULL,2015/10/27,Second Class,92105,California,12.4,1
+NULL,2014/09/12,Standard Class,94110,California,9.45,1
+NULL,2015/08/03,Second Class,77041,Texas,12.4,1
+NULL,2017/09/25,Second Class,98105,Washington,12.4,1
+NULL,2015/11/02,Second Class,14215,New York,12.4,1
+NULL,2014/06/11,Second Class,22801,Virginia,12.4,1
+NULL,2015/07/14,Standard Class,20735,Maryland,9.45,1
+NULL,2017/02/23,Standard Class,8861,New Jersey,9.45,1
+NULL,2016/10/29,Standard Class,10024,New York,9.45,1
+NULL,2017/06/10,Second Class,75081,Texas,12.4,1
+NULL,2016/11/28,Standard Class,75081,Texas,9.45,1
+NULL,2016/12/17,Standard Class,37167,Tennessee,9.45,1
+NULL,2015/09/14,Standard Class,90004,California,9.45,1
+NULL,2017/06/26,Standard Class,10801,New York,9.45,1
+NULL,2014/09/16,First Class,19143,Pennsylvania,19.5,1
+NULL,2017/10/17,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2015/09/19,Second Class,90036,California,12.4,1
+NULL,2016/09/11,Standard Class,27360,North Carolina,9.45,1
+NULL,2014/10/01,Standard Class,92037,California,9.45,1
+NULL,2016/05/21,Second Class,90036,California,12.4,1
+NULL,2017/05/11,Standard Class,76106,Texas,9.45,1
+NULL,2014/04/09,Standard Class,48205,Michigan,9.45,1
+NULL,2017/08/04,First Class,28205,North Carolina,19.5,1
+NULL,2017/07/11,First Class,90660,California,19.5,1
+NULL,2017/06/27,First Class,48227,Michigan,19.5,1
+NULL,2014/06/09,First Class,14609,New York,19.5,1
+NULL,2016/12/13,Standard Class,49201,Michigan,9.45,1
+NULL,2015/04/19,Standard Class,91767,California,9.45,1
+NULL,2017/09/01,Standard Class,37064,Tennessee,9.45,1
+NULL,2016/04/21,Standard Class,68104,Nebraska,9.45,1
+NULL,2016/08/06,Standard Class,48205,Michigan,9.45,1
+NULL,2017/05/21,Standard Class,39503,Mississippi,9.45,1
+NULL,2017/07/02,Standard Class,97477,Oregon,9.45,1
+NULL,2014/08/05,First Class,80219,Colorado,19.5,1
+NULL,2014/09/26,Standard Class,90004,California,9.45,1
+NULL,2016/11/29,First Class,36608,Alabama,19.5,1
+NULL,2014/06/13,Second Class,77340,Texas,12.4,1
+NULL,2017/06/23,First Class,33178,Florida,19.5,1
+NULL,2014/11/23,Second Class,45014,Ohio,12.4,1
+NULL,2017/05/12,Same Day,98103,Washington,24.5,1
+NULL,2014/06/16,Standard Class,94122,California,9.45,1
+NULL,2017/05/12,Standard Class,90032,California,9.45,1
+NULL,2016/03/28,Standard Class,60623,Illinois,9.45,1
+NULL,2015/05/02,Standard Class,38109,Tennessee,9.45,1
+NULL,2014/05/04,Standard Class,14609,New York,9.45,1
+NULL,2017/09/21,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2016/09/23,Standard Class,31907,Georgia,9.45,1
+NULL,2016/07/11,Same Day,85364,Arizona,24.5,1
+NULL,2014/07/08,First Class,10011,New York,19.5,1
+NULL,2017/12/12,Standard Class,78207,Texas,9.45,0
+NULL,2014/11/07,Standard Class,80219,Colorado,9.45,1
+NULL,2016/11/19,Standard Class,85204,Arizona,9.45,1
+NULL,2016/10/06,Standard Class,10024,New York,9.45,1
+NULL,2017/12/27,Same Day,43055,Ohio,24.5,0
+NULL,2016/12/12,Second Class,55106,Minnesota,12.4,1
+NULL,2016/01/07,Second Class,32216,Florida,12.4,1
+NULL,2017/09/01,Standard Class,2038,Massachusetts,9.45,1
+NULL,2016/10/01,Standard Class,43229,Ohio,9.45,1
+NULL,2014/12/25,Standard Class,38401,Tennessee,9.45,1
+NULL,2017/06/13,Second Class,98103,Washington,12.4,1
+NULL,2017/10/08,Second Class,14609,New York,12.4,1
+NULL,2014/09/25,Standard Class,61701,Illinois,9.45,1
+NULL,2017/01/31,Second Class,35244,Alabama,12.4,1
+NULL,2014/10/10,Standard Class,92024,California,9.45,1
+NULL,2016/11/18,Standard Class,77041,Texas,9.45,1
+NULL,2014/12/04,Standard Class,60076,Illinois,9.45,1
+NULL,2014/09/28,Standard Class,92037,California,9.45,1
+NULL,2015/10/17,Second Class,46060,Indiana,12.4,1
+NULL,2016/11/30,Same Day,28601,North Carolina,24.5,1
+NULL,2016/10/29,First Class,94109,California,19.5,1
+NULL,2015/12/31,Standard Class,72701,Arkansas,9.45,1
+NULL,2016/06/03,Standard Class,90004,California,9.45,1
+NULL,2017/02/20,First Class,90045,California,19.5,1
+NULL,2017/04/23,Standard Class,80027,Colorado,9.45,1
+NULL,2015/10/09,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2015/12/11,Standard Class,42420,Kentucky,9.45,1
+NULL,2016/06/09,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2017/11/12,Same Day,85301,Arizona,24.5,0
+NULL,2014/06/10,Second Class,61604,Illinois,12.4,1
+NULL,2015/06/02,Standard Class,14609,New York,9.45,1
+NULL,2017/08/03,First Class,60653,Illinois,19.5,1
+NULL,2017/09/04,Second Class,28314,North Carolina,12.4,1
+NULL,2014/11/26,Standard Class,90036,California,9.45,1
+NULL,2016/07/09,Second Class,90045,California,12.4,1
+NULL,2015/12/12,Standard Class,90036,California,9.45,1
+NULL,2017/04/11,First Class,10011,New York,19.5,1
+NULL,2017/11/27,First Class,64118,Missouri,19.5,0
+NULL,2015/04/02,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2015/02/11,Second Class,78207,Texas,12.4,1
+NULL,2014/01/13,Standard Class,78041,Texas,9.45,1
+NULL,2015/12/28,Standard Class,85234,Arizona,9.45,1
+NULL,2015/11/30,Standard Class,90004,California,9.45,1
+NULL,2014/12/10,Second Class,98502,Washington,12.4,1
+NULL,2015/12/11,Second Class,76106,Texas,12.4,1
+NULL,2015/11/18,Second Class,53209,Wisconsin,12.4,1
+NULL,2017/05/01,Standard Class,76106,Texas,9.45,1
+NULL,2014/08/29,Same Day,94110,California,24.5,1
+NULL,2014/05/10,Standard Class,10701,New York,9.45,1
+NULL,2016/12/30,Standard Class,98103,Washington,9.45,1
+NULL,2017/04/24,First Class,94122,California,19.5,1
+NULL,2017/12/07,Standard Class,48601,Michigan,9.45,0
+NULL,2016/01/28,Standard Class,28314,North Carolina,9.45,1
+NULL,2014/09/23,Second Class,98198,Washington,12.4,1
+NULL,2017/12/19,Standard Class,60302,Illinois,9.45,0
+NULL,2017/12/11,Standard Class,23223,Virginia,9.45,0
+NULL,2016/09/07,Second Class,37604,Tennessee,12.4,1
+NULL,2014/12/06,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2016/06/17,Standard Class,67212,Kansas,9.45,1
+NULL,2017/11/16,Same Day,94122,California,24.5,0
+NULL,2016/07/13,Standard Class,10035,New York,9.45,1
+NULL,2017/06/26,Second Class,10011,New York,12.4,1
+NULL,2017/07/17,Second Class,19140,Pennsylvania,12.4,1
+NULL,2016/03/21,Second Class,11572,New York,12.4,1
+NULL,2015/04/07,Standard Class,77070,Texas,9.45,1
+NULL,2014/12/17,First Class,90049,California,19.5,1
+NULL,2016/04/17,Second Class,94110,California,12.4,1
+NULL,2017/09/18,First Class,19143,Pennsylvania,19.5,1
+NULL,2015/04/10,Standard Class,37620,Tennessee,9.45,1
+NULL,2016/12/06,Standard Class,37918,Tennessee,9.45,1
+NULL,2018/01/01,Standard Class,78664,Texas,9.45,0
+NULL,2014/12/21,First Class,22801,Virginia,19.5,1
+NULL,2014/06/22,Standard Class,46544,Indiana,9.45,1
+NULL,2017/03/12,Standard Class,20735,Maryland,9.45,1
+NULL,2017/11/15,First Class,90036,California,19.5,0
+NULL,2014/04/10,Standard Class,17602,Pennsylvania,9.45,1
+NULL,2016/11/23,Standard Class,73120,Oklahoma,9.45,1
+NULL,2017/06/20,Standard Class,27514,North Carolina,9.45,1
+NULL,2017/12/03,Same Day,92024,California,24.5,0
+NULL,2015/10/08,Standard Class,8701,New Jersey,9.45,1
+NULL,2017/11/22,Standard Class,92105,California,9.45,0
+NULL,2016/12/25,Second Class,22153,Virginia,12.4,1
+NULL,2016/07/18,Second Class,10009,New York,12.4,1
+NULL,2017/07/06,Standard Class,90004,California,9.45,1
+NULL,2017/12/10,First Class,90008,California,19.5,0
+NULL,2016/05/05,Standard Class,90045,California,9.45,1
+NULL,2016/08/28,Standard Class,43229,Ohio,9.45,1
+NULL,2016/12/13,Standard Class,68025,Nebraska,9.45,1
+NULL,2017/08/20,Same Day,2038,Massachusetts,24.5,1
+NULL,2014/10/04,Standard Class,98105,Washington,9.45,1
+NULL,2017/12/21,Second Class,92054,California,12.4,0
+NULL,2015/05/12,Standard Class,75002,Texas,9.45,1
+NULL,2015/01/17,Standard Class,90004,California,9.45,1
+NULL,2014/11/08,Standard Class,17602,Pennsylvania,9.45,1
+NULL,2017/09/07,Standard Class,49201,Michigan,9.45,1
+NULL,2016/09/10,Standard Class,92105,California,9.45,1
+NULL,2015/11/25,Second Class,90008,California,12.4,1
+NULL,2016/05/09,Standard Class,90004,California,9.45,1
+NULL,2016/11/15,Standard Class,31088,Georgia,9.45,1
+NULL,2015/06/30,Standard Class,94110,California,9.45,1
+NULL,2016/01/21,Standard Class,10011,New York,9.45,1
+NULL,2015/11/19,Standard Class,10035,New York,9.45,1
+NULL,2015/09/04,Second Class,90045,California,12.4,1
+NULL,2015/09/12,Standard Class,98103,Washington,9.45,1
+NULL,2015/12/03,Standard Class,48126,Michigan,9.45,1
+NULL,2015/12/17,Same Day,48205,Michigan,24.5,1
+NULL,2017/06/30,First Class,90049,California,19.5,1
+NULL,2017/11/20,First Class,2149,Massachusetts,19.5,0
+NULL,2014/12/29,Standard Class,90045,California,9.45,1
+NULL,2014/12/12,Standard Class,22304,Virginia,9.45,1
+NULL,2015/09/07,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2014/06/25,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2017/12/25,Standard Class,94601,California,9.45,0
+NULL,2014/03/30,Standard Class,90036,California,9.45,1
+NULL,2017/07/12,Standard Class,98115,Washington,9.45,1
+NULL,2016/04/13,Standard Class,10035,New York,9.45,1
+NULL,2014/09/17,Standard Class,27511,North Carolina,9.45,1
+NULL,2015/07/19,Second Class,93309,California,12.4,1
+NULL,2017/11/17,Second Class,43123,Ohio,12.4,0
+NULL,2014/12/22,First Class,85705,Arizona,19.5,1
+NULL,2016/06/16,Second Class,90036,California,12.4,1
+NULL,2016/06/03,Standard Class,32303,Florida,9.45,1
+NULL,2015/09/20,First Class,98105,Washington,19.5,1
+NULL,2014/07/11,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2017/01/15,First Class,28540,North Carolina,19.5,1
+NULL,2014/09/03,First Class,10009,New York,19.5,1
+NULL,2015/05/29,Standard Class,81001,Colorado,9.45,1
+NULL,2015/09/21,Standard Class,10035,New York,9.45,1
+NULL,2016/04/27,First Class,92503,California,19.5,1
+NULL,2014/04/16,Second Class,78745,Texas,12.4,1
+NULL,2017/05/23,Standard Class,30318,Georgia,9.45,1
+NULL,2016/02/26,Second Class,90032,California,12.4,1
+NULL,2014/05/17,Standard Class,77095,Texas,9.45,1
+NULL,2015/11/27,Standard Class,78207,Texas,9.45,1
+NULL,2016/10/05,Standard Class,10024,New York,9.45,1
+NULL,2014/06/01,Second Class,94109,California,12.4,1
+NULL,2017/12/13,Standard Class,48234,Michigan,9.45,0
+NULL,2016/05/10,Standard Class,60610,Illinois,9.45,1
+NULL,2016/05/30,Standard Class,31907,Georgia,9.45,1
+NULL,2015/10/30,Standard Class,91730,California,9.45,1
+NULL,2017/08/13,First Class,76021,Texas,19.5,1
+NULL,2016/11/09,First Class,8701,New Jersey,19.5,1
+NULL,2016/12/18,Standard Class,49201,Michigan,9.45,1
+NULL,2014/10/16,Standard Class,94122,California,9.45,1
+NULL,2017/08/30,First Class,10024,New York,19.5,1
+NULL,2016/05/23,First Class,90032,California,19.5,1
+NULL,2015/08/28,Standard Class,10009,New York,9.45,1
+NULL,2014/12/31,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2017/09/23,Standard Class,32935,Florida,9.45,1
+NULL,2014/12/24,Standard Class,43229,Ohio,9.45,1
+NULL,2017/01/03,Standard Class,37620,Tennessee,9.45,1
+NULL,2016/06/15,Standard Class,90045,California,9.45,1
+NULL,2015/10/15,Same Day,79109,Texas,24.5,1
+NULL,2015/08/30,Standard Class,90045,California,9.45,1
+NULL,2017/12/04,Same Day,19143,Pennsylvania,24.5,0
+NULL,2015/06/17,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2014/02/06,Standard Class,92037,California,9.45,1
+NULL,2016/11/16,Standard Class,48234,Michigan,9.45,1
+NULL,2016/12/08,Standard Class,10035,New York,9.45,1
+NULL,2014/09/12,Standard Class,78207,Texas,9.45,1
+NULL,2017/10/29,Standard Class,14609,New York,9.45,1
+NULL,2015/12/20,Standard Class,2151,Massachusetts,9.45,1
+NULL,2017/11/26,Standard Class,77840,Texas,9.45,0
+NULL,2014/03/25,Standard Class,45011,Ohio,9.45,1
+NULL,2016/11/26,Standard Class,43229,Ohio,9.45,1
+NULL,2015/04/11,Standard Class,78207,Texas,9.45,1
+NULL,2014/09/17,Standard Class,85281,Arizona,9.45,1
+NULL,2017/03/29,Standard Class,10024,New York,9.45,1
+NULL,2016/06/24,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2017/05/30,Second Class,29203,South Carolina,12.4,1
+NULL,2014/03/17,Standard Class,80219,Colorado,9.45,1
+NULL,2015/06/25,Second Class,94122,California,12.4,1
+NULL,2014/05/15,First Class,33012,Florida,19.5,1
+NULL,2015/07/28,First Class,85204,Arizona,19.5,1
+NULL,2014/05/03,Standard Class,43055,Ohio,9.45,1
+NULL,2017/05/11,Standard Class,60623,Illinois,9.45,1
+NULL,2017/05/17,Standard Class,78745,Texas,9.45,1
+NULL,2017/09/06,First Class,60653,Illinois,19.5,1
+NULL,2014/10/10,Same Day,95336,California,24.5,1
+NULL,2015/11/07,Standard Class,90008,California,9.45,1
+NULL,2016/09/29,Standard Class,97224,Oregon,9.45,1
+NULL,2016/06/28,Standard Class,10009,New York,9.45,1
+NULL,2016/07/03,Second Class,29501,South Carolina,12.4,1
+NULL,2016/12/10,Second Class,20016,District of Columbia,12.4,1
+NULL,2017/12/23,Second Class,92024,California,12.4,0
+NULL,2016/10/06,Second Class,77095,Texas,12.4,1
+NULL,2016/11/02,Standard Class,33614,Florida,9.45,1
+NULL,2014/11/19,First Class,94109,California,19.5,1
+NULL,2017/09/15,First Class,21215,Maryland,19.5,1
+NULL,2016/01/15,Same Day,6824,Connecticut,24.5,1
+NULL,2017/06/05,Second Class,85204,Arizona,12.4,1
+NULL,2014/02/03,First Class,54302,Wisconsin,19.5,1
+NULL,2016/02/03,First Class,22204,Virginia,19.5,1
+NULL,2015/12/02,Second Class,42420,Kentucky,12.4,1
+NULL,2017/06/23,Standard Class,10035,New York,9.45,1
+NULL,2015/07/15,Second Class,31204,Georgia,12.4,1
+NULL,2014/07/02,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2014/10/04,Standard Class,37042,Tennessee,9.45,1
+NULL,2017/12/12,Second Class,98103,Washington,12.4,0
+NULL,2015/02/05,First Class,68104,Nebraska,19.5,1
+NULL,2017/03/22,Second Class,10011,New York,12.4,1
+NULL,2017/06/13,First Class,90045,California,19.5,1
+NULL,2015/09/18,Standard Class,10011,New York,9.45,1
+NULL,2015/10/13,Second Class,10024,New York,12.4,1
+NULL,2016/12/13,Standard Class,1841,Massachusetts,9.45,1
+NULL,2015/09/23,Standard Class,32839,Florida,9.45,1
+NULL,2016/05/19,Second Class,33311,Florida,12.4,1
+NULL,2014/06/21,Standard Class,78207,Texas,9.45,1
+NULL,2014/06/14,Standard Class,98115,Washington,9.45,1
+NULL,2014/06/24,First Class,6450,Connecticut,19.5,1
+NULL,2016/06/21,First Class,91104,California,19.5,1
+NULL,2015/12/03,Second Class,78745,Texas,12.4,1
+NULL,2016/09/01,First Class,19143,Pennsylvania,19.5,1
+NULL,2014/12/17,Standard Class,94521,California,9.45,1
+NULL,2015/07/04,Standard Class,10011,New York,9.45,1
+NULL,2017/05/11,Standard Class,48234,Michigan,9.45,1
+NULL,2017/10/06,First Class,55407,Minnesota,19.5,1
+NULL,2014/01/12,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2017/11/14,Standard Class,92054,California,9.45,0
+NULL,2017/10/14,Standard Class,10024,New York,9.45,1
+NULL,2017/09/08,Standard Class,90004,California,9.45,1
+NULL,2015/06/08,Second Class,10024,New York,12.4,1
+NULL,2017/09/28,Standard Class,56301,Minnesota,9.45,1
+NULL,2015/06/09,Second Class,90036,California,12.4,1
+NULL,2014/06/25,First Class,80027,Colorado,19.5,1
+NULL,2016/10/20,Standard Class,22153,Virginia,9.45,1
+NULL,2015/09/23,Second Class,32216,Florida,12.4,1
+NULL,2015/07/13,First Class,19134,Pennsylvania,19.5,1
+NULL,2016/12/19,Standard Class,48205,Michigan,9.45,1
+NULL,2016/09/23,Standard Class,31907,Georgia,9.45,1
+NULL,2015/07/13,Second Class,98115,Washington,12.4,1
+NULL,2016/11/03,Standard Class,7109,New Jersey,9.45,1
+NULL,2017/07/23,Standard Class,85023,Arizona,9.45,1
+NULL,2015/04/20,Second Class,90004,California,12.4,1
+NULL,2017/11/02,First Class,98115,Washington,19.5,0
+NULL,2017/11/07,Standard Class,98105,Washington,9.45,0
+NULL,2016/06/30,Standard Class,14215,New York,9.45,1
+NULL,2015/10/28,Standard Class,98105,Washington,9.45,1
+NULL,2014/05/01,Second Class,70601,Louisiana,12.4,1
+NULL,2015/09/08,Standard Class,30076,Georgia,9.45,1
+NULL,2017/03/21,Standard Class,77095,Texas,9.45,1
+NULL,2017/11/25,Standard Class,99207,Washington,9.45,0
+NULL,2016/09/14,Second Class,80004,Colorado,12.4,1
+NULL,2015/03/11,Standard Class,94122,California,9.45,1
+NULL,2016/12/20,Standard Class,90503,California,9.45,1
+NULL,2014/07/20,Same Day,45503,Ohio,24.5,1
+NULL,2017/04/18,Standard Class,79424,Texas,9.45,1
+NULL,2017/08/15,Standard Class,47201,Indiana,9.45,1
+NULL,2015/09/21,Standard Class,77041,Texas,9.45,1
+NULL,2015/12/10,Same Day,10024,New York,24.5,1
+NULL,2015/09/30,Standard Class,70506,Louisiana,9.45,1
+NULL,2017/12/07,Second Class,98115,Washington,12.4,0
+NULL,2015/01/03,First Class,2038,Massachusetts,19.5,1
+NULL,2015/09/08,First Class,92253,California,19.5,1
+NULL,2017/12/06,Standard Class,6824,Connecticut,9.45,0
+NULL,2018/01/03,Standard Class,10009,New York,9.45,0
+NULL,2016/11/04,Same Day,40214,Kentucky,24.5,1
+NULL,2017/11/08,Standard Class,88001,New Mexico,9.45,0
+NULL,2014/09/01,Second Class,94109,California,12.4,1
+NULL,2017/06/13,First Class,90032,California,19.5,1
+NULL,2014/09/05,Standard Class,87505,New Mexico,9.45,1
+NULL,2014/05/30,Standard Class,21215,Maryland,9.45,1
+NULL,2016/12/10,Same Day,46142,Indiana,24.5,1
+NULL,2017/11/18,Standard Class,45503,Ohio,9.45,0
+NULL,2015/12/13,Standard Class,92105,California,9.45,1
+NULL,2015/03/24,Standard Class,33161,Florida,9.45,1
+NULL,2017/11/05,Second Class,42420,Kentucky,12.4,0
+NULL,2015/04/28,Second Class,90045,California,12.4,1
+NULL,2017/03/30,Standard Class,98103,Washington,9.45,1
+NULL,2017/05/01,Standard Class,98115,Washington,9.45,1
+NULL,2017/05/14,Same Day,92704,California,24.5,1
+NULL,2016/12/07,First Class,2038,Massachusetts,19.5,1
+NULL,2017/12/12,First Class,19140,Pennsylvania,19.5,0
+NULL,2016/03/05,Standard Class,10701,New York,9.45,1
+NULL,2014/05/29,Standard Class,35601,Alabama,9.45,1
+NULL,2017/06/19,Standard Class,33710,Florida,9.45,1
+NULL,2014/07/24,Standard Class,75217,Texas,9.45,1
+NULL,2016/08/16,Standard Class,10011,New York,9.45,1
+NULL,2014/07/27,Second Class,94122,California,12.4,1
+NULL,2017/11/26,Standard Class,77070,Texas,9.45,0
+NULL,2017/09/01,First Class,62301,Illinois,19.5,1
+NULL,2015/11/30,Same Day,94122,California,24.5,1
+NULL,2017/09/20,Standard Class,78745,Texas,9.45,1
+NULL,2015/06/13,Standard Class,48073,Michigan,9.45,1
+NULL,2016/09/02,Standard Class,80112,Colorado,9.45,1
+NULL,2016/11/04,Standard Class,90045,California,9.45,1
+NULL,2015/08/23,First Class,94110,California,19.5,1
+NULL,2016/10/28,Same Day,33437,Florida,24.5,1
+NULL,2015/11/11,Standard Class,10009,New York,9.45,1
+NULL,2016/11/04,Standard Class,27834,North Carolina,9.45,1
+NULL,2014/09/15,Standard Class,48227,Michigan,9.45,1
+NULL,2017/05/06,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2016/09/10,Standard Class,77070,Texas,9.45,1
+NULL,2016/11/14,Standard Class,77036,Texas,9.45,1
+NULL,2016/11/12,Standard Class,43055,Ohio,9.45,1
+NULL,2017/06/02,Standard Class,68104,Nebraska,9.45,1
+NULL,2017/05/05,Standard Class,61832,Illinois,9.45,1
+NULL,2017/03/14,Standard Class,19013,Pennsylvania,9.45,1
+NULL,2015/11/26,Standard Class,90008,California,9.45,1
+NULL,2014/11/11,Second Class,94110,California,12.4,1
+NULL,2016/05/04,Standard Class,85254,Arizona,9.45,1
+NULL,2015/12/11,Standard Class,85705,Arizona,9.45,1
+NULL,2017/12/27,Standard Class,92627,California,9.45,0
+NULL,2016/07/24,Second Class,94110,California,12.4,1
+NULL,2017/12/05,Standard Class,19143,Pennsylvania,9.45,0
+NULL,2017/10/01,Standard Class,10009,New York,9.45,1
+NULL,2016/11/30,First Class,66212,Kansas,19.5,1
+NULL,2017/04/17,First Class,43615,Ohio,19.5,1
+NULL,2016/10/08,Standard Class,10035,New York,9.45,1
+NULL,2015/12/15,First Class,92105,California,19.5,1
+NULL,2017/07/14,Standard Class,47905,Indiana,9.45,1
+NULL,2017/01/25,First Class,48234,Michigan,19.5,1
+NULL,2016/11/14,Standard Class,45503,Ohio,9.45,1
+NULL,2015/11/29,First Class,19711,Delaware,19.5,1
+NULL,2014/09/19,Standard Class,10011,New York,9.45,1
+NULL,2017/12/25,First Class,90049,California,19.5,0
+NULL,2017/12/10,Second Class,10035,New York,12.4,0
+NULL,2017/12/05,Standard Class,80219,Colorado,9.45,0
+NULL,2016/05/07,First Class,40214,Kentucky,19.5,1
+NULL,2016/08/31,First Class,75081,Texas,19.5,1
+NULL,2017/12/24,Second Class,32127,Florida,12.4,0
+NULL,2014/03/23,Standard Class,32216,Florida,9.45,1
+NULL,2015/03/22,Standard Class,30318,Georgia,9.45,1
+NULL,2017/12/13,Standard Class,45231,Ohio,9.45,0
+NULL,2014/11/02,Second Class,2920,Rhode Island,12.4,1
+NULL,2015/02/04,Standard Class,77070,Texas,9.45,1
+NULL,2015/03/04,Standard Class,38401,Tennessee,9.45,1
+NULL,2016/05/31,First Class,28403,North Carolina,19.5,1
+NULL,2014/09/18,Second Class,33614,Florida,12.4,1
+NULL,2016/10/19,Standard Class,95661,California,9.45,1
+NULL,2016/09/17,Standard Class,92037,California,9.45,1
+NULL,2016/03/08,Standard Class,78207,Texas,9.45,1
+NULL,2015/05/07,Standard Class,90008,California,9.45,1
+NULL,2016/06/20,Second Class,10024,New York,12.4,1
+NULL,2015/09/17,Second Class,46203,Indiana,12.4,1
+NULL,2017/04/27,Standard Class,77041,Texas,9.45,1
+NULL,2017/04/04,Second Class,65807,Missouri,12.4,1
+NULL,2017/10/21,Same Day,74403,Oklahoma,24.5,1
+NULL,2016/09/23,Standard Class,36830,Alabama,9.45,1
+NULL,2016/12/23,Standard Class,90032,California,9.45,1
+NULL,2016/09/01,Second Class,2169,Massachusetts,12.4,1
+NULL,2017/03/08,Standard Class,75081,Texas,9.45,1
+NULL,2017/08/01,Second Class,12180,New York,12.4,1
+NULL,2017/09/07,Standard Class,32137,Florida,9.45,1
+NULL,2016/12/19,Standard Class,39212,Mississippi,9.45,1
+NULL,2016/09/14,Second Class,77095,Texas,12.4,1
+NULL,2015/01/09,Standard Class,44256,Ohio,9.45,1
+NULL,2014/10/16,Second Class,3301,New Hampshire,12.4,1
+NULL,2017/10/22,Second Class,95695,California,12.4,1
+NULL,2016/07/23,Second Class,19134,Pennsylvania,12.4,1
+NULL,2014/07/27,Second Class,90045,California,12.4,1
+NULL,2017/11/30,Standard Class,40475,Kentucky,9.45,0
+NULL,2015/08/28,Standard Class,76017,Texas,9.45,1
+NULL,2016/05/20,Standard Class,39212,Mississippi,9.45,1
+NULL,2016/11/17,Second Class,90049,California,12.4,1
+NULL,2014/10/25,Second Class,48185,Michigan,12.4,1
+NULL,2016/09/01,Standard Class,75220,Texas,9.45,1
+NULL,2017/11/27,Standard Class,55044,Minnesota,9.45,0
+NULL,2015/09/08,Standard Class,94110,California,9.45,1
+NULL,2016/10/01,Standard Class,92345,California,9.45,1
+NULL,2016/05/02,Same Day,10024,New York,24.5,1
+NULL,2014/06/05,Standard Class,23223,Virginia,9.45,1
+NULL,2017/09/01,Standard Class,60623,Illinois,9.45,1
+NULL,2016/05/27,Standard Class,7055,New Jersey,9.45,1
+NULL,2016/12/13,First Class,10024,New York,19.5,1
+NULL,2015/07/20,Standard Class,21215,Maryland,9.45,1
+NULL,2014/10/03,Standard Class,90045,California,9.45,1
+NULL,2016/12/22,Standard Class,55407,Minnesota,9.45,1
+NULL,2016/07/06,First Class,94109,California,19.5,1
+NULL,2017/12/04,Second Class,77036,Texas,12.4,0
+NULL,2017/09/14,Standard Class,38401,Tennessee,9.45,1
+NULL,2014/03/28,Standard Class,10024,New York,9.45,1
+NULL,2015/09/14,Standard Class,2151,Massachusetts,9.45,1
+NULL,2017/10/24,Standard Class,44312,Ohio,9.45,1
+NULL,2017/03/17,Standard Class,48227,Michigan,9.45,1
+NULL,2014/05/03,Standard Class,90049,California,9.45,1
+NULL,2017/09/15,Standard Class,29501,South Carolina,9.45,1
+NULL,2016/06/12,First Class,32303,Florida,19.5,1
+NULL,2016/06/14,Second Class,60623,Illinois,12.4,1
+NULL,2016/07/27,First Class,43229,Ohio,19.5,1
+NULL,2015/08/06,Standard Class,98105,Washington,9.45,1
+NULL,2016/12/31,Standard Class,10024,New York,9.45,1
+NULL,2017/10/06,Standard Class,10011,New York,9.45,1
+NULL,2014/12/01,Second Class,77070,Texas,12.4,1
+NULL,2014/01/26,Standard Class,72401,Arkansas,9.45,1
+NULL,2015/02/19,Standard Class,44312,Ohio,9.45,1
+NULL,2017/12/30,Standard Class,45014,Ohio,9.45,0
+NULL,2014/11/21,Standard Class,47401,Indiana,9.45,1
+NULL,2017/03/05,Same Day,53209,Wisconsin,24.5,1
+NULL,2017/11/05,First Class,27405,North Carolina,19.5,0
+NULL,2015/06/04,Standard Class,84057,Utah,9.45,1
+NULL,2015/12/18,First Class,43055,Ohio,19.5,1
+NULL,2015/12/08,Standard Class,10009,New York,9.45,1
+NULL,2014/06/09,Standard Class,43229,Ohio,9.45,1
+NULL,2017/04/05,Standard Class,94110,California,9.45,1
+NULL,2017/02/01,Standard Class,67212,Kansas,9.45,1
+NULL,2017/12/15,Standard Class,19143,Pennsylvania,9.45,0
+NULL,2014/03/26,Standard Class,85705,Arizona,9.45,1
+NULL,2017/10/11,Standard Class,83642,Idaho,9.45,1
+NULL,2017/09/25,Standard Class,10035,New York,9.45,1
+NULL,2016/09/11,Standard Class,78745,Texas,9.45,1
+NULL,2017/10/26,Standard Class,32725,Florida,9.45,1
+NULL,2016/08/29,Second Class,98103,Washington,12.4,1
+NULL,2015/12/17,Standard Class,92503,California,9.45,1
+NULL,2017/12/09,First Class,90301,California,19.5,0
+NULL,2016/08/26,Standard Class,77041,Texas,9.45,1
+NULL,2015/12/31,Standard Class,90008,California,9.45,1
+NULL,2017/10/11,Standard Class,28205,North Carolina,9.45,1
+NULL,2015/11/10,Second Class,19711,Delaware,12.4,1
+NULL,2017/12/14,Second Class,89031,Nevada,12.4,0
+NULL,2017/06/19,Standard Class,31907,Georgia,9.45,1
+NULL,2014/12/15,Standard Class,10009,New York,9.45,1
+NULL,2016/06/18,Second Class,90045,California,12.4,1
+NULL,2015/12/11,Standard Class,91360,California,9.45,1
+NULL,2015/07/27,Second Class,98115,Washington,12.4,1
+NULL,2017/12/09,Standard Class,10009,New York,9.45,0
+NULL,2016/11/19,Standard Class,92024,California,9.45,1
+NULL,2014/05/21,Standard Class,54703,Wisconsin,9.45,1
+NULL,2017/12/02,Second Class,33180,Florida,12.4,0
+NULL,2016/04/18,Standard Class,90004,California,9.45,1
+NULL,2016/12/11,Same Day,33030,Florida,24.5,1
+NULL,2015/12/07,Standard Class,23320,Virginia,9.45,1
+NULL,2014/03/21,Standard Class,10024,New York,9.45,1
+NULL,2016/05/19,Standard Class,32216,Florida,9.45,1
+NULL,2014/11/05,Standard Class,97206,Oregon,9.45,1
+NULL,2017/12/15,Second Class,39212,Mississippi,12.4,0
+NULL,2017/09/11,Standard Class,10011,New York,9.45,1
+NULL,2014/12/19,Standard Class,60610,Illinois,9.45,1
+NULL,2014/01/15,Standard Class,22153,Virginia,9.45,1
+NULL,2017/05/17,Standard Class,47201,Indiana,9.45,1
+NULL,2016/04/21,Second Class,27604,North Carolina,12.4,1
+NULL,2017/11/26,Second Class,48187,Michigan,12.4,0
+NULL,2016/09/11,Standard Class,55106,Minnesota,9.45,1
+NULL,2014/11/08,Standard Class,92037,California,9.45,1
+NULL,2016/04/28,Standard Class,80906,Colorado,9.45,1
+NULL,2016/07/07,Second Class,90004,California,12.4,1
+NULL,2015/04/25,Standard Class,31907,Georgia,9.45,1
+NULL,2016/11/19,Standard Class,94110,California,9.45,1
+NULL,2017/04/27,First Class,19143,Pennsylvania,19.5,1
+NULL,2017/09/12,Same Day,90805,California,24.5,1
+NULL,2015/02/05,Second Class,55407,Minnesota,12.4,1
+NULL,2015/07/20,Second Class,34952,Florida,12.4,1
+NULL,2014/11/20,Standard Class,66502,Kansas,9.45,1
+NULL,2015/04/15,Second Class,87401,New Mexico,12.4,1
+NULL,2015/09/22,Second Class,90805,California,12.4,1
+NULL,2016/09/20,Standard Class,10011,New York,9.45,1
+NULL,2017/10/09,Standard Class,33012,Florida,9.45,1
+NULL,2017/04/03,First Class,94110,California,19.5,1
+NULL,2017/11/13,Standard Class,19120,Pennsylvania,9.45,0
+NULL,2016/04/06,Standard Class,10024,New York,9.45,1
+NULL,2014/03/19,Standard Class,33614,Florida,9.45,1
+NULL,2015/09/23,First Class,90036,California,19.5,1
+NULL,2016/09/28,Second Class,31907,Georgia,12.4,1
+NULL,2014/04/27,Standard Class,43229,Ohio,9.45,1
+NULL,2014/08/02,Standard Class,10035,New York,9.45,1
+NULL,2016/04/29,Second Class,19134,Pennsylvania,12.4,1
+NULL,2015/07/29,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2017/07/10,First Class,94403,California,19.5,1
+NULL,2015/01/04,Second Class,13601,New York,12.4,1
+NULL,2014/07/10,First Class,14215,New York,19.5,1
+NULL,2016/08/20,Standard Class,94110,California,9.45,1
+NULL,2016/08/30,Standard Class,98105,Washington,9.45,1
+NULL,2014/07/24,Standard Class,6010,Connecticut,9.45,1
+NULL,2017/07/24,Standard Class,55369,Minnesota,9.45,1
+NULL,2017/02/25,Standard Class,74403,Oklahoma,9.45,1
+NULL,2014/07/21,Standard Class,85023,Arizona,9.45,1
+NULL,2016/05/21,Standard Class,32712,Florida,9.45,1
+NULL,2014/12/25,Standard Class,32216,Florida,9.45,1
+NULL,2015/09/21,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2017/10/19,Standard Class,21044,Maryland,9.45,1
+NULL,2015/09/13,Standard Class,10024,New York,9.45,1
+NULL,2014/12/03,Second Class,43229,Ohio,12.4,1
+NULL,2017/05/06,Standard Class,43229,Ohio,9.45,1
+NULL,2016/12/06,First Class,11572,New York,19.5,1
+NULL,2015/11/20,Standard Class,83704,Idaho,9.45,1
+NULL,2016/03/22,Second Class,60201,Illinois,12.4,1
+NULL,2017/01/13,Standard Class,35401,Alabama,9.45,1
+NULL,2016/12/20,Second Class,10009,New York,12.4,1
+NULL,2017/11/13,First Class,75043,Texas,19.5,0
+NULL,2017/04/12,Standard Class,94110,California,9.45,1
+NULL,2014/04/07,First Class,62521,Illinois,19.5,1
+NULL,2015/11/20,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2014/11/12,Same Day,78207,Texas,24.5,1
+NULL,2016/08/23,First Class,48205,Michigan,19.5,1
+NULL,2016/12/24,Standard Class,39212,Mississippi,9.45,1
+NULL,2014/11/16,Standard Class,90045,California,9.45,1
+NULL,2017/06/30,Standard Class,62521,Illinois,9.45,1
+NULL,2017/08/22,Standard Class,98105,Washington,9.45,1
+NULL,2016/09/06,First Class,90278,California,19.5,1
+NULL,2017/09/26,Standard Class,55901,Minnesota,9.45,1
+NULL,2017/01/02,Standard Class,80219,Colorado,9.45,1
+NULL,2014/11/15,First Class,77506,Texas,19.5,1
+NULL,2015/12/30,First Class,54703,Wisconsin,19.5,1
+NULL,2015/11/21,Second Class,98115,Washington,12.4,1
+NULL,2014/08/14,Standard Class,85301,Arizona,9.45,1
+NULL,2015/05/02,Standard Class,80013,Colorado,9.45,1
+NULL,2014/10/01,Second Class,90049,California,12.4,1
+NULL,2014/10/15,First Class,98026,Washington,19.5,1
+NULL,2017/06/11,Same Day,90004,California,24.5,1
+NULL,2014/12/28,Second Class,77041,Texas,12.4,1
+NULL,2016/06/29,Standard Class,17403,Pennsylvania,9.45,1
+NULL,2016/01/19,Standard Class,7090,New Jersey,9.45,1
+NULL,2017/09/15,Standard Class,60653,Illinois,9.45,1
+NULL,2016/11/29,Second Class,85254,Arizona,12.4,1
+NULL,2015/05/27,Second Class,67212,Kansas,12.4,1
+NULL,2017/11/19,Standard Class,94110,California,9.45,0
+NULL,2016/11/11,Second Class,42420,Kentucky,12.4,1
+NULL,2016/07/01,Same Day,29203,South Carolina,24.5,1
+NULL,2016/11/15,Second Class,46350,Indiana,12.4,1
+NULL,2017/10/08,Standard Class,78207,Texas,9.45,1
+NULL,2016/08/28,First Class,77506,Texas,19.5,1
+NULL,2014/08/03,First Class,94122,California,19.5,1
+NULL,2015/01/03,Second Class,87105,New Mexico,12.4,1
+NULL,2017/04/25,Second Class,77036,Texas,12.4,1
+NULL,2017/11/23,Standard Class,60623,Illinois,9.45,0
+NULL,2016/05/21,Standard Class,10035,New York,9.45,1
+NULL,2017/09/08,Standard Class,75019,Texas,9.45,1
+NULL,2015/10/17,Same Day,90004,California,24.5,1
+NULL,2016/06/25,Second Class,93905,California,12.4,1
+NULL,2016/04/02,Second Class,60653,Illinois,12.4,1
+NULL,2014/11/08,Standard Class,40475,Kentucky,9.45,1
+NULL,2017/10/30,Same Day,75217,Texas,24.5,1
+NULL,2015/02/23,Second Class,8861,New Jersey,12.4,1
+NULL,2017/12/10,Same Day,6824,Connecticut,24.5,0
+NULL,2017/10/16,Standard Class,61107,Illinois,9.45,1
+NULL,2014/09/26,Same Day,75150,Texas,24.5,1
+NULL,2017/11/12,Standard Class,94122,California,9.45,0
+NULL,2017/11/03,Standard Class,19140,Pennsylvania,9.45,0
+NULL,2016/05/23,Standard Class,47905,Indiana,9.45,1
+NULL,2014/07/12,Standard Class,37918,Tennessee,9.45,1
+NULL,2015/10/30,Standard Class,94110,California,9.45,1
+NULL,2017/11/12,Second Class,21044,Maryland,12.4,0
+NULL,2015/12/25,Standard Class,38109,Tennessee,9.45,1
+NULL,2015/03/09,Standard Class,47362,Indiana,9.45,1
+NULL,2016/12/30,Standard Class,98105,Washington,9.45,1
+NULL,2014/07/06,Second Class,98105,Washington,12.4,1
+NULL,2015/11/14,First Class,90032,California,19.5,1
+NULL,2016/10/28,First Class,33180,Florida,19.5,1
+NULL,2015/03/02,Second Class,31204,Georgia,12.4,1
+NULL,2017/11/05,Second Class,37130,Tennessee,12.4,0
+NULL,2016/01/27,First Class,7060,New Jersey,19.5,1
+NULL,2016/08/24,Standard Class,10035,New York,9.45,1
+NULL,2015/09/28,Standard Class,52001,Iowa,9.45,1
+NULL,2015/08/07,Standard Class,90004,California,9.45,1
+NULL,2015/11/29,Standard Class,90036,California,9.45,1
+NULL,2014/10/08,Standard Class,94591,California,9.45,1
+NULL,2015/07/05,First Class,19134,Pennsylvania,19.5,1
+NULL,2016/07/01,Standard Class,60035,Illinois,9.45,1
+NULL,2015/12/27,Standard Class,54880,Wisconsin,9.45,1
+NULL,2015/07/14,Standard Class,37211,Tennessee,9.45,1
+NULL,2017/11/26,Second Class,28806,North Carolina,12.4,0
+NULL,2016/06/01,First Class,45231,Ohio,19.5,1
+NULL,2016/01/01,Standard Class,48227,Michigan,9.45,1
+NULL,2017/05/23,Standard Class,98115,Washington,9.45,1
+NULL,2016/11/09,First Class,32216,Florida,19.5,1
+NULL,2015/03/20,Standard Class,10009,New York,9.45,1
+NULL,2014/12/20,Second Class,33012,Florida,12.4,1
+NULL,2014/09/25,Standard Class,94109,California,9.45,1
+NULL,2014/10/08,Second Class,60201,Illinois,12.4,1
+NULL,2014/12/06,Standard Class,94122,California,9.45,1
+NULL,2016/10/19,Standard Class,78041,Texas,9.45,1
+NULL,2017/02/22,Standard Class,60653,Illinois,9.45,1
+NULL,2017/11/11,Standard Class,19143,Pennsylvania,9.45,0
+NULL,2017/11/25,Standard Class,42420,Kentucky,9.45,0
+NULL,2014/12/15,Second Class,77070,Texas,12.4,1
+NULL,2015/06/22,Standard Class,92105,California,9.45,1
+NULL,2017/03/25,Second Class,47201,Indiana,12.4,1
+NULL,2015/02/19,Standard Class,53142,Wisconsin,9.45,1
+NULL,2015/11/30,First Class,92704,California,19.5,1
+NULL,2016/03/19,Standard Class,43229,Ohio,9.45,1
+NULL,2017/10/24,First Class,46203,Indiana,19.5,1
+NULL,2016/09/09,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2014/04/17,Standard Class,90278,California,9.45,1
+NULL,2014/08/11,Second Class,95687,California,12.4,1
+NULL,2016/08/17,Second Class,28314,North Carolina,12.4,1
+NULL,2016/11/26,Standard Class,10009,New York,9.45,1
+NULL,2017/01/23,Second Class,76248,Texas,12.4,1
+NULL,2016/12/15,Second Class,94109,California,12.4,1
+NULL,2015/11/17,First Class,22153,Virginia,19.5,1
+NULL,2016/05/04,Standard Class,10011,New York,9.45,1
+NULL,2015/12/24,Standard Class,86442,Arizona,9.45,1
+NULL,2017/04/03,Standard Class,17602,Pennsylvania,9.45,1
+NULL,2014/05/11,Standard Class,90004,California,9.45,1
+NULL,2015/05/28,Standard Class,29203,South Carolina,9.45,1
+NULL,2014/06/27,Standard Class,19013,Pennsylvania,9.45,1
+NULL,2015/01/10,Standard Class,98103,Washington,9.45,1
+NULL,2016/06/15,Second Class,49201,Michigan,12.4,1
+NULL,2015/11/15,Standard Class,94513,California,9.45,1
+NULL,2017/08/30,First Class,75220,Texas,19.5,1
+NULL,2015/06/19,Standard Class,4240,Maine,9.45,1
+NULL,2015/10/23,Same Day,33801,Florida,24.5,1
+NULL,2017/12/09,Standard Class,19140,Pennsylvania,9.45,0
+NULL,2017/12/06,Standard Class,33614,Florida,9.45,0
+NULL,2015/12/29,Second Class,93277,California,12.4,1
+NULL,2016/09/26,Second Class,90004,California,12.4,1
+NULL,2014/04/20,Standard Class,28403,North Carolina,9.45,1
+NULL,2017/11/01,First Class,40475,Kentucky,19.5,0
+NULL,2017/06/12,Standard Class,77506,Texas,9.45,1
+NULL,2015/04/21,Standard Class,94122,California,9.45,1
+NULL,2015/07/31,First Class,94109,California,19.5,1
+NULL,2017/12/27,Standard Class,64055,Missouri,9.45,0
+NULL,2017/11/11,First Class,85705,Arizona,19.5,0
+NULL,2016/09/18,Standard Class,29203,South Carolina,9.45,1
+NULL,2015/08/14,Standard Class,32216,Florida,9.45,1
+NULL,2017/04/15,First Class,98105,Washington,19.5,1
+NULL,2016/09/05,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2016/11/17,Standard Class,98661,Washington,9.45,1
+NULL,2014/01/31,Standard Class,22304,Virginia,9.45,1
+NULL,2016/10/21,Same Day,6040,Connecticut,24.5,1
+NULL,2016/12/21,Standard Class,94122,California,9.45,1
+NULL,2016/04/23,Standard Class,60126,Illinois,9.45,1
+NULL,2017/11/02,Standard Class,55901,Minnesota,9.45,0
+NULL,2016/05/28,Same Day,10035,New York,24.5,1
+NULL,2015/12/07,Second Class,37042,Tennessee,12.4,1
+NULL,2016/08/17,Second Class,28540,North Carolina,12.4,1
+NULL,2017/03/11,First Class,31907,Georgia,19.5,1
+NULL,2017/08/23,Second Class,39212,Mississippi,12.4,1
+NULL,2015/12/11,Same Day,77041,Texas,24.5,1
+NULL,2014/10/09,Standard Class,27707,North Carolina,9.45,1
+NULL,2017/03/15,Standard Class,27604,North Carolina,9.45,1
+NULL,2016/08/15,Second Class,75007,Texas,12.4,1
+NULL,2014/03/07,Second Class,28403,North Carolina,12.4,1
+NULL,2017/06/21,Standard Class,88220,New Mexico,9.45,1
+NULL,2017/03/31,Standard Class,53209,Wisconsin,9.45,1
+NULL,2014/05/17,Standard Class,2038,Massachusetts,9.45,1
+NULL,2016/10/02,First Class,46350,Indiana,19.5,1
+NULL,2017/08/13,Standard Class,92105,California,9.45,1
+NULL,2017/11/11,Standard Class,38401,Tennessee,9.45,0
+NULL,2015/12/08,Second Class,46203,Indiana,12.4,1
+NULL,2014/09/17,Standard Class,28205,North Carolina,9.45,1
+NULL,2016/08/18,Second Class,53214,Wisconsin,12.4,1
+NULL,2014/12/26,First Class,44105,Ohio,19.5,1
+NULL,2015/09/28,Second Class,7002,New Jersey,12.4,1
+NULL,2014/05/30,Standard Class,90008,California,9.45,1
+NULL,2017/04/22,Standard Class,77095,Texas,9.45,1
+NULL,2016/01/05,Standard Class,75051,Texas,9.45,1
+NULL,2017/12/08,Standard Class,19134,Pennsylvania,9.45,0
+NULL,2015/12/09,Standard Class,92105,California,9.45,1
+NULL,2015/02/13,Standard Class,19805,Delaware,9.45,1
+NULL,2016/10/20,Standard Class,28540,North Carolina,9.45,1
+NULL,2015/11/26,Standard Class,10011,New York,9.45,1
+NULL,2014/08/26,Standard Class,72401,Arkansas,9.45,1
+NULL,2016/06/02,Standard Class,37211,Tennessee,9.45,1
+NULL,2014/03/08,First Class,98103,Washington,19.5,1
+NULL,2014/12/23,Second Class,90008,California,12.4,1
+NULL,2014/09/24,Standard Class,90805,California,9.45,1
+NULL,2016/07/10,Second Class,76017,Texas,12.4,1
+NULL,2017/05/09,First Class,22204,Virginia,19.5,1
+NULL,2016/11/02,Standard Class,94122,California,9.45,1
+NULL,2017/07/13,Second Class,10009,New York,12.4,1
+NULL,2015/11/17,Standard Class,80013,Colorado,9.45,1
+NULL,2017/10/08,Standard Class,98105,Washington,9.45,1
+NULL,2016/03/24,Standard Class,97301,Oregon,9.45,1
+NULL,2014/07/04,Standard Class,48234,Michigan,9.45,1
+NULL,2016/07/22,Standard Class,75051,Texas,9.45,1
+NULL,2015/10/06,Second Class,43229,Ohio,12.4,1
+NULL,2014/04/06,Second Class,94591,California,12.4,1
+NULL,2015/12/12,First Class,47201,Indiana,19.5,1
+NULL,2015/12/24,Standard Class,90049,California,9.45,1
+NULL,2017/07/01,Standard Class,46350,Indiana,9.45,1
+NULL,2015/12/03,Standard Class,61821,Illinois,9.45,1
+NULL,2014/01/18,Standard Class,94109,California,9.45,1
+NULL,2016/05/24,Standard Class,22204,Virginia,9.45,1
+NULL,2017/01/23,Second Class,10024,New York,12.4,1
+NULL,2016/06/01,Standard Class,20016,District of Columbia,9.45,1
+NULL,2016/08/21,Standard Class,98105,Washington,9.45,1
+NULL,2015/07/06,Standard Class,60188,Illinois,9.45,1
+NULL,2016/12/05,Second Class,6824,Connecticut,12.4,1
+NULL,2014/11/25,First Class,90004,California,19.5,1
+NULL,2014/04/29,Standard Class,77095,Texas,9.45,1
+NULL,2017/11/18,Standard Class,48227,Michigan,9.45,0
+NULL,2016/09/20,First Class,43229,Ohio,19.5,1
+NULL,2014/03/21,Second Class,27604,North Carolina,12.4,1
+NULL,2014/03/18,Standard Class,92646,California,9.45,1
+NULL,2017/12/14,Standard Class,19120,Pennsylvania,9.45,0
+NULL,2014/09/05,First Class,13601,New York,19.5,1
+NULL,2016/06/09,Second Class,60610,Illinois,12.4,1
+NULL,2016/07/23,Standard Class,42104,Kentucky,9.45,1
+NULL,2015/12/15,First Class,92592,California,19.5,1
+NULL,2014/07/08,First Class,39212,Mississippi,19.5,1
+NULL,2015/03/26,Standard Class,77041,Texas,9.45,1
+NULL,2017/06/20,First Class,94122,California,19.5,1
+NULL,2017/04/15,Standard Class,30076,Georgia,9.45,1
+NULL,2016/12/29,Standard Class,49505,Michigan,9.45,1
+NULL,2014/10/08,Second Class,90036,California,12.4,1
+NULL,2017/11/16,Same Day,10009,New York,24.5,0
+NULL,2014/10/13,First Class,91104,California,19.5,1
+NULL,2017/09/22,Second Class,30076,Georgia,12.4,1
+NULL,2016/10/01,Standard Class,62521,Illinois,9.45,1
+NULL,2017/12/09,First Class,43615,Ohio,19.5,0
+NULL,2017/09/06,Standard Class,10009,New York,9.45,1
+NULL,2014/05/30,Standard Class,90008,California,9.45,1
+NULL,2017/09/14,Standard Class,43017,Ohio,9.45,1
+NULL,2014/03/26,Standard Class,27405,North Carolina,9.45,1
+NULL,2014/04/25,Standard Class,90008,California,9.45,1
+NULL,2016/09/05,First Class,19143,Pennsylvania,19.5,1
+NULL,2017/06/10,Standard Class,55124,Minnesota,9.45,1
+NULL,2017/05/15,Second Class,77041,Texas,12.4,1
+NULL,2017/11/11,First Class,94086,California,19.5,0
+NULL,2014/11/24,Second Class,71203,Louisiana,12.4,1
+NULL,2014/03/14,Second Class,10024,New York,12.4,1
+NULL,2017/08/11,Standard Class,56560,Minnesota,9.45,1
+NULL,2014/11/16,Standard Class,92037,California,9.45,1
+NULL,2017/09/26,Second Class,19134,Pennsylvania,12.4,1
+NULL,2017/10/21,Standard Class,40475,Kentucky,9.45,1
+NULL,2017/06/10,Standard Class,28110,North Carolina,9.45,1
+NULL,2016/05/18,First Class,6708,Connecticut,19.5,1
+NULL,2015/12/29,Standard Class,90032,California,9.45,1
+NULL,2017/07/21,Same Day,84107,Utah,24.5,1
+NULL,2017/01/17,Second Class,20016,District of Columbia,12.4,1
+NULL,2015/11/09,Same Day,19134,Pennsylvania,24.5,1
+NULL,2016/09/02,Standard Class,60610,Illinois,9.45,1
+NULL,2016/11/24,Standard Class,44240,Ohio,9.45,1
+NULL,2014/09/21,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2018/01/04,Standard Class,49505,Michigan,9.45,0
+NULL,2016/06/29,Second Class,75023,Texas,12.4,1
+NULL,2017/12/21,First Class,70506,Louisiana,19.5,0
+NULL,2017/10/27,Standard Class,72209,Arkansas,9.45,1
+NULL,2014/05/09,Same Day,42420,Kentucky,24.5,1
+NULL,2016/01/02,Standard Class,1841,Massachusetts,9.45,1
+NULL,2016/03/16,First Class,85254,Arizona,19.5,1
+NULL,2017/11/21,Second Class,75007,Texas,12.4,0
+NULL,2017/06/03,Same Day,28540,North Carolina,24.5,1
+NULL,2017/11/23,Standard Class,44107,Ohio,9.45,0
+NULL,2017/06/26,Second Class,94110,California,12.4,1
+NULL,2016/04/05,First Class,22153,Virginia,19.5,1
+NULL,2014/09/19,Standard Class,31204,Georgia,9.45,1
+NULL,2017/04/02,Second Class,42420,Kentucky,12.4,1
+NULL,2016/11/05,Standard Class,24153,Virginia,9.45,1
+NULL,2014/11/12,Standard Class,77070,Texas,9.45,1
+NULL,2016/06/22,Standard Class,92024,California,9.45,1
+NULL,2017/03/17,Standard Class,1852,Massachusetts,9.45,1
+NULL,2016/03/18,Standard Class,78207,Texas,9.45,1
+NULL,2015/05/16,Standard Class,94122,California,9.45,1
+NULL,2017/10/26,Standard Class,77095,Texas,9.45,1
+NULL,2017/05/19,First Class,30328,Georgia,19.5,1
+NULL,2014/10/06,Standard Class,10035,New York,9.45,1
+NULL,2014/06/11,Standard Class,11561,New York,9.45,1
+NULL,2017/11/14,Standard Class,92236,California,9.45,0
+NULL,2017/04/15,First Class,65807,Missouri,19.5,1
+NULL,2016/09/21,Standard Class,98103,Washington,9.45,1
+NULL,2016/09/09,Standard Class,60610,Illinois,9.45,1
+NULL,2014/11/24,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2016/10/22,Standard Class,85281,Arizona,9.45,1
+NULL,2015/09/07,Second Class,77095,Texas,12.4,1
+NULL,2017/09/05,Standard Class,85281,Arizona,9.45,1
+NULL,2016/09/03,Standard Class,19120,Pennsylvania,9.45,1
+NULL,2014/11/22,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2016/07/11,Second Class,60505,Illinois,12.4,1
+NULL,2015/12/04,Standard Class,60623,Illinois,9.45,1
+NULL,2016/12/13,Standard Class,37064,Tennessee,9.45,1
+NULL,2017/04/27,First Class,76106,Texas,19.5,1
+NULL,2015/12/01,Standard Class,72701,Arkansas,9.45,1
+NULL,2014/11/22,Standard Class,92646,California,9.45,1
+NULL,2017/03/22,Standard Class,75220,Texas,9.45,1
+NULL,2016/11/23,Same Day,19140,Pennsylvania,24.5,1
+NULL,2015/07/20,First Class,85023,Arizona,19.5,1
+NULL,2014/12/27,Standard Class,45011,Ohio,9.45,1
+NULL,2015/03/13,Standard Class,11561,New York,9.45,1
+NULL,2014/06/13,Second Class,89031,Nevada,12.4,1
+NULL,2016/01/07,Standard Class,20877,Maryland,9.45,1
+NULL,2017/01/06,Standard Class,89502,Nevada,9.45,1
+NULL,2017/11/18,Second Class,10701,New York,12.4,0
+NULL,2017/01/26,Standard Class,28205,North Carolina,9.45,1
+NULL,2014/07/05,Same Day,77036,Texas,24.5,1
+NULL,2015/07/25,Second Class,46614,Indiana,12.4,1
+NULL,2016/05/08,First Class,92024,California,19.5,1
+NULL,2017/11/16,Standard Class,95051,California,9.45,0
+NULL,2016/08/30,Standard Class,78577,Texas,9.45,1
+NULL,2015/09/10,Standard Class,37211,Tennessee,9.45,1
+NULL,2016/12/16,Second Class,98661,Washington,12.4,1
+NULL,2017/12/17,Standard Class,19120,Pennsylvania,9.45,0
+NULL,2014/07/05,Standard Class,32725,Florida,9.45,1
+NULL,2014/06/21,Same Day,81001,Colorado,24.5,1
+NULL,2015/08/08,First Class,77041,Texas,19.5,1
+NULL,2017/10/31,Second Class,13021,New York,12.4,1
+NULL,2017/11/11,Second Class,10009,New York,12.4,0
+NULL,2017/09/23,First Class,72701,Arkansas,19.5,1
+NULL,2016/06/28,Same Day,90032,California,24.5,1
+NULL,2017/11/26,Standard Class,43055,Ohio,9.45,0
+NULL,2017/08/10,Second Class,70506,Louisiana,12.4,1
+NULL,2016/09/03,Standard Class,3301,New Hampshire,9.45,1
+NULL,2015/10/08,Second Class,19805,Delaware,12.4,1
+NULL,2015/04/21,Standard Class,43615,Ohio,9.45,1
+NULL,2016/04/25,Standard Class,43229,Ohio,9.45,1
+NULL,2016/04/05,Standard Class,10035,New York,9.45,1
+NULL,2017/12/29,Standard Class,10035,New York,9.45,0
+NULL,2014/12/03,Second Class,77070,Texas,12.4,1
+NULL,2016/02/09,First Class,43130,Ohio,19.5,1
+NULL,2016/11/09,First Class,90036,California,19.5,1
+NULL,2016/12/08,Standard Class,19134,Pennsylvania,9.45,1
+NULL,2015/12/10,Standard Class,11550,New York,9.45,1
+NULL,2016/09/30,First Class,47201,Indiana,19.5,1
+NULL,2017/01/26,Standard Class,90045,California,9.45,1
+NULL,2016/05/01,First Class,75217,Texas,19.5,1
+NULL,2017/09/08,Standard Class,94122,California,9.45,1
+NULL,2016/12/14,Second Class,37064,Tennessee,12.4,1
+NULL,2017/08/29,Second Class,90301,California,12.4,1
+NULL,2017/04/15,Standard Class,8901,New Jersey,9.45,1
+NULL,2015/09/28,Second Class,77070,Texas,12.4,1
+NULL,2016/03/17,First Class,78550,Texas,19.5,1
+NULL,2016/11/17,Standard Class,60035,Illinois,9.45,1
+NULL,2016/04/27,Standard Class,92345,California,9.45,1
+NULL,2017/08/30,First Class,33614,Florida,19.5,1
+NULL,2014/10/30,Second Class,98105,Washington,12.4,1
+NULL,2016/11/30,First Class,48146,Michigan,19.5,1
+NULL,2014/11/18,Standard Class,48640,Michigan,9.45,1
+NULL,2015/08/19,Standard Class,90045,California,9.45,1
+NULL,2016/07/27,Standard Class,61107,Illinois,9.45,1
+NULL,2017/09/29,Standard Class,55901,Minnesota,9.45,1
+NULL,2015/11/03,Standard Class,42420,Kentucky,9.45,1
+NULL,2017/12/11,Same Day,60505,Illinois,24.5,0
+NULL,2017/09/27,Second Class,45231,Ohio,12.4,1
+NULL,2015/09/11,Standard Class,77036,Texas,9.45,1
+NULL,2017/10/10,First Class,28403,North Carolina,19.5,1
+NULL,2016/03/27,First Class,28540,North Carolina,19.5,1
+NULL,2017/08/07,Standard Class,78745,Texas,9.45,1
+NULL,2017/01/02,Standard Class,77642,Texas,9.45,1
+NULL,2016/05/12,First Class,90045,California,19.5,1
+NULL,2014/01/15,Second Class,71111,Louisiana,12.4,1
+NULL,2016/02/22,Standard Class,10009,New York,9.45,1
+NULL,2014/12/31,Standard Class,60076,Illinois,9.45,1
+NULL,2016/03/31,First Class,22204,Virginia,19.5,1
+NULL,2017/11/22,First Class,10035,New York,19.5,0
+NULL,2017/05/09,Standard Class,94109,California,9.45,1
+NULL,2017/09/19,Standard Class,10009,New York,9.45,1
+NULL,2014/11/28,Standard Class,60610,Illinois,9.45,1
+NULL,2015/08/16,Standard Class,48227,Michigan,9.45,1
+NULL,2015/11/21,Second Class,60610,Illinois,12.4,1
+NULL,2017/10/11,Second Class,77573,Texas,12.4,1
+NULL,2017/12/03,Second Class,10009,New York,12.4,0
+NULL,2016/03/25,Standard Class,77036,Texas,9.45,1
+NULL,2017/10/16,First Class,61032,Illinois,19.5,1
+NULL,2016/12/01,Second Class,30062,Georgia,12.4,1
+NULL,2017/02/21,Second Class,70506,Louisiana,12.4,1
+NULL,2014/09/11,First Class,31204,Georgia,19.5,1
+NULL,2017/08/11,Second Class,28540,North Carolina,12.4,1
+NULL,2016/11/12,First Class,94122,California,19.5,1
+NULL,2016/05/08,Standard Class,60653,Illinois,9.45,1
+NULL,2014/11/14,Second Class,80027,Colorado,12.4,1
+NULL,2017/12/28,Second Class,40214,Kentucky,12.4,0
+NULL,2017/06/30,Standard Class,10024,New York,9.45,1
+NULL,2014/07/15,Standard Class,7601,New Jersey,9.45,1
+NULL,2014/09/28,Second Class,10035,New York,12.4,1
+NULL,2015/03/18,Standard Class,3820,New Hampshire,9.45,1
+NULL,2015/06/05,Standard Class,78207,Texas,9.45,1
+NULL,2017/09/09,First Class,85023,Arizona,19.5,1
+NULL,2015/12/01,Standard Class,10024,New York,9.45,1
+NULL,2016/01/01,Standard Class,60610,Illinois,9.45,1
+NULL,2017/11/04,Second Class,94526,California,12.4,0
+NULL,2016/11/30,Standard Class,90036,California,9.45,1
+NULL,2015/08/11,Standard Class,83704,Idaho,9.45,1
+NULL,2017/03/08,Standard Class,90045,California,9.45,1
+NULL,2018/01/02,Second Class,94110,California,12.4,0
+NULL,2016/09/10,Standard Class,53186,Wisconsin,9.45,1
+NULL,2017/05/27,Standard Class,77095,Texas,9.45,1
+NULL,2017/11/06,Standard Class,98105,Washington,9.45,0
+NULL,2016/09/22,Standard Class,4401,Maine,9.45,1
+NULL,2017/02/05,First Class,43229,Ohio,19.5,1
+NULL,2016/09/17,Standard Class,43615,Ohio,9.45,1
+NULL,2017/11/18,Standard Class,75081,Texas,9.45,0
+NULL,2014/11/20,Second Class,80027,Colorado,12.4,1
+NULL,2014/05/20,Second Class,44312,Ohio,12.4,1
+NULL,2014/12/30,First Class,19143,Pennsylvania,19.5,1
+NULL,2015/09/27,First Class,74012,Oklahoma,19.5,1
+NULL,2017/01/30,Same Day,94109,California,24.5,1
+NULL,2015/07/10,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2016/09/12,Second Class,37620,Tennessee,12.4,1
+NULL,2015/11/29,Standard Class,28403,North Carolina,9.45,1
+NULL,2017/11/16,Standard Class,98115,Washington,9.45,0
+NULL,2015/08/06,Standard Class,39401,Mississippi,9.45,1
+NULL,2015/11/13,Standard Class,10011,New York,9.45,1
+NULL,2015/11/04,Second Class,93905,California,12.4,1
+NULL,2014/06/27,Second Class,97301,Oregon,12.4,1
+NULL,2016/02/03,Standard Class,94122,California,9.45,1
+NULL,2016/11/24,Standard Class,10024,New York,9.45,1
+NULL,2015/11/22,Standard Class,10011,New York,9.45,1
+NULL,2016/04/23,Standard Class,31907,Georgia,9.45,1
+NULL,2014/08/21,Second Class,43229,Ohio,12.4,1
+NULL,2016/01/09,Standard Class,28205,North Carolina,9.45,1
+NULL,2016/03/08,Standard Class,46544,Indiana,9.45,1
+NULL,2014/11/27,Second Class,94513,California,12.4,1
+NULL,2016/04/19,Second Class,22304,Virginia,12.4,1
+NULL,2016/05/04,First Class,38109,Tennessee,19.5,1
+NULL,2017/10/19,Second Class,6824,Connecticut,12.4,1
+NULL,2018/01/04,Standard Class,10024,New York,9.45,0
+NULL,2015/06/04,Same Day,98105,Washington,24.5,1
+NULL,2015/10/31,Same Day,92374,California,24.5,1
+NULL,2016/11/12,Standard Class,92054,California,9.45,1
+NULL,2017/12/07,Standard Class,33180,Florida,9.45,0
+NULL,2016/02/13,First Class,74133,Oklahoma,19.5,1
+NULL,2014/11/09,Standard Class,10024,New York,9.45,1
+NULL,2017/11/30,Standard Class,30318,Georgia,9.45,0
+NULL,2015/12/09,First Class,10024,New York,19.5,1
+NULL,2015/09/15,Standard Class,92374,California,9.45,1
+NULL,2016/11/10,Standard Class,46226,Indiana,9.45,1
+NULL,2015/12/31,Standard Class,20735,Maryland,9.45,1
+NULL,2016/10/24,First Class,48227,Michigan,19.5,1
+NULL,2016/06/11,Standard Class,19711,Delaware,9.45,1
+NULL,2017/11/16,Second Class,38109,Tennessee,12.4,0
+NULL,2016/03/11,Standard Class,75220,Texas,9.45,1
+NULL,2014/11/15,Standard Class,77095,Texas,9.45,1
+NULL,2016/07/27,Standard Class,33614,Florida,9.45,1
+NULL,2017/11/15,First Class,45503,Ohio,19.5,0
+NULL,2014/07/15,Standard Class,75217,Texas,9.45,1
+NULL,2017/08/04,First Class,60623,Illinois,19.5,1
+NULL,2015/12/24,First Class,28540,North Carolina,19.5,1
+NULL,2014/09/04,First Class,77036,Texas,19.5,1
+NULL,2015/11/26,Standard Class,75034,Texas,9.45,1
+NULL,2017/03/24,Standard Class,98115,Washington,9.45,1
+NULL,2014/02/25,Standard Class,60098,Illinois,9.45,1
+NULL,2017/10/19,Second Class,2886,Rhode Island,12.4,1
+NULL,2015/08/28,Standard Class,30318,Georgia,9.45,1
+NULL,2014/06/06,Standard Class,72209,Arkansas,9.45,1
+NULL,2017/11/23,Standard Class,24153,Virginia,9.45,0
+NULL,2017/06/28,Standard Class,19140,Pennsylvania,9.45,1
+NULL,2017/12/28,Standard Class,7501,New Jersey,9.45,0
+NULL,2016/06/04,Same Day,10035,New York,24.5,1
+NULL,2014/07/17,Standard Class,90049,California,9.45,1
+NULL,2017/01/06,Standard Class,32216,Florida,9.45,1
+NULL,2014/07/06,Standard Class,45231,Ohio,9.45,1
+NULL,2017/04/18,Standard Class,91104,California,9.45,1
+NULL,2015/10/06,Standard Class,80013,Colorado,9.45,1
+NULL,2017/07/19,Standard Class,19805,Delaware,9.45,1
+NULL,2016/08/20,Second Class,94601,California,12.4,1
+NULL,2014/12/09,Second Class,62521,Illinois,12.4,1
+NULL,2017/04/24,First Class,98103,Washington,19.5,1
+NULL,2016/11/22,Standard Class,90008,California,9.45,1
+NULL,2017/03/19,Standard Class,95336,California,9.45,1
+NULL,2017/09/26,Standard Class,53209,Wisconsin,9.45,1
+NULL,2017/02/23,Standard Class,98103,Washington,9.45,1
+NULL,2017/11/28,Standard Class,10035,New York,9.45,0
+NULL,2016/11/05,First Class,94122,California,19.5,1
+NULL,2014/05/09,Second Class,40475,Kentucky,12.4,1
+NULL,2015/09/17,Standard Class,10035,New York,9.45,1
+NULL,2014/08/13,Standard Class,98103,Washington,9.45,1
+NULL,2016/02/27,Standard Class,37211,Tennessee,9.45,1
+NULL,2015/07/19,First Class,10035,New York,19.5,1
+NULL,2017/05/18,First Class,44312,Ohio,19.5,1
+NULL,2017/04/02,Standard Class,32216,Florida,9.45,1
+NULL,2016/04/03,Second Class,13021,New York,12.4,1
+NULL,2017/11/22,Standard Class,19711,Delaware,9.45,0
+NULL,2017/04/26,Standard Class,60610,Illinois,9.45,1
+NULL,2014/06/24,Standard Class,75023,Texas,9.45,1
+NULL,2014/03/16,Second Class,43229,Ohio,12.4,1
+NULL,2014/04/30,Standard Class,91776,California,9.45,1
+NULL,2014/11/18,Standard Class,10011,New York,9.45,1
+NULL,2017/05/29,Standard Class,90036,California,9.45,1
+NULL,2015/04/10,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2017/10/22,First Class,97477,Oregon,19.5,1
+NULL,2017/03/28,Second Class,10009,New York,12.4,1
+NULL,2017/12/17,Standard Class,92037,California,9.45,0
+NULL,2014/05/15,Second Class,84084,Utah,12.4,1
+NULL,2015/12/16,Standard Class,78745,Texas,9.45,1
+NULL,2014/11/03,Second Class,85323,Arizona,12.4,1
+NULL,2016/11/04,Standard Class,48310,Michigan,9.45,1
+NULL,2016/01/23,Second Class,92037,California,12.4,1
+NULL,2014/11/29,Second Class,63116,Missouri,12.4,1
+NULL,2017/09/24,Second Class,48911,Michigan,12.4,1
+NULL,2016/12/28,Standard Class,97756,Oregon,9.45,1
+NULL,2016/04/02,Standard Class,10009,New York,9.45,1
+NULL,2016/08/12,Same Day,50315,Iowa,24.5,1
+NULL,2014/10/05,Standard Class,33437,Florida,9.45,1
+NULL,2017/10/10,Standard Class,94110,California,9.45,1
+NULL,2017/05/08,First Class,10035,New York,19.5,1
+NULL,2017/02/08,Standard Class,45231,Ohio,9.45,1
+NULL,2014/12/29,Standard Class,90045,California,9.45,1
+NULL,2015/09/23,Standard Class,90049,California,9.45,1
+NULL,2017/01/18,First Class,19134,Pennsylvania,19.5,1
+NULL,2016/03/08,Second Class,47401,Indiana,12.4,1
+NULL,2014/08/16,Standard Class,33710,Florida,9.45,1
+NULL,2017/11/23,Standard Class,33030,Florida,9.45,0
+NULL,2017/05/26,Standard Class,13021,New York,9.45,1
+NULL,2017/11/09,Second Class,28314,North Carolina,12.4,0
+NULL,2015/10/09,Second Class,31088,Georgia,12.4,1
+NULL,2016/04/27,Second Class,77070,Texas,12.4,1
+NULL,2017/04/30,Standard Class,32216,Florida,9.45,1
+NULL,2017/07/03,Same Day,98105,Washington,24.5,1
+NULL,2017/11/04,Same Day,27217,North Carolina,24.5,0
+NULL,2017/03/05,Same Day,55901,Minnesota,24.5,1
+NULL,2014/09/19,Same Day,10011,New York,24.5,1
+NULL,2017/03/11,Second Class,10011,New York,12.4,1
+NULL,2017/04/29,First Class,90045,California,19.5,1
+NULL,2016/09/21,First Class,2908,Rhode Island,19.5,1
+NULL,2017/08/08,Second Class,94122,California,12.4,1
+NULL,2015/11/27,Standard Class,38109,Tennessee,9.45,1
+NULL,2015/09/27,Standard Class,48146,Michigan,9.45,1
+NULL,2014/12/14,Second Class,93727,California,12.4,1
+NULL,2016/12/24,Standard Class,39212,Mississippi,9.45,1
+NULL,2015/08/08,Same Day,94109,California,24.5,1
+NULL,2014/09/14,Standard Class,94110,California,9.45,1
+NULL,2016/12/28,Second Class,28205,North Carolina,12.4,1
+NULL,2017/12/01,Standard Class,10035,New York,9.45,0
+NULL,2017/10/18,Standard Class,87105,New Mexico,9.45,1
+NULL,2017/01/13,Standard Class,32174,Florida,9.45,1
+NULL,2015/12/16,Standard Class,30076,Georgia,9.45,1
+NULL,2015/01/29,Second Class,44105,Ohio,12.4,1
+NULL,2016/06/01,Second Class,36116,Alabama,12.4,1
+NULL,2015/04/15,Standard Class,95823,California,9.45,1
+NULL,2014/09/24,First Class,19143,Pennsylvania,19.5,1
+NULL,2017/11/23,Standard Class,10011,New York,9.45,0
+NULL,2016/11/08,Second Class,42420,Kentucky,12.4,1
+NULL,2017/05/09,Standard Class,45503,Ohio,9.45,1
+NULL,2016/02/20,Standard Class,60623,Illinois,9.45,1
+NULL,2014/12/02,Standard Class,97224,Oregon,9.45,1
+NULL,2016/08/13,Standard Class,39212,Mississippi,9.45,1
+NULL,2014/04/03,Standard Class,11561,New York,9.45,1
+NULL,2016/12/12,Standard Class,98105,Washington,9.45,1
+NULL,2016/03/13,Standard Class,33142,Florida,9.45,1
+NULL,2016/06/25,Standard Class,19901,Delaware,9.45,1
+NULL,2015/10/01,First Class,94110,California,19.5,1
+NULL,2016/07/18,Second Class,13021,New York,12.4,1
+NULL,2017/08/16,Second Class,94109,California,12.4,1
+NULL,2017/03/25,Standard Class,47905,Indiana,9.45,1
+NULL,2017/07/25,Second Class,46514,Indiana,12.4,1
+NULL,2015/12/27,First Class,43017,Ohio,19.5,1
+NULL,2014/08/13,Standard Class,98103,Washington,9.45,1
+NULL,2014/09/02,Second Class,33178,Florida,12.4,1
+NULL,2015/01/04,Standard Class,85023,Arizona,9.45,1
+NULL,2017/07/31,Standard Class,57103,South Dakota,9.45,1
+NULL,2017/09/25,Standard Class,19143,Pennsylvania,9.45,1
+NULL,2017/12/18,Standard Class,92024,California,9.45,0
+NULL,2017/11/29,Second Class,85204,Arizona,12.4,0
+NULL,2016/06/17,Standard Class,76017,Texas,9.45,1
+NULL,2016/05/24,Standard Class,10011,New York,9.45,1
+NULL,2016/09/30,Standard Class,98042,Washington,9.45,1
+NULL,2016/09/09,Standard Class,77041,Texas,9.45,1
+NULL,2017/12/28,Standard Class,11572,New York,9.45,0

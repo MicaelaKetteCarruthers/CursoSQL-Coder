@@ -1,0 +1,1319 @@
+id,customer_id,address,country,state,postal_code,region
+NULL,10015,789 Anzinger Drive,United States,Washington,98103,West
+NULL,10045,28894 Spenser Terrace,United States,North Carolina,91104,South
+NULL,10060,0 Southridge Trail,United States,New York,19143,East
+NULL,10075,71 Esker Point,United States,New York,92646,East
+NULL,10090,0684 Little Fleur Drive,United States,Virginia,65807,South
+NULL,10105,77907 Monica Way,United States,Arizona,85023,West
+NULL,10120,9001 Lawn Circle,United States,Arizona,94110,West
+NULL,10135,7 Dexter Avenue,United States,New York,10035,East
+NULL,10150,871 Village Hill,United States,New York,75007,East
+NULL,10165,023 Corscot Crossing,United States,California,98006,West
+NULL,10180,1849 Emmet Court,United States,Texas,77041,Central
+NULL,10195,250 Nancy Junction,United States,Florida,33319,South
+NULL,10210,348 Fallview Alley,United States,California,94513,West
+NULL,10225,8591 Kennedy Center,United States,Alabama,94109,South
+NULL,10240,611 Farragut Point,United States,Florida,90049,South
+NULL,10255,527 Bellgrove Alley,United States,Ohio,90036,East
+NULL,10270,956 Brentwood Hill,United States,Utah,84084,West
+NULL,10285,0 Randy Plaza,United States,California,94109,West
+NULL,10300,51 Holmberg Way,United States,California,94122,West
+NULL,10315,24033 Trailsway Plaza,United States,California,94122,West
+NULL,10330,47831 Forest Way,United States,California,95207,West
+NULL,10345,59 Cody Point,United States,Massachusetts,1841,East
+NULL,10360,3 North Junction,United States,Texas,90032,Central
+NULL,10375,0562 Farragut Street,United States,Arizona,97301,West
+NULL,10390,6514 Algoma Pass,United States,Ohio,45231,East
+NULL,10405,55 Cardinal Way,United States,Massachusetts,90036,East
+NULL,10420,5021 Tennessee Park,United States,California,94122,West
+NULL,10435,2 Fairfield Avenue,United States,California,90045,West
+NULL,10450,3 Lighthouse Bay Drive,United States,Minnesota,85323,Central
+NULL,10465,3 Johnson Court,United States,New York,10035,East
+NULL,10480,597 Manufacturers Circle,United States,Missouri,65807,Central
+NULL,10495,6 Heffernan Center,United States,Pennsylvania,98105,East
+NULL,10510,3 International Lane,United States,Pennsylvania,74133,East
+NULL,10525,19598 Lyons Park,United States,Florida,33710,South
+NULL,10540,40 Armistice Court,United States,Massachusetts,2169,East
+NULL,10555,6587 Northridge Alley,United States,California,92054,West
+NULL,10585,293 Warner Point,United States,Washington,98105,West
+NULL,10600,697 Westport Trail,United States,Arizona,90004,West
+NULL,10615,09 Orin Center,United States,New York,10009,East
+NULL,10630,68454 Hallows Street,United States,Texas,94110,Central
+NULL,10645,217 Lawn Lane,United States,Pennsylvania,94109,East
+NULL,10660,42 Spaight Lane,United States,Ohio,44134,East
+NULL,10675,192 Bonner Center,United States,Texas,77036,Central
+NULL,10690,23 Goodland Road,United States,Florida,92024,South
+NULL,10705,9 Elgar Road,United States,Alabama,98115,South
+NULL,10720,5943 Dwight Way,United States,New York,75034,East
+NULL,10735,17 Melrose Trail,United States,Washington,98115,West
+NULL,10765,755 Autumn Leaf Terrace,United States,Pennsylvania,23666,East
+NULL,10780,94 Harbort Place,United States,Virginia,32137,South
+NULL,10795,33 Mallard Junction,United States,Florida,94110,South
+NULL,10825,5 Kim Park,United States,Washington,98661,West
+NULL,10840,3608 Menomonie Street,United States,Texas,93309,Central
+NULL,10855,828 Basil Park,United States,Pennsylvania,23320,East
+NULL,10870,39 4th Road,United States,Texas,77840,Central
+NULL,10885,9 East Street,United States,Kentucky,45014,South
+NULL,10900,5 Steensland Park,United States,Arizona,92105,West
+NULL,10915,2321 Graedel Way,United States,Florida,98105,South
+NULL,10930,36869 Lotheville Parkway,United States,Illinois,73120,Central
+NULL,10945,158 Graedel Way,United States,North Carolina,28403,South
+NULL,10960,47331 Stone Corner Terrace,United States,California,92037,West
+NULL,10975,424 Green Ridge Alley,United States,North Carolina,47201,South
+NULL,10990,3 Vera Parkway,United States,Arizona,85635,West
+NULL,11005,67 Homewood Park,United States,California,91104,West
+NULL,11020,17 Shelley Road,United States,Illinois,60505,Central
+NULL,11080,908 Mosinee Point,United States,Maryland,21215,East
+NULL,11095,88235 Fairview Trail,United States,Illinois,94122,Central
+NULL,11110,7313 Manufacturers Parkway,United States,Wisconsin,77070,Central
+NULL,11125,8209 Mcbride Pass,United States,Arizona,94109,West
+NULL,11140,644 Autumn Leaf Circle,United States,Texas,78207,Central
+NULL,11155,5 Kropf Parkway,United States,Georgia,31907,South
+NULL,11170,79 Summit Alley,United States,California,94109,West
+NULL,11185,17 Northwestern Place,United States,Colorado,98103,West
+NULL,11200,598 Doe Crossing Court,United States,Florida,90032,South
+NULL,11215,3 Blackbird Terrace,United States,New Mexico,87105,West
+NULL,11230,15112 Mitchell Way,United States,Washington,99207,West
+NULL,11245,56 Merrick Center,United States,Iowa,50315,Central
+NULL,11260,4462 Ramsey Terrace,United States,New York,94110,East
+NULL,11275,1534 8th Street,United States,Arizona,85705,West
+NULL,11290,1136 Longview Park,United States,Illinois,60201,Central
+NULL,11305,293 Portage Junction,United States,California,98105,West
+NULL,11320,260 Delladonna Avenue,United States,California,94110,West
+NULL,11335,3624 Buena Vista Plaza,United States,Michigan,49201,Central
+NULL,11350,08 Meadow Valley Place,United States,California,90045,West
+NULL,11365,99452 Elmside Center,United States,New York,10011,East
+NULL,11380,616 Calypso Court,United States,Illinois,60076,Central
+NULL,11395,0782 Lakeland Hill,United States,Michigan,48227,Central
+NULL,11410,65 Forest Trail,United States,Ohio,43130,East
+NULL,11425,3672 Londonderry Way,United States,Kentucky,40475,South
+NULL,11440,7957 Packers Way,United States,Colorado,80122,West
+NULL,11455,15 Lerdahl Road,United States,Ohio,44052,East
+NULL,11470,9479 Meadow Vale Alley,United States,North Carolina,27511,South
+NULL,11485,74224 Scofield Junction,United States,Maryland,20735,East
+NULL,11500,15 Caliangt Alley,United States,Wisconsin,54302,Central
+NULL,11515,5141 Harper Circle,United States,Minnesota,98103,Central
+NULL,11530,1 Sundown Avenue,United States,California,92037,West
+NULL,11545,71533 1st Plaza,United States,Illinois,60623,Central
+NULL,11575,5 6th Road,United States,New York,20877,East
+NULL,11590,1997 Northport Court,United States,Arizona,85234,West
+NULL,11605,8640 Jana Circle,United States,Massachusetts,94109,East
+NULL,11620,760 Talmadge Circle,United States,California,92804,West
+NULL,11635,8 Continental Way,United States,Kentucky,42104,South
+NULL,11650,23 Harper Avenue,United States,New York,92037,East
+NULL,11665,7558 Starling Hill,United States,Pennsylvania,19143,East
+NULL,11680,6 Arizona Circle,United States,Ohio,43055,East
+NULL,11695,8155 Rusk Road,United States,Ohio,80027,East
+NULL,11710,5960 Coleman Alley,United States,California,90032,West
+NULL,11725,2861 Crest Line Center,United States,Kentucky,94122,South
+NULL,11740,3678 Grasskamp Way,United States,California,92105,West
+NULL,11755,78272 Hoepker Hill,United States,Colorado,94122,West
+NULL,11770,92 Debra Avenue,United States,New York,19143,East
+NULL,11785,892 Menomonie Center,United States,Ohio,77036,East
+NULL,11800,96 Katie Terrace,United States,New York,92037,East
+NULL,11815,6787 Lawn Pass,United States,Texas,79907,Central
+NULL,11845,91426 Shelley Hill,United States,Washington,98105,West
+NULL,11860,994 Carey Drive,United States,North Carolina,28540,South
+NULL,11890,57 Hovde Center,United States,Massachusetts,19143,East
+NULL,11905,93938 Waxwing Plaza,United States,Texas,77340,Central
+NULL,11920,5570 Johnson Circle,United States,California,92530,West
+NULL,11935,32703 Parkside Avenue,United States,North Carolina,28314,South
+NULL,11950,219 Grim Plaza,United States,Illinois,98115,Central
+NULL,11965,90041 Blue Bill Park Circle,United States,Alabama,77642,South
+NULL,11980,3 Riverside Parkway,United States,Texas,75701,Central
+NULL,11995,6423 Burrows Road,United States,Minnesota,90004,Central
+NULL,12010,21386 Utah Center,United States,California,92646,West
+NULL,12025,1 Messerschmidt Point,United States,Ohio,76017,East
+NULL,12040,0 Maple Avenue,United States,Pennsylvania,37620,East
+NULL,12055,745 Caliangt Lane,United States,Texas,90036,Central
+NULL,12070,505 Westerfield Drive,United States,North Carolina,27604,South
+NULL,12085,2 Fair Oaks Place,United States,Connecticut,62301,East
+NULL,12100,993 Canary Court,United States,Indiana,90049,Central
+NULL,12115,055 Kim Plaza,United States,New York,10011,East
+NULL,12130,3236 Randy Avenue,United States,California,98105,West
+NULL,12145,53 Waywood Terrace,United States,California,98103,West
+NULL,12160,436 Green Ridge Circle,United States,Pennsylvania,94122,East
+NULL,12190,561 Porter Trail,United States,Pennsylvania,90004,East
+NULL,12205,33 Kings Circle,United States,Pennsylvania,43229,East
+NULL,12220,71241 Monica Trail,United States,Indiana,78207,Central
+NULL,12235,366 Sugar Terrace,United States,Texas,75007,Central
+NULL,12250,1886 Katie Junction,United States,Louisiana,90032,South
+NULL,12265,352 Farragut Alley,United States,Utah,84604,West
+NULL,12280,3415 Southridge Parkway,United States,Washington,98105,West
+NULL,12295,31 Redwing Trail,United States,California,93727,West
+NULL,12310,24 Moland Place,United States,Ohio,45231,East
+NULL,12325,86471 Dunning Terrace,United States,Utah,84057,West
+NULL,12340,893 Ludington Parkway,United States,New York,98115,East
+NULL,12355,7 Dryden Avenue,United States,Georgia,98115,South
+NULL,12370,07990 Lunder Street,United States,North Carolina,90045,South
+NULL,12385,0523 Maryland Circle,United States,Georgia,60610,South
+NULL,12400,7949 Prairie Rose Hill,United States,Florida,98115,South
+NULL,12415,4 Kim Hill,United States,Ohio,60653,East
+NULL,12430,5 Namekagon Pass,United States,Indiana,94122,Central
+NULL,12445,14786 High Crossing Point,United States,California,94122,West
+NULL,12460,3572 Darwin Avenue,United States,Georgia,31907,South
+NULL,12475,209 Kipling Street,United States,New York,56560,East
+NULL,12505,6 Haas Parkway,United States,North Carolina,94122,South
+NULL,12520,97 Spaight Lane,United States,Kentucky,42420,South
+NULL,12535,33 7th Parkway,United States,North Carolina,44221,South
+NULL,12550,8758 Doe Crossing Road,United States,California,90008,West
+NULL,12565,2122 Sloan Hill,United States,California,98115,West
+NULL,12580,04 Charing Cross Way,United States,Illinois,60126,Central
+NULL,12595,0 Thompson Road,United States,Ohio,92024,East
+NULL,12610,399 Claremont Alley,United States,Pennsylvania,77041,East
+NULL,12625,3 Carpenter Pass,United States,New Jersey,8701,East
+NULL,12640,1366 Summit Pass,United States,Pennsylvania,98105,East
+NULL,12655,1 Mendota Drive,United States,California,98115,West
+NULL,12670,3581 Dapin Avenue,United States,New York,90032,East
+NULL,12685,58 Sunfield Plaza,United States,North Carolina,27405,South
+NULL,12700,5 Sachtjen Plaza,United States,Missouri,80906,Central
+NULL,12730,11042 Rusk Drive,United States,Ohio,43229,East
+NULL,12745,2 Ilene Point,United States,California,94601,West
+NULL,12760,645 Shopko Circle,United States,New Jersey,60505,East
+NULL,12775,58564 Mccormick Way,United States,Florida,85204,South
+NULL,12790,6 Bonner Hill,United States,California,92037,West
+NULL,12805,04635 Northfield Lane,United States,New York,94110,East
+NULL,12835,14206 Petterle Hill,United States,California,97477,West
+NULL,12850,076 Oxford Pass,United States,Alabama,77036,South
+NULL,12865,12833 Carey Place,United States,Ohio,76248,East
+NULL,12880,38 Charing Cross Junction,United States,Illinois,90301,Central
+NULL,12895,08 Carberry Junction,United States,Wisconsin,53142,Central
+NULL,12910,40 Drewry Point,United States,Florida,42420,South
+NULL,12925,90 Sunfield Trail,United States,Minnesota,55122,Central
+NULL,12940,038 Thierer Hill,United States,Massachusetts,60610,East
+NULL,12955,94044 Green Crossing,United States,Michigan,95823,Central
+NULL,12970,167 Bay Drive,United States,California,90004,West
+NULL,12985,079 Hallows Court,United States,Kentucky,60610,South
+NULL,13000,5073 Morning Way,United States,Indiana,90004,Central
+NULL,13015,773 Forster Lane,United States,California,92024,West
+NULL,13030,6 Morning Drive,United States,Washington,98115,West
+NULL,13045,86 Mandrake Point,United States,California,90036,West
+NULL,13060,8 Messerschmidt Road,United States,Washington,98115,West
+NULL,13075,823 Ridgeway Road,United States,Kentucky,40475,South
+NULL,13090,06 Weeping Birch Place,United States,Washington,98103,West
+NULL,13105,6 Judy Center,United States,California,93905,West
+NULL,13120,7852 Hudson Way,United States,California,95051,West
+NULL,13135,720 Green Pass,United States,California,94591,West
+NULL,13150,1 Sachs Pass,United States,Illinois,62521,Central
+NULL,13165,02 Blaine Point,United States,New York,10035,East
+NULL,13180,600 Oak Valley Junction,United States,Michigan,78207,Central
+NULL,13195,877 East Trail,United States,Texas,97756,Central
+NULL,13210,30 Stone Corner Drive,United States,Texas,77041,Central
+NULL,13225,36257 Union Drive,United States,Pennsylvania,92804,East
+NULL,13240,89 Waubesa Way,United States,Utah,98115,West
+NULL,13255,1 Maple Wood Street,United States,Ohio,90004,East
+NULL,13270,52 Manitowish Center,United States,California,94513,West
+NULL,13285,5828 Canary Road,United States,Minnesota,94110,Central
+NULL,13300,21 Schmedeman Center,United States,Pennsylvania,19134,East
+NULL,13315,2646 Hintze Hill,United States,New York,19134,East
+NULL,13330,58 Gerald Terrace,United States,New Mexico,88001,West
+NULL,13345,89 Mosinee Crossing,United States,Georgia,43055,South
+NULL,13375,83077 Bonner Lane,United States,Ohio,92105,East
+NULL,13390,9836 Vahlen Pass,United States,Illinois,94110,Central
+NULL,13405,8585 Golf Avenue,United States,Indiana,46350,Central
+NULL,13420,74984 Oneill Park,United States,Georgia,94109,South
+NULL,13435,058 Cordelia Plaza,United States,New York,90036,East
+NULL,13450,438 Cordelia Center,United States,Texas,77095,Central
+NULL,13465,6518 Grasskamp Point,United States,Colorado,90004,West
+NULL,13480,776 1st Pass,United States,Minnesota,94601,Central
+NULL,13495,09 Buell Center,United States,California,94110,West
+NULL,13510,3571 North Trail,United States,Tennessee,72209,South
+NULL,13540,013 Dwight Pass,United States,Washington,98105,West
+NULL,13555,3840 Lakeland Point,United States,Ohio,76106,East
+NULL,13570,7 Annamark Junction,United States,Texas,77041,Central
+NULL,13585,290 Bluejay Alley,United States,Ohio,43229,East
+NULL,13600,841 Aberg Terrace,United States,Texas,98105,Central
+NULL,13615,29147 Talmadge Drive,United States,California,98105,West
+NULL,13630,19 Stephen Parkway,United States,New York,97206,East
+NULL,13660,9 Del Sol Court,United States,New York,77095,East
+NULL,13675,181 Bayside Street,United States,Massachusetts,2169,East
+NULL,13690,80 Texas Plaza,United States,California,94122,West
+NULL,13705,2 Hauk Park,United States,Ohio,44312,East
+NULL,13720,6 Green Drive,United States,California,92037,West
+NULL,13735,967 Brickson Park Hill,United States,Maryland,65109,East
+NULL,13750,403 Linden Trail,United States,Washington,98103,West
+NULL,13765,8 Schmedeman Road,United States,New York,98103,East
+NULL,13780,589 Mifflin Way,United States,New York,75220,East
+NULL,13795,9 Village Green Junction,United States,California,92704,West
+NULL,13810,637 Hallows Plaza,United States,California,94122,West
+NULL,13825,07574 Cardinal Center,United States,South Dakota,75081,Central
+NULL,13840,827 Weeping Birch Court,United States,Washington,98105,West
+NULL,13855,908 Village Green Place,United States,Minnesota,55106,Central
+NULL,13870,9 Clyde Gallagher Court,United States,Utah,85023,West
+NULL,13885,6621 Red Cloud Junction,United States,California,92037,West
+NULL,13900,43 Paget Court,United States,New York,60623,East
+NULL,13915,5956 Burning Wood Street,United States,Illinois,90008,Central
+NULL,13930,2 Ludington Drive,United States,California,94110,West
+NULL,13945,21672 Chinook Place,United States,California,90049,West
+NULL,13960,3081 Hanover Circle,United States,Maryland,21215,East
+NULL,13975,638 Grim Parkway,United States,North Carolina,28205,South
+NULL,13990,90838 Loeprich Road,United States,Georgia,30076,South
+NULL,14005,9 Forster Park,United States,Florida,48911,South
+NULL,14020,2426 Sommers Parkway,United States,New York,38301,East
+NULL,14035,8 Bluejay Lane,United States,North Carolina,75007,South
+NULL,14050,45070 Memorial Point,United States,New York,43229,East
+NULL,14065,6929 Golf Drive,United States,New York,28540,East
+NULL,14080,4 Main Lane,United States,Florida,85281,South
+NULL,14095,1730 Comanche Drive,United States,California,90036,West
+NULL,14110,4 Kim Drive,United States,Pennsylvania,19134,East
+NULL,14125,0 Crescent Oaks Park,United States,Ohio,94110,East
+NULL,14140,00040 Loomis Court,United States,Arizona,85301,West
+NULL,14155,39 Ramsey Drive,United States,Mississippi,39503,South
+NULL,14170,8 Northport Street,United States,North Carolina,28403,South
+NULL,14185,3184 5th Avenue,United States,Alabama,77506,South
+NULL,14215,273 Sycamore Center,United States,California,98103,West
+NULL,14230,954 Sommers Drive,United States,California,90805,West
+NULL,14260,8 Evergreen Terrace,United States,California,98105,West
+NULL,14275,2276 Burning Wood Park,United States,Indiana,90004,Central
+NULL,14290,2 Debs Way,United States,California,98661,West
+NULL,14305,3700 Chinook Lane,United States,New York,77070,East
+NULL,14320,6312 Twin Pines Lane,United States,California,98105,West
+NULL,14350,6 Eliot Place,United States,Washington,98105,West
+NULL,14365,61 Fisk Center,United States,Pennsylvania,98115,East
+NULL,14380,48398 Lake View Crossing,United States,Massachusetts,28540,East
+NULL,14410,2 Atwood Crossing,United States,Arizona,94122,West
+NULL,14425,792 Dahle Drive,United States,Arizona,85705,West
+NULL,14440,10 Fisk Circle,United States,California,94122,West
+NULL,14455,8 Troy Terrace,United States,Ohio,78745,East
+NULL,14470,5 Rockefeller Trail,United States,California,94110,West
+NULL,14485,4 Sheridan Street,United States,Texas,75080,Central
+NULL,14515,5 Lakewood Court,United States,California,94122,West
+NULL,14530,829 Steensland Drive,United States,New York,90049,East
+NULL,14545,5078 Buell Hill,United States,Massachusetts,1841,East
+NULL,14560,71 Caliangt Way,United States,California,94110,West
+NULL,14575,90 Cody Avenue,United States,Pennsylvania,67212,East
+NULL,14590,31026 Namekagon Lane,United States,Pennsylvania,19143,East
+NULL,14605,589 Merry Road,United States,Washington,98115,West
+NULL,14620,1 Dryden Lane,United States,California,97301,West
+NULL,14635,2 Blackbird Alley,United States,North Carolina,27217,South
+NULL,14650,41 Mallory Avenue,United States,Tennessee,94509,South
+NULL,14665,2 Macpherson Circle,United States,Texas,78664,Central
+NULL,14680,93664 Anthes Pass,United States,Washington,98105,West
+NULL,14695,62833 Welch Road,United States,California,94122,West
+NULL,14710,37 David Point,United States,Minnesota,98105,Central
+NULL,14725,37411 Scofield Parkway,United States,North Carolina,97301,South
+NULL,14740,7 Badeau Center,United States,Pennsylvania,17602,East
+NULL,14755,7476 Westend Alley,United States,Texas,90805,Central
+NULL,14770,668 Ohio Drive,United States,California,90045,West
+NULL,14815,67 New Castle Place,United States,Texas,90049,Central
+NULL,14830,810 Summit Plaza,United States,Washington,98103,West
+NULL,14845,05 Meadow Valley Center,United States,Louisiana,70601,South
+NULL,14860,0 Village Green Trail,United States,Pennsylvania,90049,East
+NULL,14875,7663 Monument Street,United States,Arizona,85204,West
+NULL,14890,0839 Morningstar Way,United States,North Carolina,93905,South
+NULL,14905,91 Canary Point,United States,Massachusetts,80525,East
+NULL,14920,46 Emmet Plaza,United States,California,94109,West
+NULL,14935,425 Pearson Road,United States,California,98115,West
+NULL,14950,6 Division Street,United States,Ohio,43229,East
+NULL,14965,8 Maple Wood Trail,United States,California,94110,West
+NULL,14995,806 Northport Street,United States,Indiana,94109,Central
+NULL,15010,884 Little Fleur Crossing,United States,California,94110,West
+NULL,15025,4527 Northland Point,United States,Minnesota,55044,Central
+NULL,15040,2432 Westport Way,United States,Texas,77095,Central
+NULL,15070,9 Ilene Plaza,United States,Alabama,80906,South
+NULL,15085,7 Oak Valley Plaza,United States,California,92024,West
+NULL,15100,91104 Charing Cross Lane,United States,California,94122,West
+NULL,15115,9 Roth Center,United States,Washington,98198,West
+NULL,15130,6 Portage Point,United States,Texas,92503,Central
+NULL,15145,18 Monica Avenue,United States,Pennsylvania,94110,East
+NULL,15160,88 Service Plaza,United States,California,90049,West
+NULL,15175,5 Arkansas Way,United States,Tennessee,38401,South
+NULL,15190,2 Dawn Street,United States,Tennessee,37604,South
+NULL,15205,441 Derek Drive,United States,California,94122,West
+NULL,15220,9192 West Way,United States,Ohio,44107,East
+NULL,15235,4 Kedzie Way,United States,Illinois,60623,Central
+NULL,15250,1809 American Place,United States,New York,10009,East
+NULL,15265,83558 Mosinee Trail,United States,New York,48187,East
+NULL,15280,0 Memorial Park,United States,California,90049,West
+NULL,15295,03 Hoepker Crossing,United States,Washington,98103,West
+NULL,15310,2 Hazelcrest Plaza,United States,Rhode Island,2908,East
+NULL,15340,36462 Buena Vista Pass,United States,California,92503,West
+NULL,15355,2598 Green Ridge Alley,United States,Texas,92105,Central
+NULL,15370,00608 Prairieview Way,United States,Pennsylvania,94122,East
+NULL,15385,323 Hoard Crossing,United States,Washington,98031,West
+NULL,15400,949 Fulton Place,United States,Illinois,94086,Central
+NULL,15415,983 Forest Crossing,United States,New York,10024,East
+NULL,15430,7484 Gina Alley,United States,North Carolina,27217,South
+NULL,15445,549 Kennedy Park,United States,California,90004,West
+NULL,15460,7939 Logan Terrace,United States,New York,11572,East
+NULL,15475,15 Ridgeview Court,United States,New York,98103,East
+NULL,15490,1847 Northland Street,United States,Washington,98105,West
+NULL,15505,2500 Mockingbird Park,United States,New York,48640,East
+NULL,15520,54 Bartillon Court,United States,California,94110,West
+NULL,15535,5722 Mockingbird Plaza,United States,Pennsylvania,93309,East
+NULL,15550,4 Meadow Vale Hill,United States,Pennsylvania,98105,East
+NULL,15565,0 North Lane,United States,Texas,94110,Central
+NULL,15595,91786 Kennedy Way,United States,California,90045,West
+NULL,15610,329 Brentwood Road,United States,Wisconsin,90036,Central
+NULL,15625,64 Grim Place,United States,Washington,98502,West
+NULL,15640,08 Lillian Court,United States,Washington,98105,West
+NULL,15655,447 Laurel Road,United States,New Jersey,88220,East
+NULL,15670,488 Oak Crossing,United States,Connecticut,80906,East
+NULL,15685,30 Rowland Plaza,United States,California,90036,West
+NULL,15715,205 Nelson Drive,United States,Colorado,88001,West
+NULL,15730,90 Loftsgordon Center,United States,North Carolina,77036,South
+NULL,15745,24246 Londonderry Road,United States,Tennessee,95123,South
+NULL,15760,333 Pine View Avenue,United States,Virginia,77036,South
+NULL,15775,07579 Hanson Point,United States,Texas,78207,Central
+NULL,15790,7 5th Way,United States,Texas,75019,Central
+NULL,15805,62 Center Road,United States,New York,62521,East
+NULL,15820,62424 Longview Parkway,United States,Ohio,60610,East
+NULL,15835,13 Hoffman Parkway,United States,New York,90049,East
+NULL,15850,3135 Judy Hill,United States,Pennsylvania,98105,East
+NULL,15865,95 Manufacturers Circle,United States,Arizona,85023,West
+NULL,15880,86901 Welch Trail,United States,Washington,98103,West
+NULL,15895,70052 Mockingbird Crossing,United States,New Jersey,90045,East
+NULL,15910,95295 Blackbird Alley,United States,California,90032,West
+NULL,15925,0017 Di Loreto Alley,United States,Ohio,78745,East
+NULL,15940,630 Evergreen Park,United States,Illinois,60068,Central
+NULL,15955,26037 Farragut Way,United States,Kentucky,98103,South
+NULL,15970,3 Daystar Court,United States,Arizona,90045,West
+NULL,15985,11 Saint Paul Road,United States,Michigan,98115,Central
+NULL,16000,19890 Elka Point,United States,Texas,78521,Central
+NULL,16015,9820 Merchant Way,United States,Illinois,98115,Central
+NULL,16030,9167 Ramsey Center,United States,Texas,77036,Central
+NULL,16045,7 3rd Lane,United States,Georgia,91911,South
+NULL,16060,9 Pepper Wood Park,United States,California,94109,West
+NULL,16075,2145 Anthes Park,United States,Pennsylvania,94109,East
+NULL,16105,8179 Sunnyside Trail,United States,Georgia,90045,South
+NULL,16120,27 Waywood Parkway,United States,Minnesota,92105,Central
+NULL,16135,17 Anderson Pass,United States,Oklahoma,74403,Central
+NULL,16150,93779 Old Gate Lane,United States,Minnesota,55407,Central
+NULL,16165,7 Roth Trail,United States,Wisconsin,95695,Central
+NULL,16180,5052 School Point,United States,Colorado,97030,West
+NULL,16195,664 Blackbird Trail,United States,California,90004,West
+NULL,16210,84016 Forest Run Park,United States,Ohio,45503,East
+NULL,16225,7983 Judy Crossing,United States,New York,66212,East
+NULL,16240,50 Spenser Avenue,United States,Minnesota,56301,Central
+NULL,16255,360 Novick Junction,United States,California,94110,West
+NULL,16270,512 Marcy Terrace,United States,Virginia,77095,South
+NULL,16285,253 Norway Maple Terrace,United States,California,95336,West
+NULL,16300,15862 Crownhardt Pass,United States,North Carolina,27604,South
+NULL,16315,21 Steensland Junction,United States,Minnesota,55407,Central
+NULL,16330,0 Sycamore Plaza,United States,Kentucky,60035,South
+NULL,16345,5777 Aberg Drive,United States,California,94122,West
+NULL,16375,7230 Dakota Parkway,United States,Virginia,91360,South
+NULL,16405,54204 Rieder Hill,United States,California,92307,West
+NULL,16420,5 Fair Oaks Drive,United States,Tennessee,97224,South
+NULL,16435,616 Jenifer Pass,United States,New York,41042,East
+NULL,16450,38238 Hollow Ridge Trail,United States,Florida,93277,South
+NULL,16465,5 Laurel Place,United States,California,90049,West
+NULL,16480,6926 Clarendon Terrace,United States,New York,94110,East
+NULL,16495,7 Sundown Court,United States,New York,49201,East
+NULL,16510,28281 Kedzie Point,United States,California,98103,West
+NULL,16525,9 Algoma Avenue,United States,California,91761,West
+NULL,16540,0100 Fieldstone Park,United States,California,92037,West
+NULL,16555,3 Esch Park,United States,Colorado,89502,West
+NULL,16570,55 Warbler Crossing,United States,Tennessee,71203,South
+NULL,16585,8 Sauthoff Court,United States,Nebraska,98115,Central
+NULL,16600,07 Buhler Avenue,United States,Texas,77041,Central
+NULL,16615,58418 Fisk Alley,United States,Arizona,85254,West
+NULL,16630,64319 Loeprich Terrace,United States,Texas,98105,Central
+NULL,16645,58799 Grayhawk Crossing,United States,Illinois,94122,Central
+NULL,16660,7588 Grasskamp Hill,United States,Georgia,30076,South
+NULL,16675,1986 Hudson Trail,United States,Washington,98105,West
+NULL,16690,96 Tony Pass,United States,California,94110,West
+NULL,16705,9 2nd Hill,United States,Washington,98105,West
+NULL,16720,92 Miller Lane,United States,California,94591,West
+NULL,16735,38 Arapahoe Way,United States,Texas,90032,Central
+NULL,16750,2150 Colorado Trail,United States,North Carolina,28205,South
+NULL,16765,072 Lakewood Street,United States,Colorado,80027,West
+NULL,16780,30676 Shoshone Park,United States,New Jersey,93727,East
+NULL,16795,5 Packers Center,United States,Illinois,60035,Central
+NULL,16810,46717 Granby Pass,United States,Virginia,60653,South
+NULL,16825,2773 Alpine Parkway,United States,Florida,94513,South
+NULL,16840,5 Washington Trail,United States,New York,98105,East
+NULL,16870,8682 Di Loreto Way,United States,Colorado,80013,West
+NULL,16885,8 5th Plaza,United States,California,95661,West
+NULL,16900,2 Old Shore Parkway,United States,Delaware,94110,East
+NULL,16915,5552 Golf Park,United States,California,92024,West
+NULL,16930,522 Anzinger Lane,United States,Texas,95823,Central
+NULL,16945,1883 Dorton Park,United States,Colorado,80219,West
+NULL,16975,4 Upham Point,United States,California,90004,West
+NULL,16990,00831 Thompson Center,United States,California,94110,West
+NULL,17005,83 Saint Paul Place,United States,Michigan,48234,Central
+NULL,17020,9293 Arkansas Parkway,United States,Ohio,94122,East
+NULL,17050,65 Westerfield Trail,United States,California,92691,West
+NULL,17065,72 Pearson Hill,United States,Mississippi,38671,South
+NULL,17080,1 Nelson Trail,United States,California,98103,West
+NULL,17095,3 Merchant Court,United States,Arizona,85023,West
+NULL,17110,87272 Corry Pass,United States,Illinois,78207,Central
+NULL,17140,16183 Dawn Circle,United States,California,98103,West
+NULL,17155,29965 Lakewood Trail,United States,California,94601,West
+NULL,17170,82125 Vera Trail,United States,California,92253,West
+NULL,17185,703 Sunfield Court,United States,Ohio,90301,East
+NULL,17200,182 Swallow Park,United States,Illinois,60076,Central
+NULL,17215,9753 Express Terrace,United States,California,91104,West
+NULL,17230,8 Helena Center,United States,Delaware,75051,East
+NULL,17245,7 Hermina Street,United States,Missouri,64118,Central
+NULL,17260,5 Golden Leaf Court,United States,Delaware,19805,East
+NULL,17275,2 Brickson Park Court,United States,Louisiana,99301,South
+NULL,17305,8 Fordem Park,United States,Ohio,85301,East
+NULL,17320,047 Anhalt Point,United States,Georgia,77095,South
+NULL,17350,88236 Goodland Place,United States,Arkansas,72701,South
+NULL,17365,592 Del Sol Drive,United States,Michigan,94110,Central
+NULL,17380,84 Canary Terrace,United States,Colorado,91730,West
+NULL,17395,50701 Kennedy Park,United States,California,92105,West
+NULL,17410,9 Hoepker Trail,United States,Connecticut,85023,East
+NULL,17425,265 Schurz Place,United States,Alabama,36608,South
+NULL,17455,45 Kropf Trail,United States,North Carolina,46142,South
+NULL,17470,2 Lotheville Junction,United States,New York,43229,East
+NULL,17485,81198 Del Sol Junction,United States,Virginia,85204,South
+NULL,17500,63 Haas Street,United States,New York,75056,East
+NULL,17515,0 Merrick Street,United States,Pennsylvania,90008,East
+NULL,17530,0146 West Circle,United States,California,92037,West
+NULL,17545,5237 Burning Wood Park,United States,Pennsylvania,19140,East
+NULL,17560,1925 Del Mar Hill,United States,Texas,77095,Central
+NULL,17575,341 Bonner Trail,United States,Ohio,95123,East
+NULL,17590,54111 Dawn Road,United States,New Jersey,92236,East
+NULL,17605,9081 Myrtle Center,United States,Michigan,77070,Central
+NULL,17620,0325 Lakeland Plaza,United States,California,94110,West
+NULL,17635,065 Cardinal Alley,United States,California,90032,West
+NULL,17650,2 Heffernan Circle,United States,Pennsylvania,98103,East
+NULL,17665,5572 Saint Paul Avenue,United States,Arizona,85023,West
+NULL,17680,90 Hazelcrest Court,United States,Pennsylvania,44060,East
+NULL,17695,546 Mosinee Point,United States,New York,19134,East
+NULL,17710,99175 Farmco Street,United States,Arizona,85204,West
+NULL,17725,906 Monica Plaza,United States,Colorado,98103,West
+NULL,17740,58 Carpenter Avenue,United States,Ohio,48227,East
+NULL,17755,75 Redwing Drive,United States,Virginia,97477,South
+NULL,17770,20627 Briar Crest Way,United States,New York,98105,East
+NULL,17785,6 8th Junction,United States,California,92105,West
+NULL,17800,924 Center Terrace,United States,New York,90036,East
+NULL,17815,003 North Avenue,United States,Mississippi,77642,South
+NULL,17830,92519 Schlimgen Circle,United States,Texas,90036,Central
+NULL,17845,05 Arizona Park,United States,Mississippi,90008,South
+NULL,17860,38318 Valley Edge Pass,United States,Indiana,78415,Central
+NULL,17875,499 Riverside Way,United States,New York,60505,East
+NULL,17890,5 Transport Circle,United States,Maryland,21215,East
+NULL,17905,63 Elka Terrace,United States,Connecticut,60653,East
+NULL,17920,01334 Manley Park,United States,California,94110,West
+NULL,17935,0 Golf Terrace,United States,Texas,75220,Central
+NULL,17950,6692 Dennis Crossing,United States,Texas,75220,Central
+NULL,17965,909 Macpherson Lane,United States,Massachusetts,48205,East
+NULL,17980,2251 Barnett Crossing,United States,Texas,77095,Central
+NULL,17995,1648 Blackbird Drive,United States,New York,90004,East
+NULL,18010,9 Autumn Leaf Junction,United States,California,94122,West
+NULL,18025,63 Memorial Court,United States,Washington,98115,West
+NULL,18040,0278 Lake View Circle,United States,New Mexico,87105,West
+NULL,18055,2 Rockefeller Pass,United States,Washington,98115,West
+NULL,18070,309 Talisman Avenue,United States,California,90045,West
+NULL,18085,052 American Ash Place,United States,Pennsylvania,19143,East
+NULL,18100,0 Duke Plaza,United States,Texas,90049,Central
+NULL,18115,4849 Nelson Circle,United States,Pennsylvania,78577,East
+NULL,18130,49 Nova Plaza,United States,Louisiana,90004,South
+NULL,18145,7 Prentice Alley,United States,Pennsylvania,90045,East
+NULL,18160,26 Dennis Lane,United States,Florida,94122,South
+NULL,18175,62 Golden Leaf Plaza,United States,California,94110,West
+NULL,18190,4579 Scoville Circle,United States,New York,10009,East
+NULL,18220,694 Claremont Circle,United States,Pennsylvania,19140,East
+NULL,18235,74 Westport Court,United States,Virginia,94122,South
+NULL,18280,8012 Debra Parkway,United States,Georgia,98103,South
+NULL,18295,3 American Road,United States,Texas,76051,Central
+NULL,18310,9 Paget Point,United States,California,94526,West
+NULL,18325,8860 Sauthoff Way,United States,Virginia,94601,South
+NULL,18340,63 Debra Alley,United States,Michigan,58103,Central
+NULL,18355,375 Eliot Way,United States,New York,33065,East
+NULL,18370,78276 Northridge Alley,United States,Kentucky,97206,South
+NULL,18385,41931 Holmberg Point,United States,Mississippi,62521,South
+NULL,18400,1 Reindahl Alley,United States,Oregon,97224,West
+NULL,18415,79 Declaration Pass,United States,North Carolina,48073,South
+NULL,18430,16 Bowman Circle,United States,Ohio,90008,East
+NULL,18445,376 Oriole Parkway,United States,New York,67212,East
+NULL,18460,6618 Pine View Junction,United States,Georgia,32216,South
+NULL,18475,88370 Warner Crossing,United States,Illinois,61107,Central
+NULL,18490,2 Ohio Crossing,United States,Washington,98105,West
+NULL,18505,670 Warbler Center,United States,Texas,95123,Central
+NULL,18520,93786 Troy Trail,United States,Washington,98105,West
+NULL,18535,30 Meadow Vale Avenue,United States,California,94110,West
+NULL,18550,60 Hagan Alley,United States,Illinois,60505,Central
+NULL,18565,598 Troy Parkway,United States,Ohio,94110,East
+NULL,18595,34141 Towne Point,United States,New York,98105,East
+NULL,18610,9 Talmadge Lane,United States,California,91767,West
+NULL,18625,89 Killdeer Terrace,United States,Colorado,80013,West
+NULL,18640,2028 Porter Alley,United States,Illinois,83704,Central
+NULL,18655,53337 Little Fleur Terrace,United States,Texas,75217,Central
+NULL,18670,95089 Riverside Circle,United States,Oklahoma,73034,Central
+NULL,18685,9 Reindahl Center,United States,New York,46203,East
+NULL,18700,9923 Talmadge Pass,United States,California,94109,West
+NULL,18715,8 Mallory Road,United States,Minnesota,92399,Central
+NULL,18730,1157 Shoshone Street,United States,California,92105,West
+NULL,18745,19351 Valley Edge Place,United States,California,94122,West
+NULL,18760,83199 Jay Plaza,United States,California,90008,West
+NULL,18775,665 Eagan Park,United States,New York,33180,East
+NULL,18790,24 Hoepker Pass,United States,Florida,33801,South
+NULL,18805,8404 Porter Pass,United States,Utah,84106,West
+NULL,18820,18859 Drewry Hill,United States,California,94110,West
+NULL,18835,892 Darwin Junction,United States,New York,22153,East
+NULL,18850,0 Hoepker Point,United States,Pennsylvania,33012,East
+NULL,18865,71894 Petterle Crossing,United States,Michigan,90036,Central
+NULL,18880,4004 Fisk Park,United States,California,94601,West
+NULL,18895,973 Badeau Place,United States,Minnesota,76106,Central
+NULL,18910,229 South Park,United States,Pennsylvania,94109,East
+NULL,18925,34 Stang Road,United States,Illinois,98115,Central
+NULL,18940,4 Golf Course Plaza,United States,Michigan,49201,Central
+NULL,18955,65 Forest Run Alley,United States,Georgia,45503,South
+NULL,18970,5680 Monterey Pass,United States,Kentucky,74133,South
+NULL,18985,8014 Barnett Trail,United States,California,94122,West
+NULL,19000,1654 Claremont Circle,United States,California,90004,West
+NULL,19015,30 Lindbergh Lane,United States,California,92704,West
+NULL,19030,3 Monument Road,United States,Kentucky,40475,South
+NULL,19045,8253 Sunfield Crossing,United States,North Carolina,92054,South
+NULL,19060,6976 Stuart Crossing,United States,Indiana,54703,Central
+NULL,19075,76 Portage Trail,United States,Wisconsin,94110,Central
+NULL,19105,7 Monica Parkway,United States,Illinois,60201,Central
+NULL,19120,47 Anthes Center,United States,Arizona,85234,West
+NULL,19135,1121 Killdeer Court,United States,Michigan,48227,Central
+NULL,19150,1 Dennis Court,United States,California,90004,West
+NULL,19165,8957 Rusk Lane,United States,Illinois,98502,Central
+NULL,19180,092 Alpine Court,United States,Illinois,98115,Central
+NULL,19195,8 Kingsford Circle,United States,Illinois,94122,Central
+NULL,19210,9 Cordelia Court,United States,Oklahoma,74133,Central
+NULL,19225,08135 Rutledge Road,United States,California,94122,West
+NULL,19240,19 Buena Vista Way,United States,Colorado,80027,West
+NULL,19255,54675 High Crossing Road,United States,Minnesota,55106,Central
+NULL,19270,724 Iowa Hill,United States,California,92503,West
+NULL,19285,51 Schmedeman Pass,United States,New York,90004,East
+NULL,19300,504 Mcbride Terrace,United States,Indiana,46614,Central
+NULL,19315,43 Eastlawn Hill,United States,California,94110,West
+NULL,19330,7 Sullivan Trail,United States,Pennsylvania,78745,East
+NULL,19345,1055 Saint Paul Point,United States,New Hampshire,33180,East
+NULL,19360,234 Oxford Park,United States,New York,57103,East
+NULL,19375,194 Shasta Pass,United States,Texas,77095,Central
+NULL,19390,7 Saint Paul Junction,United States,Ohio,77041,East
+NULL,19420,24 Sunfield Road,United States,Connecticut,6824,East
+NULL,19435,70 Packers Parkway,United States,Missouri,92105,Central
+NULL,19450,0 Brown Center,United States,New York,54703,East
+NULL,19465,05 Sauthoff Junction,United States,Illinois,94591,Central
+NULL,19480,11 Annamark Drive,United States,Washington,98502,West
+NULL,19495,5 Spaight Trail,United States,Minnesota,55901,Central
+NULL,19510,10572 Oxford Circle,United States,Rhode Island,84604,East
+NULL,19525,69 Transport Crossing,United States,Massachusetts,43615,East
+NULL,19540,74 Forster Terrace,United States,Arizona,85204,West
+NULL,19570,0471 Jenna Pass,United States,Indiana,47201,Central
+NULL,19585,0616 Moose Center,United States,Kentucky,92592,South
+NULL,19600,6 Granby Alley,United States,Alabama,60188,South
+NULL,19615,33 Esch Way,United States,Alabama,60610,South
+NULL,19630,2 Heffernan Pass,United States,Texas,98105,Central
+NULL,19645,0271 Farwell Lane,United States,Nevada,89031,West
+NULL,19660,1 Corscot Drive,United States,Missouri,64055,Central
+NULL,19675,84 Armistice Way,United States,Louisiana,90049,South
+NULL,19690,35 Evergreen Parkway,United States,North Carolina,65807,South
+NULL,19705,6005 Northport Place,United States,Oregon,97206,West
+NULL,19720,0221 Moose Road,United States,Florida,32114,South
+NULL,19735,55 Mayer Road,United States,Michigan,95123,Central
+NULL,19750,5022 Rigney Place,United States,New York,10011,East
+NULL,19765,19 Sunnyside Trail,United States,New York,90045,East
+NULL,19780,4 Rutledge Junction,United States,Tennessee,38109,South
+NULL,19795,73388 Pierstorff Junction,United States,North Carolina,94110,South
+NULL,19810,603 Northfield Crossing,United States,California,90045,West
+NULL,19825,63 Burning Wood Parkway,United States,Illinois,91104,Central
+NULL,19840,77091 Corben Park,United States,New York,78207,East
+NULL,19855,148 Merry Drive,United States,Wisconsin,53142,Central
+NULL,19885,3 Del Sol Drive,United States,California,90049,West
+NULL,19900,281 Oakridge Point,United States,Oregon,97206,West
+NULL,19915,157 Stone Corner Pass,United States,Texas,92024,Central
+NULL,19930,68 Anthes Terrace,United States,Texas,78745,Central
+NULL,19945,22786 Shasta Park,United States,California,92563,West
+NULL,19960,3977 Birchwood Center,United States,Ohio,97477,East
+NULL,19975,271 Daystar Parkway,United States,California,94122,West
+NULL,19990,3 Mariners Cove Court,United States,Connecticut,43615,East
+NULL,20005,89170 Kipling Park,United States,New York,10009,East
+NULL,20020,8783 Bunting Point,United States,Texas,75023,Central
+NULL,20035,4637 Petterle Junction,United States,California,90660,West
+NULL,20050,2852 Helena Point,United States,Texas,79424,Central
+NULL,20065,5 Northport Junction,United States,North Carolina,28403,South
+NULL,20080,83 Brickson Park Crossing,United States,Missouri,92374,Central
+NULL,20095,31640 Kinsman Lane,United States,California,94521,West
+NULL,20110,75894 Vahlen Crossing,United States,New York,92627,East
+NULL,20125,96 Briar Crest Place,United States,New Jersey,98103,East
+NULL,20140,51092 Lukken Plaza,United States,Rhode Island,75150,East
+NULL,20155,5152 Corben Court,United States,Texas,77095,Central
+NULL,20170,78220 La Follette Street,United States,New York,10035,East
+NULL,20200,093 Pankratz Pass,United States,Pennsylvania,98226,East
+NULL,20215,37663 Mosinee Crossing,United States,Texas,75051,Central
+NULL,20230,676 Prairieview Lane,United States,Texas,76017,Central
+NULL,20245,17 5th Lane,United States,Pennsylvania,45503,East
+NULL,20260,2237 Waubesa Park,United States,California,94122,West
+NULL,20275,382 Elmside Terrace,United States,Mississippi,92105,South
+NULL,20290,3802 Daystar Lane,United States,Texas,77036,Central
+NULL,20305,99 Mayfield Park,United States,Illinois,60623,Central
+NULL,20320,16260 Rutledge Alley,United States,Indiana,47905,Central
+NULL,20335,8 Crescent Oaks Plaza,United States,Florida,38401,South
+NULL,20350,7051 Roth Avenue,United States,Michigan,68104,Central
+NULL,20365,597 Farmco Court,United States,Delaware,70506,East
+NULL,20380,41493 Homewood Crossing,United States,Washington,98115,West
+NULL,20395,3 Nova Place,United States,Virginia,45503,South
+NULL,20425,798 Lakeland Plaza,United States,Colorado,80027,West
+NULL,20440,79 Red Cloud Circle,United States,Colorado,80013,West
+NULL,20470,8 Vidon Parkway,United States,New York,97030,East
+NULL,20485,66820 Red Cloud Alley,United States,New York,60653,East
+NULL,20500,40 Truax Junction,United States,Texas,87505,Central
+NULL,20530,614 Karstens Center,United States,Ohio,87105,East
+NULL,20545,128 Loftsgordon Circle,United States,New York,60623,East
+NULL,20560,1 Coolidge Court,United States,California,90008,West
+NULL,20575,1099 Di Loreto Circle,United States,Indiana,60653,Central
+NULL,20590,78 Veith Park,United States,Wisconsin,67212,Central
+NULL,20605,72 Kingsford Drive,United States,New York,10009,East
+NULL,20620,735 Pine View Terrace,United States,Pennsylvania,94110,East
+NULL,20650,9599 Cambridge Alley,United States,California,95123,West
+NULL,20665,2 Monica Center,United States,Mississippi,39212,South
+NULL,20680,4 Northfield Hill,United States,Georgia,74012,South
+NULL,20695,66 Dennis Terrace,United States,Florida,33012,South
+NULL,20710,3401 Shoshone Park,United States,Texas,98042,Central
+NULL,20725,61529 Lake View Pass,United States,Delaware,92374,East
+NULL,20740,512 Hazelcrest Trail,United States,New York,98103,East
+NULL,20755,26 Scofield Trail,United States,New York,10009,East
+NULL,20770,1 Dixon Drive,United States,Alabama,94122,South
+NULL,20785,0097 Southridge Street,United States,Colorado,81001,West
+NULL,20800,7341 Birchwood Street,United States,Texas,78539,Central
+NULL,20815,013 5th Lane,United States,Texas,77041,Central
+NULL,20830,224 Orin Park,United States,Virginia,97756,South
+NULL,20860,5265 Florence Crossing,United States,Pennsylvania,90045,East
+NULL,20875,61423 Blue Bill Park Point,United States,Texas,98052,Central
+NULL,20890,59612 American Ash Park,United States,Texas,78501,Central
+NULL,20920,631 Truax Parkway,United States,California,90036,West
+NULL,20935,7 Summer Ridge Alley,United States,New York,75217,East
+NULL,20950,85 East Drive,United States,North Carolina,68104,South
+NULL,20965,01 Doe Crossing Avenue,United States,Michigan,77520,Central
+NULL,20980,5673 Rusk Center,United States,Washington,98105,West
+NULL,20995,03 Darwin Avenue,United States,Texas,97206,Central
+NULL,21010,9 Bayside Crossing,United States,Utah,95687,West
+NULL,21025,10 Lillian Terrace,United States,Arizona,85254,West
+NULL,21040,8 Stuart Drive,United States,Arizona,95336,West
+NULL,21055,88 Westend Terrace,United States,New York,12180,East
+NULL,21070,4 Fairview Court,United States,California,98103,West
+NULL,21085,6619 American Park,United States,Arizona,85023,West
+NULL,21100,69441 Atwood Trail,United States,California,92037,West
+NULL,21130,2667 Tennyson Lane,United States,Michigan,48227,Central
+NULL,21160,40 Crest Line Drive,United States,Ohio,94110,East
+NULL,21175,1 Norway Maple Pass,United States,Texas,77041,Central
+NULL,21190,53308 Dapin Avenue,United States,Arkansas,72701,South
+NULL,21205,8 Bartelt Center,United States,New Jersey,94109,East
+NULL,21220,9 Raven Court,United States,Texas,94109,Central
+NULL,21235,6533 Vidon Trail,United States,Texas,90032,Central
+NULL,21250,080 Claremont Trail,United States,New York,97301,East
+NULL,21265,49331 Sundown Center,United States,California,90045,West
+NULL,21280,724 Scoville Court,United States,District of Columbia,20016,East
+NULL,21295,5684 Melrose Court,United States,California,92024,West
+NULL,21310,43894 Onsgard Road,United States,California,90049,West
+NULL,21325,8292 Sycamore Pass,United States,New Jersey,94122,East
+NULL,21340,410 Caliangt Park,United States,New York,90036,East
+NULL,21355,54833 Hauk Avenue,United States,New York,30328,East
+NULL,21370,787 Center Trail,United States,New York,90049,East
+NULL,21385,26073 Northwestern Lane,United States,New York,10024,East
+NULL,21400,8114 Farwell Court,United States,Washington,98105,West
+NULL,21415,4611 Troy Parkway,United States,Texas,77070,Central
+NULL,21430,628 Ridge Oak Plaza,United States,California,90045,West
+NULL,21460,77097 Claremont Avenue,United States,Illinois,76106,Central
+NULL,21475,9 Del Sol Circle,United States,Georgia,98115,South
+NULL,21490,9 Saint Paul Street,United States,Oklahoma,73120,Central
+NULL,21505,76237 Linden Terrace,United States,Tennessee,94122,South
+NULL,21520,10604 8th Circle,United States,Pennsylvania,97206,East
+NULL,21535,45 Arkansas Alley,United States,New York,90008,East
+NULL,21550,7 Fairview Terrace,United States,Michigan,48227,Central
+NULL,21565,0 Steensland Terrace,United States,Colorado,80013,West
+NULL,21580,432 Anzinger Plaza,United States,Colorado,80027,West
+NULL,21595,49381 Michigan Road,United States,Indiana,47201,Central
+NULL,21610,56 Tennyson Center,United States,Arizona,94122,West
+NULL,21625,2 Warrior Avenue,United States,Texas,94110,Central
+NULL,21640,12463 Mendota Plaza,United States,California,90805,West
+NULL,21670,62145 Welch Court,United States,Tennessee,84062,South
+NULL,21685,40401 Randy Parkway,United States,New Jersey,98105,East
+NULL,21700,1 Myrtle Plaza,United States,Pennsylvania,19143,East
+NULL,21715,272 3rd Plaza,United States,California,98115,West
+NULL,21730,1 Comanche Street,United States,Nevada,89115,West
+NULL,21745,66 Tennyson Center,United States,Georgia,78207,South
+NULL,21775,28213 Namekagon Hill,United States,Ohio,98006,East
+NULL,21790,821 Corben Hill,United States,California,94403,West
+NULL,21805,68519 Warbler Park,United States,Virginia,47374,South
+NULL,21820,7681 Roxbury Terrace,United States,California,90036,West
+NULL,21835,26394 Rigney Center,United States,Delaware,46368,East
+NULL,21850,9014 Mayer Point,United States,Pennsylvania,94521,East
+NULL,21865,2 Moulton Point,United States,California,92024,West
+NULL,21880,2 Fallview Road,United States,North Carolina,94601,South
+NULL,21895,61744 Clove Junction,United States,California,94110,West
+NULL,21910,802 Sherman Plaza,United States,Oregon,98026,West
+NULL,21925,44 Texas Junction,United States,California,94109,West
+NULL,10045,9483 Moulton Street,United States,North Carolina,10035,South
+NULL,10060,6 Rutledge Circle,United States,New York,3301,East
+NULL,10075,5240 Lotheville Circle,United States,New York,10011,East
+NULL,10090,55423 Welch Hill,United States,Virginia,19143,South
+NULL,10105,3039 Shasta Junction,United States,Arizona,42420,West
+NULL,10120,941 Hudson Plaza,United States,Arizona,85705,West
+NULL,10150,50443 Troy Way,United States,New York,11561,East
+NULL,10165,1 Meadow Vale Lane,United States,California,43615,West
+NULL,10180,28802 Blue Bill Park Drive,United States,Texas,6824,Central
+NULL,10210,145 Roxbury Avenue,United States,California,10024,West
+NULL,10225,31966 Morning Street,United States,Alabama,36116,South
+NULL,10240,0 Hoepker Junction,United States,Florida,33614,South
+NULL,10255,27193 Clarendon Alley,United States,Ohio,19134,East
+NULL,10285,616 Mccormick Place,United States,California,19134,West
+NULL,10300,994 Charing Cross Park,United States,California,2038,West
+NULL,10360,82407 Independence Place,United States,Texas,75051,Central
+NULL,10375,0865 Rigney Center,United States,Arizona,30318,West
+NULL,10390,8 Carey Circle,United States,Ohio,10009,East
+NULL,10405,085 Ridgeview Parkway,United States,Massachusetts,2038,East
+NULL,10420,500 Paget Hill,United States,California,77041,West
+NULL,10435,089 David Street,United States,California,90004,West
+NULL,10450,3 Shelley Crossing,United States,Minnesota,10011,Central
+NULL,10495,9 Crest Line Park,United States,Pennsylvania,19140,East
+NULL,10510,8 Florence Street,United States,Pennsylvania,10024,East
+NULL,10600,387 Declaration Street,United States,Arizona,60623,West
+NULL,10630,50 Reinke Street,United States,Texas,77506,Central
+NULL,10645,6 Starling Place,United States,Pennsylvania,19013,East
+NULL,10675,0 Westerfield Trail,United States,Texas,28540,Central
+NULL,10690,2 Express Point,United States,Florida,33317,South
+NULL,10705,991 Little Fleur Crossing,United States,Alabama,2920,South
+NULL,10720,25 Surrey Hill,United States,New York,2148,East
+NULL,10735,022 Carey Hill,United States,Washington,60653,West
+NULL,10765,75 Welch Terrace,United States,Pennsylvania,19120,East
+NULL,10780,637 Armistice Alley,United States,Virginia,22153,South
+NULL,10795,70 Bunting Parkway,United States,Florida,32216,South
+NULL,10825,9713 Roth Street,United States,Washington,11561,West
+NULL,10840,4817 Northland Point,United States,Texas,19140,Central
+NULL,10855,75391 Sachs Junction,United States,Pennsylvania,19120,East
+NULL,10870,2368 Forest Court,United States,Texas,7055,Central
+NULL,10885,73 Manufacturers Place,United States,Kentucky,40214,South
+NULL,10900,5549 Old Gate Circle,United States,Arizona,6708,West
+NULL,10915,9 Arrowood Center,United States,Florida,29730,South
+NULL,10930,66074 Summit Junction,United States,Illinois,60505,Central
+NULL,10975,7979 Heffernan Court,United States,North Carolina,28205,South
+NULL,10990,9 8th Avenue,United States,Arizona,43615,West
+NULL,11005,6175 Oak Crossing,United States,California,90004,West
+NULL,11095,0 Brentwood Park,United States,Illinois,61604,Central
+NULL,11110,7466 Pierstorff Road,United States,Wisconsin,53209,Central
+NULL,11125,81 Arapahoe Terrace,United States,Arizona,10011,West
+NULL,11140,7202 Ludington Avenue,United States,Texas,10024,Central
+NULL,11155,760 Dixon Pass,United States,Georgia,10011,South
+NULL,11170,8 Scofield Trail,United States,California,27604,West
+NULL,11185,4104 Cottonwood Road,United States,Colorado,33065,West
+NULL,11200,1679 Namekagon Hill,United States,Florida,23666,South
+NULL,11245,2 Dorton Center,United States,Iowa,33142,Central
+NULL,11260,97400 Corry Center,United States,New York,10035,East
+NULL,11305,604 Londonderry Avenue,United States,California,54880,West
+NULL,11320,91 Farwell Parkway,United States,California,2908,West
+NULL,11335,35689 American Ash Center,United States,Michigan,13440,Central
+NULL,11365,27711 Coolidge Street,United States,New York,8701,East
+NULL,11395,7929 Briar Crest Plaza,United States,Michigan,16602,Central
+NULL,11410,771 Fairview Drive,United States,Ohio,33178,East
+NULL,11455,52053 Declaration Drive,United States,Ohio,2908,East
+NULL,11500,71 Old Shore Court,United States,Wisconsin,23223,Central
+NULL,11515,430 Pankratz Parkway,United States,Minnesota,10009,Central
+NULL,11530,39 Hooker Avenue,United States,California,90036,West
+NULL,11575,491 Village Court,United States,New York,10035,East
+NULL,11590,27720 Fairfield Park,United States,Arizona,47201,West
+NULL,11605,5618 Marquette Drive,United States,Massachusetts,1841,East
+NULL,11620,565 Waxwing Trail,United States,California,73505,West
+NULL,11650,072 Briar Crest Alley,United States,New York,10009,East
+NULL,11680,52 Kingsford Terrace,United States,Ohio,20735,East
+NULL,11695,2505 Crest Line Place,United States,Ohio,13601,East
+NULL,11710,0 Hanson Point,United States,California,19140,West
+NULL,11725,93114 Utah Terrace,United States,Kentucky,40475,South
+NULL,11755,2098 Harper Lane,United States,Colorado,80219,West
+NULL,11770,9021 Clemons Trail,United States,New York,10011,East
+NULL,11785,60 Ramsey Terrace,United States,Ohio,14609,East
+NULL,11800,012 Melrose Trail,United States,New York,10011,East
+NULL,11815,2 Utah Trail,United States,Texas,77506,Central
+NULL,11845,2923 Eastlawn Street,United States,Washington,77070,West
+NULL,11890,7 Monica Point,United States,Massachusetts,2149,East
+NULL,11905,7 Service Lane,United States,Texas,59715,Central
+NULL,11920,47 Menomonie Court,United States,California,10024,West
+NULL,11950,976 Canary Road,United States,Illinois,19140,Central
+NULL,11965,24927 Schiller Drive,United States,Alabama,35244,South
+NULL,11995,55 Pine View Alley,United States,Minnesota,46203,Central
+NULL,12010,5 Prentice Court,United States,California,10009,West
+NULL,12025,4546 Superior Lane,United States,Ohio,19134,East
+NULL,12040,7 Hintze Street,United States,Pennsylvania,10024,East
+NULL,12055,73829 Bluejay Point,United States,Texas,77036,Central
+NULL,12070,7 Red Cloud Drive,United States,North Carolina,19143,South
+NULL,12085,997 Dapin Plaza,United States,Connecticut,6360,East
+NULL,12100,224 Katie Point,United States,Indiana,47201,Central
+NULL,12130,267 Mitchell Street,United States,California,80112,West
+NULL,12145,27 Sycamore Hill,United States,California,79907,West
+NULL,12160,0 Helena Circle,United States,Pennsylvania,19134,East
+NULL,12190,819 Dennis Plaza,United States,Pennsylvania,19134,East
+NULL,12205,56 Memorial Avenue,United States,Pennsylvania,11550,East
+NULL,12220,2702 Almo Center,United States,Indiana,6824,Central
+NULL,12250,921 Darwin Drive,United States,Louisiana,71111,South
+NULL,12265,59 Bonner Avenue,United States,Utah,22153,West
+NULL,12310,4331 Carioca Court,United States,Ohio,6010,East
+NULL,12325,456 Burrows Drive,United States,Utah,23320,West
+NULL,12340,393 Nevada Court,United States,New York,2886,East
+NULL,12355,1224 Anniversary Junction,United States,Georgia,2148,South
+NULL,12370,480 Morning Parkway,United States,North Carolina,28314,South
+NULL,12385,0597 Prentice Point,United States,Georgia,30318,South
+NULL,12400,94510 Forster Park,United States,Florida,33614,South
+NULL,12415,2 Chive Crossing,United States,Ohio,10009,East
+NULL,12430,673 Hoard Hill,United States,Indiana,3301,Central
+NULL,12460,68870 Alpine Drive,United States,Georgia,10009,South
+NULL,12475,58 Morningstar Center,United States,New York,8701,East
+NULL,12505,58285 Upham Center,United States,North Carolina,27360,South
+NULL,12535,55695 Kenwood Court,United States,North Carolina,2038,South
+NULL,12565,09 Gulseth Point,United States,California,29203,West
+NULL,12595,708 Waywood Lane,United States,Ohio,10024,East
+NULL,12610,272 Del Sol Place,United States,Pennsylvania,19134,East
+NULL,12640,27 Pierstorff Way,United States,Pennsylvania,19143,East
+NULL,12655,3 Monterey Parkway,United States,California,10035,West
+NULL,12670,2 International Crossing,United States,New York,10009,East
+NULL,12685,16 Jay Junction,United States,North Carolina,10011,South
+NULL,12700,6636 Sunnyside Park,United States,Missouri,65807,Central
+NULL,12730,5 Melby Center,United States,Ohio,10009,East
+NULL,12745,662 Chive Street,United States,California,38401,West
+NULL,12760,79 Sunnyside Way,United States,New Jersey,7036,East
+NULL,12775,4 Ronald Regan Point,United States,Florida,19140,South
+NULL,12790,8789 Gateway Place,United States,California,73120,West
+NULL,12805,5785 Thackeray Hill,United States,New York,10024,East
+NULL,12835,6383 Susan Point,United States,California,19143,West
+NULL,12850,675 Carey Road,United States,Alabama,10011,South
+NULL,12865,47 Spenser Court,United States,Ohio,10011,East
+NULL,12880,38 Cambridge Park,United States,Illinois,10009,Central
+NULL,12895,286 Hansons Circle,United States,Wisconsin,33023,Central
+NULL,12910,116 Golf Course Way,United States,Florida,33311,South
+NULL,12925,180 Golf View Terrace,United States,Minnesota,46060,Central
+NULL,12940,575 Michigan Place,United States,Massachusetts,2038,East
+NULL,12955,73532 Oak Valley Plaza,United States,Michigan,48146,Central
+NULL,12985,84849 Dapin Point,United States,Kentucky,42420,South
+NULL,13000,25 Charing Cross Terrace,United States,Indiana,33311,Central
+NULL,13015,04 Stone Corner Hill,United States,California,37604,West
+NULL,13030,48738 Lakeland Pass,United States,Washington,80013,West
+NULL,13045,40 Fremont Avenue,United States,California,19143,West
+NULL,13060,4431 Sutteridge Way,United States,Washington,1852,West
+NULL,13075,685 Leroy Avenue,United States,Kentucky,35601,South
+NULL,13090,0829 Scoville Road,United States,Washington,22153,West
+NULL,13120,438 Rigney Circle,United States,California,14609,West
+NULL,13180,767 Dryden Terrace,United States,Michigan,48227,Central
+NULL,13195,6976 Vahlen Parkway,United States,Texas,37918,Central
+NULL,13210,6 Delaware Crossing,United States,Texas,7501,Central
+NULL,13225,00715 Judy Alley,United States,Pennsylvania,14609,East
+NULL,13240,5 Maywood Avenue,United States,Utah,2151,West
+NULL,13255,91233 Autumn Leaf Point,United States,Ohio,44107,East
+NULL,13270,8813 Eggendart Plaza,United States,California,10009,West
+NULL,13285,66 Stang Drive,United States,Minnesota,23223,Central
+NULL,13300,1 Del Sol Court,United States,Pennsylvania,10035,East
+NULL,13315,5 Tomscot Trail,United States,New York,10024,East
+NULL,13330,61 Vernon Place,United States,New Mexico,10009,West
+NULL,13345,57980 Mitchell Parkway,United States,Georgia,30076,South
+NULL,13375,86753 Ruskin Avenue,United States,Ohio,10024,East
+NULL,13390,28244 Summit Lane,United States,Illinois,35401,Central
+NULL,13405,9915 Stephen Park,United States,Indiana,10011,Central
+NULL,13420,923 Columbus Center,United States,Georgia,31088,South
+NULL,13435,5037 Riverside Alley,United States,New York,10035,East
+NULL,13450,80 Tennessee Hill,United States,Texas,20016,Central
+NULL,13465,2 Johnson Parkway,United States,Colorado,80219,West
+NULL,13480,885 Shopko Pass,United States,Minnesota,40214,Central
+NULL,13495,98411 Armistice Terrace,United States,California,31907,West
+NULL,13510,6 Mayer Crossing,United States,Tennessee,37130,South
+NULL,13540,89 Bunker Hill Court,United States,Washington,10024,West
+NULL,13555,4 Dwight Alley,United States,Ohio,43017,East
+NULL,13570,757 7th Trail,United States,Texas,22304,Central
+NULL,13585,29 Steensland Avenue,United States,Ohio,7090,East
+NULL,13600,2072 Oak Center,United States,Texas,10035,Central
+NULL,13615,973 Quincy Alley,United States,California,28806,West
+NULL,13630,1 Havey Way,United States,New York,10009,East
+NULL,13660,889 Northport Place,United States,New York,11572,East
+NULL,13690,119 Shopko Lane,United States,California,94109,West
+NULL,13720,4710 Parkside Hill,United States,California,77340,West
+NULL,13735,467 Derek Place,United States,Maryland,21044,East
+NULL,13750,69653 Petterle Way,United States,Washington,33317,West
+NULL,13765,8091 Dwight Street,United States,New York,2151,East
+NULL,13780,8 Dakota Lane,United States,New York,10035,East
+NULL,13795,5 Veith Road,United States,California,92025,West
+NULL,13810,3181 Meadow Ridge Terrace,United States,California,2038,West
+NULL,13825,304 Helena Drive,United States,South Dakota,57103,Central
+NULL,13840,46366 Holmberg Alley,United States,Washington,10035,West
+NULL,13870,30 Scoville Circle,United States,Utah,10035,West
+NULL,13885,54 Novick Point,United States,California,77036,West
+NULL,13900,28116 Columbus Lane,United States,New York,11572,East
+NULL,13915,4 Carberry Drive,United States,Illinois,3820,Central
+NULL,13930,37 Marcy Park,United States,California,23223,West
+NULL,13945,509 Rieder Place,United States,California,7060,West
+NULL,14005,8408 Grasskamp Parkway,United States,Florida,19143,South
+NULL,14020,92235 Menomonie Parkway,United States,New York,10035,East
+NULL,14035,740 Southridge Street,United States,North Carolina,19134,South
+NULL,14050,774 Daystar Drive,United States,New York,10024,East
+NULL,14065,819 Northview Pass,United States,New York,10024,East
+NULL,14080,36756 Spohn Terrace,United States,Florida,2908,South
+NULL,14125,0702 Parkside Lane,United States,Ohio,45373,East
+NULL,14185,864 Moland Drive,United States,Alabama,35601,South
+NULL,14215,277 Rockefeller Park,United States,California,6457,West
+NULL,14230,8 Spenser Crossing,United States,California,78207,West
+NULL,14260,7 Crowley Court,United States,California,60505,West
+NULL,14275,05886 Bellgrove Road,United States,Indiana,10024,Central
+NULL,14290,5235 Fallview Avenue,United States,California,40475,West
+NULL,14305,34 Melby Center,United States,New York,10035,East
+NULL,14320,2220 Lillian Lane,United States,California,90008,West
+NULL,14350,15 Bobwhite Street,United States,Washington,30318,West
+NULL,14365,7686 Kinsman Pass,United States,Pennsylvania,19120,East
+NULL,14380,4984 Dunning Street,United States,Massachusetts,1841,East
+NULL,14410,8 Schiller Circle,United States,Arizona,8861,West
+NULL,14425,1 Messerschmidt Place,United States,Arizona,32216,West
+NULL,14440,74252 Shelley Avenue,United States,California,10009,West
+NULL,14455,5180 Knutson Road,United States,Ohio,2038,East
+NULL,14470,5306 Fordem Center,United States,California,21044,West
+NULL,14515,8 Prairieview Way,United States,California,10011,West
+NULL,14530,24 Melrose Pass,United States,New York,13021,East
+NULL,14575,98 Tennyson Drive,United States,Pennsylvania,19134,East
+NULL,14605,6146 Hanover Junction,United States,Washington,19140,West
+NULL,14620,47215 Maple Wood Place,United States,California,7960,West
+NULL,14635,92803 Tomscot Point,United States,North Carolina,10009,South
+NULL,14650,9121 Sage Point,United States,Tennessee,10035,South
+NULL,14665,65835 Barby Circle,United States,Texas,60610,Central
+NULL,14680,7038 Derek Crossing,United States,Washington,10024,West
+NULL,14695,5320 Logan Terrace,United States,California,22304,West
+NULL,14710,05938 Charing Cross Terrace,United States,Minnesota,10035,Central
+NULL,14725,0803 Dexter Circle,United States,North Carolina,28205,South
+NULL,14740,97084 Oxford Court,United States,Pennsylvania,1453,East
+NULL,14755,75 Killdeer Pass,United States,Texas,61107,Central
+NULL,14815,8069 Esker Center,United States,Texas,10024,Central
+NULL,14830,88207 Judy Circle,United States,Washington,10009,West
+NULL,14845,4 Novick Drive,United States,Louisiana,10024,South
+NULL,14860,98577 Scoville Parkway,United States,Pennsylvania,19120,East
+NULL,14890,3967 Surrey Street,United States,North Carolina,28205,South
+NULL,14905,8 Knutson Plaza,United States,Massachusetts,2038,East
+NULL,14920,861 Birchwood Street,United States,California,19120,West
+NULL,14935,04335 Dottie Plaza,United States,California,60653,West
+NULL,14965,43510 Hazelcrest Plaza,United States,California,39503,West
+NULL,14995,6982 Eastlawn Park,United States,Indiana,38109,Central
+NULL,15025,422 Sutteridge Way,United States,Minnesota,11572,Central
+NULL,15040,45 Gina Center,United States,Texas,14609,Central
+NULL,15070,36317 Eliot Crossing,United States,Alabama,10009,South
+NULL,15085,4 Lotheville Lane,United States,California,72209,West
+NULL,15100,91 Anniversary Crossing,United States,California,19805,West
+NULL,15130,05409 Dovetail Parkway,United States,Texas,43130,Central
+NULL,15145,22 Maywood Pass,United States,Pennsylvania,19140,East
+NULL,15160,8 Debs Way,United States,California,10024,West
+NULL,15235,02407 Bunting Way,United States,Illinois,19711,Central
+NULL,15265,30164 Sherman Junction,United States,New York,10024,East
+NULL,15280,223 Badeau Road,United States,California,19120,West
+NULL,15295,4752 Boyd Trail,United States,Washington,48310,West
+NULL,15340,59 Lunder Hill,United States,California,10024,West
+NULL,15355,7501 Atwood Terrace,United States,Texas,29203,Central
+NULL,15370,91 Fieldstone Center,United States,Pennsylvania,19143,East
+NULL,15400,66 Gale Parkway,United States,Illinois,1841,Central
+NULL,15445,14 Mandrake Junction,United States,California,53186,West
+NULL,15460,18335 Rutledge Hill,United States,New York,8701,East
+NULL,15475,82599 Crescent Oaks Way,United States,New York,10024,East
+NULL,15490,49979 Charing Cross Alley,United States,Washington,43229,West
+NULL,15505,345 Reindahl Pass,United States,New York,10035,East
+NULL,15520,4663 Ridgeview Junction,United States,California,32127,West
+NULL,15535,37 Drewry Plaza,United States,Pennsylvania,19143,East
+NULL,15550,7 Mosinee Parkway,United States,Pennsylvania,19013,East
+NULL,15565,1 Cottonwood Pass,United States,Texas,19120,Central
+NULL,15595,2268 Saint Paul Way,United States,California,33180,West
+NULL,15610,752 Crowley Avenue,United States,Wisconsin,3301,Central
+NULL,15625,21 Evergreen Circle,United States,Washington,43229,West
+NULL,15655,0 Tennyson Lane,United States,New Jersey,8302,East
+NULL,15670,9 High Crossing Street,United States,Connecticut,6457,East
+NULL,15715,3 Luster Junction,United States,Colorado,80020,West
+NULL,15730,069 Lyons Hill,United States,North Carolina,28540,South
+NULL,15745,82 North Terrace,United States,Tennessee,20852,South
+NULL,15760,3952 Ilene Lane,United States,Virginia,22153,South
+NULL,15775,035 Shopko Crossing,United States,Texas,10011,Central
+NULL,15805,6 Bultman Court,United States,New York,10024,East
+NULL,15820,89983 Harbort Point,United States,Ohio,44240,East
+NULL,15835,259 Prairieview Road,United States,New York,10011,East
+NULL,15850,97441 Fair Oaks Point,United States,Pennsylvania,19134,East
+NULL,15865,8 Eagan Alley,United States,Arizona,44312,West
+NULL,15880,4707 Harbort Hill,United States,Washington,78550,West
+NULL,15895,29 Pawling Plaza,United States,New Jersey,7109,East
+NULL,15910,771 Cody Trail,United States,California,60623,West
+NULL,15925,35736 Eggendart Plaza,United States,Ohio,43017,East
+NULL,15940,4 Drewry Park,United States,Illinois,19134,Central
+NULL,15955,5 Arapahoe Pass,United States,Kentucky,11561,South
+NULL,15970,662 Merry Parkway,United States,Arizona,19134,West
+NULL,15985,6200 Hanson Place,United States,Michigan,48601,Central
+NULL,16000,22335 Toban Crossing,United States,Texas,19140,Central
+NULL,16015,274 Iowa Alley,United States,Illinois,10009,Central
+NULL,16045,7895 Messerschmidt Place,United States,Georgia,31907,South
+NULL,16060,7 Fair Oaks Way,United States,California,55901,West
+NULL,16075,492 Maple Wood Park,United States,Pennsylvania,19140,East
+NULL,16105,38047 Bluejay Road,United States,Georgia,14609,South
+NULL,16120,5 Sachtjen Alley,United States,Minnesota,10009,Central
+NULL,16150,8 Bartillon Plaza,United States,Minnesota,10011,Central
+NULL,16165,5 Elka Junction,United States,Wisconsin,53132,Central
+NULL,16180,69 Browning Drive,United States,Colorado,81001,West
+NULL,16195,36938 Marcy Court,United States,California,13601,West
+NULL,16210,613 Vermont Center,United States,Ohio,32216,East
+NULL,16225,7 Everett Pass,United States,New York,10011,East
+NULL,16255,77 Village Parkway,United States,California,31204,West
+NULL,16270,41 Superior Place,United States,Virginia,10024,South
+NULL,16285,1 Old Gate Park,United States,California,7060,West
+NULL,16315,91221 Atwood Drive,United States,Minnesota,11520,Central
+NULL,16330,952 Blackbird Lane,United States,Kentucky,42104,South
+NULL,16345,38372 High Crossing Way,United States,California,10009,West
+NULL,16375,00 Ruskin Plaza,United States,Virginia,24153,South
+NULL,16420,66 Dakota Drive,United States,Tennessee,10035,South
+NULL,16435,2643 Burrows Avenue,United States,New York,10009,East
+NULL,16450,314 Melby Point,United States,Florida,32216,South
+NULL,16465,4386 Vernon Circle,United States,California,27604,West
+NULL,16480,2 Stoughton Hill,United States,New York,2038,East
+NULL,16495,1778 Melby Street,United States,New York,10009,East
+NULL,16510,560 Redwing Drive,United States,California,94110,West
+NULL,16525,80 Sycamore Terrace,United States,California,8861,West
+NULL,16540,453 Canary Street,United States,California,77041,West
+NULL,16555,2 Lakeland Place,United States,Colorado,27405,West
+NULL,16570,30315 Carioca Street,United States,Tennessee,37042,South
+NULL,16585,41 Badeau Junction,United States,Nebraska,1852,Central
+NULL,16600,205 Westerfield Crossing,United States,Texas,47201,Central
+NULL,16630,57 Kensington Trail,United States,Texas,20735,Central
+NULL,16645,6 Sheridan Terrace,United States,Illinois,19711,Central
+NULL,16675,7034 Spohn Terrace,United States,Washington,32303,West
+NULL,16690,1 Tennyson Alley,United States,California,90008,West
+NULL,16705,21 Village Crossing,United States,Washington,27604,West
+NULL,16720,618 Hovde Parkway,United States,California,11561,West
+NULL,16735,62092 Dahle Court,United States,Texas,76106,Central
+NULL,16780,55 Knutson Pass,United States,New Jersey,4401,East
+NULL,16795,3182 Gateway Terrace,United States,Illinois,32712,Central
+NULL,16810,0803 Havey Trail,United States,Virginia,19711,South
+NULL,16825,90 Boyd Drive,United States,Florida,32725,South
+NULL,16840,761 Evergreen Place,United States,New York,14609,East
+NULL,16870,74870 Golf Course Court,United States,Colorado,50315,West
+NULL,16885,08571 Schlimgen Crossing,United States,California,33710,West
+NULL,16900,8 Division Junction,United States,Delaware,19901,East
+NULL,16915,39 Forster Crossing,United States,California,33030,West
+NULL,16930,88318 Coleman Alley,United States,Texas,47374,Central
+NULL,16945,85788 Shoshone Trail,United States,Colorado,75220,West
+NULL,16975,558 Novick Trail,United States,California,10035,West
+NULL,16990,86 Rockefeller Way,United States,California,28110,West
+NULL,17020,8505 Fieldstone Hill,United States,Ohio,43229,East
+NULL,17080,118 Sage Crossing,United States,California,94110,West
+NULL,17110,70439 Debra Pass,United States,Illinois,43229,Central
+NULL,17140,154 Summer Ridge Terrace,United States,California,19140,West
+NULL,17155,95 Calypso Plaza,United States,California,49201,West
+NULL,17170,069 Brentwood Trail,United States,California,10035,West
+NULL,17185,3042 Ramsey Lane,United States,Ohio,10011,East
+NULL,17200,09827 Troy Avenue,United States,Illinois,19140,Central
+NULL,17215,695 Claremont Trail,United States,California,10035,West
+NULL,17230,4505 Sundown Pass,United States,Delaware,19901,East
+NULL,17245,1 Arizona Park,United States,Missouri,28540,Central
+NULL,17260,3 Rusk Avenue,United States,Delaware,10801,East
+NULL,17275,311 Ruskin Terrace,United States,Louisiana,10011,South
+NULL,17305,0 Tennyson Drive,United States,Ohio,44312,East
+NULL,17320,0 Kenwood Road,United States,Georgia,22153,South
+NULL,17350,6 Maple Wood Plaza,United States,Arkansas,44312,South
+NULL,17365,1 Carpenter Point,United States,Michigan,33433,Central
+NULL,17380,55 Del Mar Hill,United States,Colorado,10011,West
+NULL,17395,2 Sutteridge Avenue,United States,California,90008,West
+NULL,17410,71589 Fremont Park,United States,Connecticut,6824,East
+NULL,17455,3554 Thompson Pass,United States,North Carolina,19140,South
+NULL,17470,45827 Chive Parkway,United States,New York,10009,East
+NULL,17485,391 Arapahoe Park,United States,Virginia,22204,South
+NULL,17500,5164 Artisan Park,United States,New York,10035,East
+NULL,17515,914 Morning Alley,United States,Pennsylvania,19601,East
+NULL,17530,5 Toban Junction,United States,California,45014,West
+NULL,17545,91 Hallows Trail,United States,Pennsylvania,10024,East
+NULL,17560,954 Artisan Pass,United States,Texas,10024,Central
+NULL,17575,5136 Coleman Circle,United States,Ohio,45231,East
+NULL,17590,3 Jackson Terrace,United States,New Jersey,8861,East
+NULL,17605,262 Cardinal Circle,United States,Michigan,48234,Central
+NULL,17620,5675 Holy Cross Drive,United States,California,92105,West
+NULL,17635,4 Crownhardt Parkway,United States,California,62521,West
+NULL,17650,10 Hayes Point,United States,Pennsylvania,19143,East
+NULL,17680,38 Montana Avenue,United States,Pennsylvania,19143,East
+NULL,17695,308 Brickson Park Crossing,United States,New York,14215,East
+NULL,17710,8 Mosinee Road,United States,Arizona,48205,West
+NULL,17725,357 Mcbride Road,United States,Colorado,19711,West
+NULL,17740,544 Superior Pass,United States,Ohio,43130,East
+NULL,17755,63271 Old Shore Crossing,United States,Virginia,23434,South
+NULL,17770,809 Paget Point,United States,New York,10035,East
+NULL,17785,47372 Blue Bill Park Park,United States,California,10035,West
+NULL,17800,866 Scofield Trail,United States,New York,10009,East
+NULL,17815,2 Canary Street,United States,Mississippi,39212,South
+NULL,17830,4224 Harbort Drive,United States,Texas,14609,Central
+NULL,17845,61 Melby Crossing,United States,Mississippi,10035,South
+NULL,17860,88 Morrow Hill,United States,Indiana,28806,Central
+NULL,17875,6 Mcguire Trail,United States,New York,10011,East
+NULL,17890,6330 Milwaukee Park,United States,Maryland,20735,East
+NULL,17905,4175 Mallard Hill,United States,Connecticut,6040,East
+NULL,17920,15 Barby Drive,United States,California,19120,West
+NULL,17935,659 Fairfield Crossing,United States,Texas,20735,Central
+NULL,17965,82961 Rieder Plaza,United States,Massachusetts,1841,East
+NULL,17980,6 Dovetail Trail,United States,Texas,10009,Central
+NULL,17995,729 Buell Street,United States,New York,13601,East
+NULL,18025,61783 Arapahoe Court,United States,Washington,14215,West
+NULL,18055,46734 Fair Oaks Park,United States,Washington,10011,West
+NULL,18070,07 Huxley Alley,United States,California,77041,West
+NULL,18100,0935 Valley Edge Trail,United States,Texas,19140,Central
+NULL,18115,826 Merchant Hill,United States,Pennsylvania,19013,East
+NULL,18130,006 Tennyson Point,United States,Louisiana,19711,South
+NULL,18145,693 Pond Court,United States,Pennsylvania,19134,East
+NULL,18160,98 Burrows Plaza,United States,Florida,23602,South
+NULL,18175,9 Golden Leaf Point,United States,California,10009,West
+NULL,18235,0166 Old Gate Point,United States,Virginia,23464,South
+NULL,18280,2 Darwin Center,United States,Georgia,10035,South
+NULL,18295,084 Rowland Drive,United States,Texas,21215,Central
+NULL,18310,741 Del Mar Street,United States,California,90045,West
+NULL,18325,23 Union Center,United States,Virginia,10024,South
+NULL,18340,0864 Longview Crossing,United States,Michigan,10035,Central
+NULL,18355,60 Glacier Hill Pass,United States,New York,10011,East
+NULL,18370,23 Mallard Pass,United States,Kentucky,10035,South
+NULL,18385,60 Lerdahl Lane,United States,Mississippi,39212,South
+NULL,18400,10 Bonner Way,United States,Oregon,19120,West
+NULL,18415,26 Warrior Way,United States,North Carolina,10701,South
+NULL,18430,4 Sycamore Trail,United States,Ohio,45231,East
+NULL,18445,00 Hanson Drive,United States,New York,10024,East
+NULL,18460,732 Butternut Park,United States,Georgia,23320,South
+NULL,18490,675 Lindbergh Terrace,United States,Washington,32725,West
+NULL,18505,242 Hazelcrest Drive,United States,Texas,75217,Central
+NULL,18520,1113 Schurz Pass,United States,Washington,6040,West
+NULL,18565,392 Gulseth Parkway,United States,Ohio,43229,East
+NULL,18595,421 Everett Court,United States,New York,10009,East
+NULL,18610,9 Talisman Way,United States,California,30076,West
+NULL,18625,921 International Road,United States,Colorado,77095,West
+NULL,18640,5 Coleman Trail,United States,Illinois,60610,Central
+NULL,18685,98 Anthes Pass,United States,New York,14304,East
+NULL,18700,7 Amoth Place,United States,California,93727,West
+NULL,18715,09510 Haas Way,United States,Minnesota,55122,Central
+NULL,18730,093 Summerview Park,United States,California,90045,West
+NULL,18745,455 Artisan Parkway,United States,California,13601,West
+NULL,18775,7518 Eggendart Place,United States,New York,10009,East
+NULL,18820,3900 Canary Center,United States,California,10009,West
+NULL,18835,1 Monterey Lane,United States,New York,10035,East
+NULL,18850,913 Commercial Road,United States,Pennsylvania,19143,East
+NULL,18865,1182 Nevada Junction,United States,Michigan,10009,Central
+NULL,18895,8316 Stone Corner Street,United States,Minnesota,7960,Central
+NULL,18910,4970 Chive Plaza,United States,Pennsylvania,19143,East
+NULL,18925,366 Sachtjen Circle,United States,Illinois,19140,Central
+NULL,18955,6 Sunfield Pass,United States,Georgia,30080,South
+NULL,18970,18 Atwood Avenue,United States,Kentucky,42420,South
+NULL,18985,41741 Tennessee Point,United States,California,53209,West
+NULL,19015,44509 Goodland Hill,United States,California,36608,West
+NULL,19045,4071 Northwestern Alley,United States,North Carolina,4240,South
+NULL,19060,619 Leroy Circle,United States,Indiana,47374,Central
+NULL,19075,8996 Steensland Point,United States,Wisconsin,19711,Central
+NULL,19120,13 Eagan Court,United States,Arizona,40475,West
+NULL,19150,5 Columbus Pass,United States,California,85023,West
+NULL,19165,9 Caliangt Lane,United States,Illinois,61701,Central
+NULL,19180,49708 Tennessee Pass,United States,Illinois,10011,Central
+NULL,19195,3 Red Cloud Way,United States,Illinois,7002,Central
+NULL,19225,43 Pankratz Pass,United States,California,90032,West
+NULL,19240,18767 Kim Center,United States,Colorado,19140,West
+NULL,19255,37 Haas Court,United States,Minnesota,5408,Central
+NULL,19285,0 Golf View Circle,United States,New York,10024,East
+NULL,19315,95771 Stoughton Trail,United States,California,60505,West
+NULL,19330,968 Eagan Crossing,United States,Pennsylvania,19143,East
+NULL,19345,3819 Sauthoff Road,United States,New Hampshire,3820,East
+NULL,19360,3 Dennis Lane,United States,New York,13021,East
+NULL,19375,082 Butterfield Center,United States,Texas,6450,Central
+NULL,19390,04500 Ludington Trail,United States,Ohio,21215,East
+NULL,19435,4717 5th Place,United States,Missouri,63116,Central
+NULL,19450,8818 Old Shore Alley,United States,New York,13021,East
+NULL,19465,288 Golf Park,United States,Illinois,60610,Central
+NULL,19480,3 Pennsylvania Junction,United States,Washington,46544,West
+NULL,19495,3644 Lake View Point,United States,Minnesota,10009,Central
+NULL,19510,8886 Mcbride Trail,United States,Rhode Island,2908,East
+NULL,19525,0877 Bonner Park,United States,Massachusetts,1852,East
+NULL,19540,8 Summer Ridge Lane,United States,Arizona,48234,West
+NULL,19570,52553 Brickson Park Crossing,United States,Indiana,28540,Central
+NULL,19585,3040 Pond Parkway,United States,Kentucky,42420,South
+NULL,19600,0593 Ludington Point,United States,Alabama,35810,South
+NULL,19615,8 Messerschmidt Center,United States,Alabama,28314,South
+NULL,19630,2583 Roth Parkway,United States,Texas,10035,Central
+NULL,19645,8075 Pepper Wood Pass,United States,Nevada,38109,West
+NULL,19675,93023 Randy Way,United States,Louisiana,10011,South
+NULL,19690,1621 Chive Place,United States,North Carolina,19134,South
+NULL,19705,72445 Roxbury Avenue,United States,Oregon,10009,West
+NULL,19720,98 Clarendon Lane,United States,Florida,10024,South
+NULL,19735,92245 Cherokee Junction,United States,Michigan,29203,Central
+NULL,19765,61171 Hazelcrest Park,United States,New York,10550,East
+NULL,19780,491 Hintze Hill,United States,Tennessee,37042,South
+NULL,19795,4078 Prentice Road,United States,North Carolina,19120,South
+NULL,19810,854 Ilene Terrace,United States,California,14609,West
+NULL,19825,3 Twin Pines Hill,United States,Illinois,6824,Central
+NULL,19840,58 Forster Point,United States,New York,10024,East
+NULL,19855,27 Rieder Court,United States,Wisconsin,32712,Central
+NULL,19885,35805 Corry Plaza,United States,California,31907,West
+NULL,19900,6 Hallows Trail,United States,Oregon,92037,West
+NULL,19915,7330 Elmside Circle,United States,Texas,10011,Central
+NULL,19945,64277 Duke Terrace,United States,California,33178,West
+NULL,19960,990 Esch Street,United States,Ohio,43229,East
+NULL,19975,2589 Boyd Alley,United States,California,10011,West
+NULL,19990,9 Hooker Way,United States,Connecticut,6824,East
+NULL,20035,72 Barnett Lane,United States,California,10011,West
+NULL,20050,8 Utah Junction,United States,Texas,42420,Central
+NULL,20080,2326 Anzinger Pass,United States,Missouri,64055,Central
+NULL,20095,965 Mendota Pass,United States,California,33063,West
+NULL,20110,879 Ryan Parkway,United States,New York,10009,East
+NULL,20125,16 Sutherland Junction,United States,New Jersey,8901,East
+NULL,20140,52146 Muir Alley,United States,Rhode Island,2886,East
+NULL,20155,277 Nevada Crossing,United States,Texas,27707,Central
+NULL,20200,0703 Bobwhite Junction,United States,Pennsylvania,19143,East
+NULL,20215,47381 Gina Place,United States,Texas,62301,Central
+NULL,20245,703 Macpherson Terrace,United States,Pennsylvania,19140,East
+NULL,20275,42 Helena Trail,United States,Mississippi,39212,South
+NULL,20290,4 Sycamore Pass,United States,Texas,19134,Central
+NULL,20320,85408 Armistice Hill,United States,Indiana,32216,Central
+NULL,20335,59 Cardinal Drive,United States,Florida,11550,South
+NULL,20350,61193 Lighthouse Bay Circle,United States,Michigan,48227,Central
+NULL,20365,01 Straubel Trail,United States,Delaware,19901,East
+NULL,20380,12296 Ludington Center,United States,Washington,30318,West
+NULL,20395,14903 Dayton Way,United States,Virginia,10024,South
+NULL,20440,092 Caliangt Trail,United States,Colorado,17602,West
+NULL,20470,73156 Sherman Way,United States,New York,10011,East
+NULL,20485,8 Aberg Crossing,United States,New York,7050,East
+NULL,20500,66553 Straubel Park,United States,Texas,6824,Central
+NULL,20530,89818 Paget Park,United States,Ohio,10035,East
+NULL,20545,885 Fairfield Hill,United States,New York,10011,East
+NULL,20560,80 Katie Junction,United States,California,60653,West
+NULL,20575,148 Alpine Crossing,United States,Indiana,46544,Central
+NULL,20590,56 Toban Trail,United States,Wisconsin,53711,Central
+NULL,20620,152 Vera Lane,United States,Pennsylvania,10011,East
+NULL,20650,736 Warbler Crossing,United States,California,28403,West
+NULL,20680,611 Merrick Terrace,United States,Georgia,31907,South
+NULL,20710,72 Melody Crossing,United States,Texas,39212,Central
+NULL,20725,68358 Summit Pass,United States,Delaware,10024,East
+NULL,20740,380 Portage Crossing,United States,New York,10024,East
+NULL,20770,9943 Graedel Road,United States,Alabama,35601,South
+NULL,20785,663 Michigan Crossing,United States,Colorado,19140,West
+NULL,20800,85 Hallows Street,United States,Texas,39212,Central
+NULL,20830,5580 Rigney Drive,United States,Virginia,23223,South
+NULL,20860,4 Logan Park,United States,Pennsylvania,19143,East
+NULL,20875,8226 Pierstorff Alley,United States,Texas,75220,Central
+NULL,20935,87 Brickson Park Street,United States,New York,10009,East
+NULL,20950,48 Green Ridge Hill,United States,North Carolina,10011,South
+NULL,20965,146 Surrey Place,United States,Michigan,19805,Central
+NULL,20980,62 Tomscot Crossing,United States,Washington,77041,West
+NULL,20995,49 Rusk Point,United States,Texas,19120,Central
+NULL,21010,8643 Nelson Center,United States,Utah,60098,West
+NULL,21040,9 Reindahl Drive,United States,Arizona,85023,West
+NULL,21055,80709 Johnson Street,United States,New York,2169,East
+NULL,21070,87938 Cottonwood Parkway,United States,California,23320,West
+NULL,21085,05981 Menomonie Court,United States,Arizona,32174,West
+NULL,21100,42 Anniversary Court,United States,California,90045,West
+NULL,21130,41 Mitchell Parkway,United States,Michigan,30080,Central
+NULL,21160,9 Shelley Pass,United States,Ohio,17403,East
+NULL,21175,36 Riverside Circle,United States,Texas,10035,Central
+NULL,21205,5 Center Avenue,United States,New Jersey,7601,East
+NULL,21220,9 Bultman Pass,United States,Texas,10035,Central
+NULL,21235,4 Waxwing Park,United States,Texas,10024,Central
+NULL,21250,52 Rockefeller Park,United States,New York,10024,East
+NULL,21265,68082 Crowley Place,United States,California,10024,West
+NULL,21280,050 Kennedy Road,United States,District of Columbia,10024,East
+NULL,21295,61812 Homewood Crossing,United States,California,10035,West
+NULL,21325,54255 Mockingbird Terrace,United States,New Jersey,7109,East
+NULL,21340,40233 Scoville Place,United States,New York,10024,East
+NULL,21355,0 Kipling Terrace,United States,New York,7060,East
+NULL,21370,534 Susan Hill,United States,New York,10035,East
+NULL,21400,216 Buena Vista Terrace,United States,Washington,22304,West
+NULL,21415,68 Sutherland Junction,United States,Texas,75081,Central
+NULL,21460,54 Meadow Vale Alley,United States,Illinois,60505,Central
+NULL,21475,42 Susan Lane,United States,Georgia,20016,South
+NULL,21505,89 Farwell Alley,United States,Tennessee,38401,South
+NULL,21520,0 Reinke Road,United States,Pennsylvania,3301,East
+NULL,21535,5 Pankratz Road,United States,New York,10024,East
+NULL,21550,0 Dawn Place,United States,Michigan,2149,Central
+NULL,21610,11 Mitchell Drive,United States,Arizona,10024,West
+NULL,21625,9468 4th Circle,United States,Texas,75051,Central
+NULL,21670,4796 Morrow Center,United States,Tennessee,10011,South
+NULL,21685,26671 Eastlawn Road,United States,New Jersey,7090,East
+NULL,21715,85 Dovetail Crossing,United States,California,90045,West
+NULL,21745,25456 Forest Run Point,United States,Georgia,31907,South
+NULL,21775,302 Carioca Parkway,United States,Ohio,44256,East
+NULL,21805,046 Bultman Hill,United States,Virginia,19140,South
+NULL,21835,2732 Warbler Park,United States,Delaware,19711,East
+NULL,21850,1 Dahle Circle,United States,Pennsylvania,10011,East
+NULL,21865,874 Esch Circle,United States,California,2149,West
+NULL,21880,3 Sundown Street,United States,North Carolina,27217,South
+NULL,21895,3 Quincy Drive,United States,California,19711,West
+NULL,21910,51 Becker Alley,United States,Oregon,33142,West
