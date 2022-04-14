@@ -92,62 +92,62 @@ CREATE TABLE IF NOT EXISTS payment_details (
 ) ENGINE = InnoDB;
 
 ALTER TABLE products
-	ADD FOREIGN KEY (category_id)
+	ADD CONSTRAINT fk_products_category
+    FOREIGN KEY (category_id)
     REFERENCES categories(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE products
-	ADD FOREIGN KEY (sub_category_id)
+	ADD CONSTRAINT fk_products_sub_category
+    FOREIGN KEY (sub_category_id)
     REFERENCES sub_categories(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE products
-	ADD FOREIGN KEY (discount_id)
+	ADD CONSTRAINT fk_products_discounts 
+    FOREIGN KEY (discount_id)
     REFERENCES discounts(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE user_payment
-	ADD FOREIGN KEY (user_id)
+	ADD CONSTRAINT fk_user_payment_user 
+    FOREIGN KEY (user_id)
     REFERENCES user(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE user_addresses
-	ADD FOREIGN KEY (user_id)
+	ADD CONSTRAINT fk_user_addresses_user
+    FOREIGN KEY (user_id)
     REFERENCES user(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE order_product
-	ADD FOREIGN KEY (order_id)
+	ADD CONSTRAINT fk_order_product_order_details
+    FOREIGN KEY (order_id)
     REFERENCES order_details(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE order_product
-	ADD FOREIGN KEY (product_id)
+	ADD CONSTRAINT fk_order_product_products
+    FOREIGN KEY (product_id)
     REFERENCES products(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE order_details
-	ADD FOREIGN KEY (user_id)
+	ADD CONSTRAINT fk_order_details_user
+    FOREIGN KEY (user_id)
     REFERENCES user(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE order_details
-	ADD FOREIGN KEY (shipping_id)
+	ADD CONSTRAINT fk_order_details_shipment
+    FOREIGN KEY (shipping_id)
     REFERENCES shipment_details(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
 ALTER TABLE order_details
-	ADD FOREIGN KEY (payment_id)
+	ADD CONSTRAINT fk_order_details_payment
+    FOREIGN KEY (payment_id)
     REFERENCES payment_details(id)
-    ON DELETE CASCADE
     ON UPDATE CASCADE;
     
