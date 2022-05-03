@@ -7,7 +7,7 @@ USE online_store;
 DROP FUNCTION IF EXISTS sales_of_the_day;
 
 DELIMITER $$
-CREATE FUNCTION sales_of_the_day(fecha_elegida DATE)
+CREATE FUNCTION ft_sales_of_the_day(fecha_elegida DATE)
 RETURNS FLOAT(8,2)
 READS SQL DATA
 BEGIN
@@ -24,7 +24,7 @@ SELECT sales_of_the_day('2017-12-16');
 -- Funcion que te dice si el envio fue entregado o no con el id de la orden(evito un join):
 
 DELIMITER $$
-CREATE FUNCTION delivery_status(order_id INT)
+CREATE FUNCTION ft_delivery_status(order_id INT)
 RETURNS VARCHAR(50)
 READS SQL DATA
 BEGIN

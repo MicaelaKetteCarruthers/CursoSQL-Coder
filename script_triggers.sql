@@ -32,7 +32,7 @@ BEGIN
             OLD.id,
             OLD.product_name,
             'DELETE',
-            CONCAT('sub category id: ', OLD.category_id, ', price: ', OLD.price, ', cost: ', OLD.cost),
+            CONCAT('sub category id: ', OLD.sub_category_id, ', price: ', OLD.price, ', cost: ', OLD.cost),
             CURDATE(),
             CURTIME(),
             USER()
@@ -55,7 +55,7 @@ BEGIN
             NEW.id,
             NEW.product_name,
             'INSERT',
-            CONCAT('sub category id: ', NEW.category_id, ', price: ', NEW.price, ', cost: ', NEW.cost),
+            CONCAT('sub category id: ', NEW.sub_category_id, ', price: ', NEW.price, ', cost: ', NEW.cost),
             CURDATE(),
             CURTIME(),
             USER()
@@ -78,7 +78,7 @@ SELECT * FROM log_products;
 -- --------------------------------------------------------------------------------------------------------------------------------
 
 /*La segunda tabla LOG va a ser para la tabla discounts, va a registrar las actualizaciones que se le hagan a dicha tabla.
-Esta tabla va a tener su id, la descripción de la actualización los cambios antes y después del cambio, el día, la fecha y el usuario que lo realizó*/
+Esta tabla va a tener su id, la descripción de la actualización, los cambios antes y después del cambio, el día, la fecha y el usuario que lo realizó*/
 
 CREATE TABLE IF NOT EXISTS log_discounts (
 	log_id INT AUTO_INCREMENT PRIMARY KEY,
@@ -137,8 +137,8 @@ WHERE id = 5;
 SELECT * FROM log_discounts;
 
 
--- El segundo trigger es de after update, se va a asegurar que el cambio que se realize sea en el porcentaje o en el campo activo, ya que si se genera
--- él cambio en algún otro campo no va a ser de interés. Luego va a guardar tanto los datos viejos como los nuevos en la tabla log.
+-- El segundo trigger es de after update, se va a asegurar que el cambio que se realice sea en el porcentaje o en el campo activo, ya que si se genera
+-- el cambio en algún otro campo no va a ser de interés. Luego va a guardar tanto los datos viejos como los nuevos en la tabla log.
 
 DROP TRIGGER IF EXISTS tr_after_update_discounts;
 

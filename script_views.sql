@@ -4,7 +4,7 @@ USE online_store;
 
 -- Cantidad de ordenes y ventas por estado:
 
-CREATE OR REPLACE VIEW sales_by_state_vw
+CREATE OR REPLACE VIEW vw_sales_by_state
 AS (
 	SELECT s.state, 
 			COUNT(o.id) AS orders_quantity, 
@@ -19,7 +19,7 @@ AS (
     
 -- Cantidad de ordenes y ventas por usuario:
 
-CREATE OR REPLACE VIEW sales_by_user_vw
+CREATE OR REPLACE VIEW vw_sales_by_user
 AS	
 (SELECT CONCAT(u.first_name, ' ', u.last_name) AS user_name, 
 		u.email AS user_email, 
@@ -36,7 +36,7 @@ ORDER BY total_sold DESC, orders_quantity DESC);
 
 --  Productos más vendidos:
 
-CREATE OR REPLACE VIEW products_sale_vw
+CREATE OR REPLACE VIEW vw_products_sale
 AS 
 	(SELECT p.product_name AS product_name, 
 			s.sub_category_name AS sub_category,
@@ -51,7 +51,7 @@ AS
 
 -- Top 10 provedores de tarjetas de credito más utilizados:
 
-CREATE OR REPLACE VIEW credit_card_provider_top_vw
+CREATE OR REPLACE VIEW vw_credit_card_provider_top
 AS 
 	(SELECT provider, 
 			COUNT(*) AS amount_used, 
@@ -64,7 +64,7 @@ AS
 
 -- Órdenes hechas en 2017 que fueron pagadas en cuotas:
 
-CREATE OR REPLACE VIEW installement_orders_2017_vw
+CREATE OR REPLACE VIEW vw_installement_orders_2017
 AS
 	(SELECT o.order_date AS order_date,
 			CONCAT(u.first_name, ' ', u.last_name) AS user_name,
