@@ -12,7 +12,7 @@ AS (
 			SUM(o.total) AS total_sold
 	FROM order_details o
 		LEFT JOIN shipment_details s
-		ON o.shipping_id = s.id
+		ON o.id = s.order_id
 	GROUP BY s.state
 	ORDER BY orders_quantity DESC, total_sold DESC);
     
@@ -72,7 +72,7 @@ AS
 			p.payment_installements
 	FROM order_details o
 		LEFT JOIN user u ON o.user_id = u.id
-		LEFT JOIN payment_details p ON o.payment_id = p.id
+		LEFT JOIN payment_details p ON o.id = p.order_id
 	WHERE 	o.order_date >= '2017-01-01' 
 			AND p.payment_installements > 1 
 	ORDER BY order_date);

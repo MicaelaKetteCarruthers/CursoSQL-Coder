@@ -20,7 +20,8 @@ CREATE TABLE IF NOT EXISTS products (
     category_id SMALLINT,
     sub_category_id SMALLINT,
     price FLOAT(8,2) NOT NULL,
-    discount_id SMALLINT 
+    discount_id SMALLINT,
+    cost FLOAT(8,2) NOT NULL 
 ) ENGINE = InnoDB;
 
 CREATE TABLE IF NOT EXISTS discounts (
@@ -69,13 +70,12 @@ CREATE TABLE IF NOT EXISTS order_details (
 	id INT PRIMARY KEY,
     user_id INT NOT NULL,
     order_date DATE NOT NULL,
-    total FLOAT(8,2) NOT NULL,
-    shipping_id SMALLINT NOT NULL,
-    payment_id SMALLINT NOT NULL
+    total FLOAT(8,2) NOT NULL
 ) ENGINE = InnoDB;
 
 CREATE TABLE IF NOT EXISTS shipment_details (
 	id SMALLINT AUTO_INCREMENT PRIMARY KEY,
+    order_id INT NOT NULL,
     ship_date DATE,
     ship_mode VARCHAR(20) NOT NULL,
     postal_code INT NOT NULL,
@@ -85,10 +85,11 @@ CREATE TABLE IF NOT EXISTS shipment_details (
 ) ENGINE = InnoDB;
 
 CREATE TABLE IF NOT EXISTS payment_details (
-	id SMALLINT PRIMARY KEY,
+	id SMALLINT AUTO_INCREMENT PRIMARY KEY,
+    order_id INT NOT NULL,
     amount FLOAT(8,2)NOT NULL,
     provider VARCHAR(30) NOT NULL,
-    payment_istallements SMALLINT NOT NULL
+    payment_installements SMALLINT NOT NULL
 ) ENGINE = InnoDB;
 
 ALTER TABLE products
@@ -139,15 +140,15 @@ ALTER TABLE order_details
     REFERENCES user(id)
     ON UPDATE CASCADE;
     
-ALTER TABLE order_details
-	ADD CONSTRAINT fk_order_details_shipment
-    FOREIGN KEY (shipping_id)
-    REFERENCES shipment_details(id)
+ALTER TABLE shipment_details
+	ADD CONSTRAINT fk_shipment_order_details
+    FOREIGN KEY (order_id)
+    REFERENCES order_details(id)
     ON UPDATE CASCADE;
     
-ALTER TABLE order_details
-	ADD CONSTRAINT fk_order_details_payment
-    FOREIGN KEY (payment_id)
-    REFERENCES payment_details(id)
+ALTER TABLE payment_details
+	ADD CONSTRAINT fk_payment_order_details
+    FOREIGN KEY (order_id)
+    REFERENCES order_details(id)
     ON UPDATE CASCADE;
     
