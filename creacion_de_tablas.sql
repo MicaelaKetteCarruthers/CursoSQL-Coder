@@ -19,15 +19,15 @@ CREATE TABLE IF NOT EXISTS products (
     product_name TEXT NOT NULL,
     category_id SMALLINT,
     sub_category_id SMALLINT,
-    price FLOAT(8,2) NOT NULL,
+    price DEC(8,2) NOT NULL,
     discount_id SMALLINT,
-    cost FLOAT(8,2) NOT NULL 
+    cost DEC(8,2) NOT NULL 
 ) ENGINE = InnoDB;
 
 CREATE TABLE IF NOT EXISTS discounts (
 	id SMALLINT AUTO_INCREMENT PRIMARY KEY,
     discount_name VARCHAR(15),
-    discount_percent FLOAT(3,2) NOT NULL,
+    discount_percent DEC(3,2) NOT NULL,
     active BOOLEAN NOT NULL
 ) ENGINE = InnoDB;
 
@@ -70,7 +70,7 @@ CREATE TABLE IF NOT EXISTS order_details (
 	id INT PRIMARY KEY,
     user_id INT NOT NULL,
     order_date DATE NOT NULL,
-    total FLOAT(8,2) NOT NULL
+    total DEC(8,2) NOT NULL
 ) ENGINE = InnoDB;
 
 CREATE TABLE IF NOT EXISTS shipment_details (
@@ -80,14 +80,14 @@ CREATE TABLE IF NOT EXISTS shipment_details (
     ship_mode VARCHAR(20) NOT NULL,
     postal_code INT NOT NULL,
     state VARCHAR(20) NOT NULL,
-    shipping_cost FLOAT(4,2) NOT NULL,
+    shipping_cost DEC(4,2) NOT NULL,
     delivery_status BOOLEAN
 ) ENGINE = InnoDB;
 
 CREATE TABLE IF NOT EXISTS payment_details (
 	id SMALLINT AUTO_INCREMENT PRIMARY KEY,
     order_id INT NOT NULL,
-    amount FLOAT(8,2)NOT NULL,
+    amount DEC(8,2)NOT NULL,
     provider VARCHAR(30) NOT NULL,
     payment_installements SMALLINT NOT NULL
 ) ENGINE = InnoDB;
