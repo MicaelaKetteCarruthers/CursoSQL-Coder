@@ -8,7 +8,7 @@ DROP FUNCTION IF EXISTS sales_of_the_day;
 
 DELIMITER $$
 CREATE FUNCTION ft_sales_of_the_day(fecha_elegida DATE)
-RETURNS FLOAT(8,2)
+RETURNS DEC(8,2)
 READS SQL DATA
 BEGIN
 	-- hago un select con la sumatoria del total vendido de la tabla order_details en la fecha que se pasa como parámetro
@@ -18,7 +18,7 @@ BEGIN
 END
 $$
 
-SELECT sales_of_the_day('2017-12-16');
+SELECT ft_sales_of_the_day('2017-12-16');
 
 
 -- Funcion que te dice si el envio fue entregado o no con el id de la orden(evito un join):
@@ -47,4 +47,4 @@ BEGIN
 END
 $$
 
-SELECT delivery_status(100006);
+SELECT ft_delivery_status(100006);

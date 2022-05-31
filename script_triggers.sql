@@ -174,6 +174,9 @@ VALUES (NULL, 'Discount Pepito', 0.05, 0);
 
 UPDATE discounts
 SET active = 1
-WHERE id = 7;
+WHERE discount_name = 'Discount Pepito';
 
 SELECT * FROM log_discounts;
+
+DELETE FROM discounts
+WHERE discount_name = 'Discount Pepito';

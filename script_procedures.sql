@@ -45,7 +45,7 @@ CALL sp_order_order_details('','');
 DROP PROCEDURE IF EXISTS sp_insert_in_discounts;
 
 DELIMITER $$
-CREATE PROCEDURE sp_insert_in_discounts(IN discount_name VARCHAR(15), IN discount_percent FLOAT(3,2))
+CREATE PROCEDURE sp_insert_in_discounts(IN discount_name VARCHAR(15), IN discount_percent DEC(3,2))
 BEGIN
 	-- Primero guardo los parametros en variables
     SET @name = discount_name;
